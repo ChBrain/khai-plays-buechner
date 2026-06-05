@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One of the things a man can buy cheap off a pedlar's tray when he has almost
-nothing and one use in mind.
+Das billige Eisen. Ein Griff in den Kramladen für einen Mann, der fast nichts hat und nur noch einen einzigen Zweck kennt.
 
 ## Owner
 
@@ -21,24 +20,16 @@ nothing and one use in mind.
 
 ## Place
 
-Bought in [the garrison town](place_the_garrison_town.md) and carried in Woyzeck's
-coat out to [the pond](place_the_pond.md), where it goes into the water. It
-travels with the man until the man lets it go.
+Gekauft drunten in [der Garnisonsstadt](place_the_garrison_town.md). Versteckt im Mantel. Getragen bis an [den Teich](place_the_pond.md). Es wandert eng am Körper des Mannes, bis der Mann es tief ins Wasser wirft.
 
 ## Load Bearing
 
-Take it away and the killing has no instrument and the run has no end. Of
-everything in the production this is the piece that carries the most: the whole
-unpaid weight of the stakes comes down through it when it moves.
+Nimm es weg, und der Mord hat kein Instrument. Ohne dieses Eisen läuft der Prozess ins Leere und hat kein Ende. Von allen Dingen in dieser Welt trägt dieses Stück die größte Last. Das gesamte unbezahlte Gewicht des Systems entlädt sich durch diese Klinge, sobald sie sich bewegt.
 
 ## Apparent
 
-A cheap blade with a rough wooden handle, plain and new, the kind sold for less
-than a pistol.
+Eine glatte Klinge. Ein rauer Griff aus Holz. Schmucklos und scharf. Ein Werkzeug, das weniger kostet als eine kleine Pistole.
 
 ## Yearbook
 
-Sold off a pedlar's tray to a poor man who weighed the price against a pistol's and
-chose this. Carried hidden for days while the voices argued for it. Taken to the
-water and used once, then flung out into the pond, where the fragments leave
-Woyzeck wading back in after it.
+Vom Krämer an einen armen Mann verkauft, der das Geld für eine Pistole nicht aufbringen konnte. Tagelang im dunklen Stoff versteckt, während die Stimmen lauter wurden. Ein einziges Mal am Ufer benutzt. Dann mit voller Kraft weit hinaus in den Teich geschleudert.

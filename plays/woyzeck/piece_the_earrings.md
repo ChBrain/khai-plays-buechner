@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One of a woman's few ornaments, the small bright things a poor household never
-comes by honestly.
+Der Schmuck. Das fremde Gold, das ein armes Haus niemals ehrlich erreicht.
 
 ## Owner
 
@@ -21,22 +20,16 @@ comes by honestly.
 
 ## Place
 
-They live in [Marie's room](place_maries_room.md): hidden in the drawer when
-Woyzeck is there, taken out and turned to the window light when he is not.
+Sie ruhen in [Maries Zimmer](place_maries_room.md). Versteckt in der dunklen Schublade, wenn der Soldat da ist. Gehalten im hellen Licht am Fenster, wenn er zur Tür hinausgeht.
 
 ## Load Bearing
 
-Take them away and the betrayal has no body. They are the thing Marie hides and
-Woyzeck finds, the proof a poor woman cannot explain, so without them the question
-that lights the third plot is never asked.
+Ohne dieses Gold hat der Verrat keinen Körper. Nimm sie weg, und die Lüge verliert ihr Gewicht. Sie sind der harte Beweis, den eine arme Frau nicht erklären kann. Ohne sie stellt der Soldat niemals die Frage, die das Ende unabwendbar in Gang setzt.
 
 ## Apparent
 
-A pair of gold earrings that catch the light, plainly worth more than anything
-else in the room.
+Zwei schwere Ohrringe aus purem Gold. Sie fangen das Licht. Sie glänzen hart. Sie sind wertvoller als alles andere in diesem Raum zusammen.
 
 ## Yearbook
 
-Pressed on Marie by the Drum Major early in the affair. Hidden in the drawer, then
-worn at the window when she thinks herself alone. Found there by Woyzeck, who asks
-where a poor woman gets gold, and lies between them, unanswered, until the pond.
+Irgendwann für teures Geld gegossen. Am hellen Nachmittag vom Tambourmajor gekauft und als Preis in die weichen Hände gedrückt. Heimlich am Fenster getragen, solange der Soldat auf der Straße war. Hastig versteckt, als der Schatten in die Tür trat. Sie bleiben als stumme Frage in der Schublade, bis das Wasser alles beendet.

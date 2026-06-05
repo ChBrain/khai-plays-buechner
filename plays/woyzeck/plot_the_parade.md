@@ -12,9 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One movement of the production [Woyzeck](play_woyzeck.md): the middle, where the
-one thing that was still his own is taken, and the taking is made certain enough
-to act on.
+Der zweite Akt der Produktion [Woyzeck](play_woyzeck.md). Die Mitte. Das Einzige, was noch sein Eigentum war, wird ihm hier genommen. Der Diebstahl wird offensichtlich genug, um das unaufhaltsame Ende auszulösen.
 
 ## Owner
 
@@ -22,35 +20,16 @@ to act on.
 
 ## Cue
 
-[Marie's room](place_maries_room.md) in the heat of the afternoon, the window
-open onto the street. A parade has just gone by and the brass is still hanging in
-the air, pomade and dust and the noise of men who are admired. Inside it is close
-and poor, the child asleep, the mirror cracked. This is the room the scene starts
-in, before anyone moves.
+Die drückende Nachmittagshitze steht in [Maries Zimmer](place_maries_room.md). Das Fenster zur Straße steht weit offen. Eine Parade ist gerade vorbeigezogen. Die Militärmusik hängt noch schwer in der Luft. Der Geruch nach Pomade, nach Straßenstaub und nach Männern, die bedingungslos bewundert werden. Drinnen ist es eng und arm. Das Kind schläft. Der Spiegel hat einen Riss. Das ist die Luft in dem Raum, bevor sich überhaupt jemand bewegt.
 
 ## Action
 
-[the seduction](process_the_seduction.md) runs its course: [the Drum Major](persona_the_drum_major.md)
-takes [Marie](persona_marie.md) because the [drum major](position_drum_major.md)
-is everything the [subaltern soldier](position_subaltern_soldier.md) is not,
-loud and whole and unafraid, and she is tired of being poor. Their vectors meet
-in the open. Against that, [Franz Woyzeck](persona_woyzeck.md) comes in from his
-errands to put his wages on the table, and the two trajectories cross: the man
-who pays and the man who is wanted, in the same small room.
+[Die Verführung](process_the_seduction.md) nimmt ihren harten Lauf. [Der Tambourmajor](persona_the_drum_major.md) nimmt sich [Marie](persona_marie.md). Ein [Tambourmajor](position_drum_major.md) ist all das, was ein [gemeiner Soldat](position_subaltern_soldier.md) niemals sein kann. Laut. Ganz. Ohne jede Angst. Und sie hat es satt, arm zu sein. Die Vektoren treffen offen aufeinander. Genau in diesem Moment kommt [Franz Woyzeck](persona_woyzeck.md) von seinem endlosen Dienst. Er will die wenigen Groschen auf den Tisch legen. Die Linien kreuzen sich hart. Der Mann, der bezahlt, und der Mann, der begehrt wird. Beide im selben engen Zimmer.
 
 ## Stage
 
-[Marie](persona_marie.md) sits at the window turning [the earrings](piece_the_earrings.md)
-in the light, a thing too fine for a soldier's woman to have come by honestly.
-[the Drum Major](persona_the_drum_major.md) fills the doorway. The placement says
-it before a word does: she is at the glass admiring what she was given, he is
-across the threshold, and the room is no longer Woyzeck's.
+[Marie](persona_marie.md) sitzt am Fenster. Sie wendet [die Ohrringe](piece_the_earrings.md) im Licht. Ein Ding, viel zu kostbar für die Frau eines einfachen Soldaten. [Der Tambourmajor](persona_the_drum_major.md) füllt den Rahmen der Tür komplett aus. Die Position der Körper verrät alles, bevor das erste Wort fällt. Sie steht am Spiegel und bewundert den Preis, den sie bekommen hat. Er steht breitbeinig auf der Schwelle. Dieser Raum gehört nicht mehr Woyzeck.
 
 ## Tension
 
-[Marie](persona_marie.md) carries the guilt she cannot put down, and she carries
-it in [the earrings](piece_the_earrings.md): she covers them when Woyzeck looks,
-turns the talk to the child and to scripture, tries to be a good woman over the
-top of the proof in her hand. The Action cannot resolve clean because she will
-not say it and he has begun to know it anyway. What is hidden here is what makes
-the third plot inevitable.
+[Marie](persona_marie.md) trägt eine drückende Schuld in sich. Sie hält sie greifbar in Form [der Ohrringe](piece_the_earrings.md) in den Händen. Sie verdeckt das Gold, sobald Woyzeck hinschaut. Sie lenkt das Gespräch fahrig auf das Kind. Sie redet hastig von der Bibel. Sie versucht verzweifelt, ein anständiges Weib zu sein, während der nackte Beweis für den Verrat in ihrer Hand liegt. Die Handlung kann sich nicht sauber auflösen. Sie sagt die Wahrheit nicht. Aber er spürt sie längst. Das eiserne Schweigen in diesem Raum macht den dritten Plot absolut unvermeidlich.

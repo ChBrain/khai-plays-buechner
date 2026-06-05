@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-A court within [the garrison town](place_the_garrison_town.md): the Doctor's
-ground, where the science of the place is practised on its poor.
+Ein Hof mitten in [der Garnisonsstadt](place_the_garrison_town.md). Das Territorium des Doktors. Der Ort, an dem die kalte Wissenschaft an den Armen exekutiert wird.
 
 ## Owner
 
@@ -21,24 +20,18 @@ ground, where the science of the place is practised on its poor.
 
 ## Shown
 
-It presents a cold theatre of method: dark specimen cabinets along the walls, iron
-scales set out on a central table, a rail where students gather, and high windows
-onto a yard. It puts in front of whoever enters a room that has already decided a
-poor man is a case to be read.
+Ein kaltes Theater der reinen Methode. Dunkle Schränke mit Präparaten an den Wänden. Eine eiserne Waage auf dem Tisch in der Mitte. Ein Geländer für die Studenten, die hier zum Beobachten zusammenkommen. Hohe Fenster. Wer diesen Raum betritt, spürt das unumstößliche Gesetz der Architektur. Ein armer Mann ist hier kein Mensch. Er ist ein Fall für die Akten.
 
 ## Holds
 
-- the iron scales and the ledger
-- the examination platform under the rail
-- [the peas](piece_the_peas.md) in their jar
+- die eiserne Waage und das Notizbuch
+- das nackte Untersuchungspodest unter dem Geländer
+- [die Erbsen](piece_the_peas.md) streng abgewogen in ihrem Glas
 
 ## Offers
 
-It offers a poor soldier the platform and a few groschen for standing on it to be
-measured and observed, freely taken and freely paid.
+Bietet dem armen Soldaten das Podest. Ein paar blanke Groschen Lohn für das Stillstehen und das Vermessenwerden. Freiwillig genommen. Freiwillig gezahlt. Das alles gibt es hier im Tausch.
 
 ## Withheld
 
-It withholds dignity, privacy, and the plain recognition of a man: a subject who
-steps onto the platform is seen here as an animal or an instrument, and that sight
-is not given back.
+Verweigert jede Würde. Verweigert die geringste Privatsphäre. Verweigert den menschlichen Blick. Ein Subjekt auf diesem Podest wird hier nur als Tier oder als Instrument gesehen. Der Ort gibt den Status als Mensch niemals zurück.

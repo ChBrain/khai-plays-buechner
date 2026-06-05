@@ -12,9 +12,7 @@ stamp:
 
 ## Taxonomy
 
-The dark water at the edge of [the garrison town](place_the_garrison_town.md):
-the last ground of the production, where the town's order gives out into open
-country.
+Das dunkle Wasser am Rand [der Garnisonsstadt](place_the_garrison_town.md). Der allerletzte Boden dieser Welt. Hier endet die Ordnung der Stadt und fällt ins Nichts.
 
 ## Owner
 
@@ -22,24 +20,18 @@ country.
 
 ## Shown
 
-It presents itself as an antagonist, not a backdrop: black standing water, low
-trees crowded to the bank, freezing marsh mist, and a red moon hung low enough to
-bleed into the surface. It puts cold and dark and an ending in front of whoever
-comes out to it after nightfall.
+Keine bloße Kulisse. Ein stummer Feind. Schwarzes, stehendes Wasser. Niedrige Bäume drängen sich dicht ans Ufer. Kriechender Nebel aus dem Sumpf. Ein roter Mond hängt so tief, dass er in die Oberfläche blutet. Wer nach Einbruch der Nacht hierher kommt, sieht nur die Kälte, das Dunkel und das absolute Ende.
 
 ## Holds
 
-- the reeds at the bank
-- the black water and the mud beneath it
-- the red moon's reflection on the surface
+- das Schilf am Ufer
+- das schwarze Wasser und der tiefe Schlamm darunter
+- das rote Spiegelbild des Mondes auf der Oberfläche
 
 ## Offers
 
-It offers an exit from the town's eyes and an unwatched dark, freely, to anyone
-willing to walk out far enough.
+Bietet einen Ausweg aus den Blicken der Stadt. Eine völlig unbeobachtete Dunkelheit. Das alles gibt es umsonst für jeden, der weit genug nach draußen geht.
 
 ## Withheld
 
-It withholds warmth, light, and a way back alive: the cold and the water release
-nothing, and the place enforces the conclusion onto whoever it draws out to its
-edge at night.
+Verweigert jede Wärme. Verweigert jedes Licht. Verweigert den Weg zurück ins Leben. Die Kälte und das Wasser geben nichts mehr her. Der Ort zwingt jedem, den er nachts an sein Ufer zieht, das unwiderrufliche Ende auf.

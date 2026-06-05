@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One step of the garrison's daily duties: the standing morning service a soldier
-owes an officer.
+Der tägliche Dienst. Die Pflicht in der Garnison.
 
 ## Owner
 
@@ -21,23 +20,16 @@ owes an officer.
 
 ## Initiated by
 
-The morning bell and the Captain's standing order that Woyzeck come and attend to
-him. While the order holds and the man can be summoned, the process cannot fail to
-begin.
+Der Morgen bricht an. Der Befehl steht. Der Soldat tritt in den Raum. Solange [der Hauptmann](persona_the_captain.md) ruft und der Soldat die Groschen braucht, läuft das Ritual an. Es gibt kein Entkommen.
 
 ## Direction
 
-It runs as a fixed loop: the same careful scrape of the blade and the same lecture
-poured over it, repeating morning on morning without going anywhere new.
+Ein geschlossener Kreis. Die Klinge kratzt über die Haut. Die Worte tropfen von oben nach unten. Jeden Morgen exakt dieselbe Bewegung. Sie führt nirgendwohin. Sie zementiert nur die Ordnung.
 
 ## Lever
 
-The force of rank demanding absolute stillness and service meets the hazard of a
-poor man's unsteady hand holding a bared edge to his master's throat. Remove the
-rank and there is no duty; remove the danger and there is no charge in it.
+Der eiserne Zwang des Rangs trifft auf die unruhige Hand eines gehetzten Mannes. Die Macht verlangt absolute Stille. Der Untergebene hält blanken Stahl an die Kehle der Macht. Ohne den Rang ist es nur ein Handwerk. Ohne den scharfen Stahl ist die Demütigung nicht spürbar. Die Gefahr trägt den ganzen Moment.
 
 ## Echo
 
-When it has run, [the Captain](persona_the_captain.md) is groomed and freshly
-confirmed in his superiority, and [Franz Woyzeck](persona_woyzeck.md) is poorer by
-the time it took and reminded once more of exactly what he is worth.
+Der Bart ist ab. [Der Hauptmann](persona_the_captain.md) sitzt glatt und frisch bestätigt in seiner eigenen Tugend im Stuhl. [Franz Woyzeck](persona_woyzeck.md) klappt das Messer zu. Er ist um eine halbe Stunde verbraucht und erinnert sich genau an seinen Platz.

@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-A single rented room within [the garrison town](place_the_garrison_town.md): a
-poor household's whole world, facing the street the parade comes down.
+Ein einziges, gemietetes Zimmer in [der Garnisonsstadt](place_the_garrison_town.md). Die ganze Welt eines armen Haushalts. Das Fenster geht direkt auf die Straße, wo die Parade vorbeizieht.
 
 ## Owner
 
@@ -21,25 +20,19 @@ poor household's whole world, facing the street the parade comes down.
 
 ## Shown
 
-It presents the whole of a poor home at once: a low room, close and hot, one
-window onto the street with the brass of the parade coming through it, a made bed
-and a kept supper holding off the squalor at the edges. It shows whoever enters
-both the care and the poverty, side by side.
+Zeigt die nackte Armut auf den ersten Blick. Ein niedriges Zimmer. Stickig und heiß. Ein einziges Fenster zur Straße. Der laute Marsch der Militärmusik drückt von draußen herein. Ein gemachtes Bett und ein fertiges Essen drängen den Schmutz in die Ecken zurück. Wer hier über die Schwelle tritt, sieht die pure Not und den verzweifelten Versuch, sie wegzuschrubben.
 
 ## Holds
 
-- the child's cradle
-- the cracked mirror Marie combs her hair at
-- the Bible open to the woman taken in adultery
-- [the earrings](piece_the_earrings.md) in the drawer
+- die Wiege für das Kind
+- der gesprungene Spiegel
+- die aufgeschlagene Bibel mit der Sünderin
+- [die Ohrringe](piece_the_earrings.md) tief in der dunklen Schublade
 
 ## Offers
 
-It offers warmth, the window and its parade to watch, and a place to keep house and
-raise the child, all freely.
+Bietet ein bisschen Wärme. Das Fenster und den Blick hinunter auf die Parade. Einen Ort, um das Kind aufzuziehen und die Stube sauber zu halten. Das alles gibt es umsonst.
 
 ## Withheld
 
-It withholds the brightness Marie wants, the escape from being poor, and the
-admired man passing in the street below: these it releases only against her
-loyalty, and never both at once.
+Verweigert den Glanz. Verweigert den Ausweg aus dem ewigen Dreck. Verweigert den starken Mann, der unten auf der Straße vorbeigeht. Der Ort rückt diese Dinge nur heraus, wenn die nackte Treue dafür geopfert wird. Beides zusammen duldet der Raum nicht.

@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One step of what the visions drive toward: the end the whole run has been bending
-to.
+Der letzte Hebel. Das unvermeidliche Ende.
 
 ## Owner
 
@@ -21,23 +20,16 @@ to.
 
 ## Initiated by
 
-The betrayal made certain meeting the voices that have told Woyzeck for nights to
-do it. Once the proof and the command have come together in him, nothing in his
-ruined state can hold the process back.
+Die Stimmen aus der Erde. Immer zu. Der Verrat ist bewiesen. Wenn der Befehl von unten kommt und der Verstand komplett zersetzt ist, rollt der Prozess an. Er kann nicht mehr anhalten. Er gehorcht nur noch.
 
 ## Direction
 
-It runs one way only, with no fork left in it: from the cheap bought blade, to the
-walk out along the bank, to the water.
+Ein einziger, schwarzer Strich nach unten. Kein Zurück. Vom blanken Eisen über den Weg am Ufer direkt ins Wasser. Die absolute Linie ins Nichts.
 
 ## Lever
 
-The force of a command he can no longer resist meets the last thread of the love
-that would still stop him. Take away the command and his hand stays down; take away
-the love and there was never anything for it to overcome.
+Der nackte, hämmernde Wahn drückt gegen den allerletzten Rest Liebe. Ohne die Stimmen im Kopf bleibt die Hand unten. Ohne die Liebe gäbe es keinen Widerstand, der mit Gewalt zerrissen werden muss. Der Druck zerquetscht das Letzte, was er hat.
 
 ## Echo
 
-When it has run, [Marie](persona_marie.md) is dead, [the knife](piece_the_knife.md)
-is out in the pond, and [Franz Woyzeck](persona_woyzeck.md) is emptied of the last
-thing that was his, with nothing the run can take after it.
+[Marie](persona_marie.md) ist tot. Er wirft [das Messer](piece_the_knife.md) tief in den Teich. [Franz Woyzeck](persona_woyzeck.md) ist komplett leer. Alles ist ausgegeben. Das System hat nichts mehr, was es ihm nehmen kann.

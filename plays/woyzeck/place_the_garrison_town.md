@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-A small town of the petty state, given over to its garrison: the region that
-contains the court, the room, and the water at its edge.
+Ein Kleinstaat. Die Region, die den Hof, die Zimmer und das schwarze Wasser am Rand umschließt.
 
 ## Owner
 
@@ -21,23 +20,18 @@ contains the court, the room, and the water at its edge.
 
 ## Shown
 
-It presents a place built for service and for watching: barracks and a parade
-ground, narrow streets that smell of manure and cabbage and cheap tobacco, and a
-bell that cuts the day into duties. It shows whoever enters a town where the poor
-are many and counted, and the few are looked at.
+Ein Ort, gebaut für den Dienst und die strenge Kontrolle. Die Kaserne. Der staubige Paradeplatz. Enge Gassen stinken nach Mist, nach Kohl und nach billigem Tabak. Eine Glocke zerschneidet den Tag in harte Pflichten. Der Ort zeigt jedem sofort das Gesetz: Die Armen sind viele und werden streng gezählt. Die wenigen Herren werden angestarrt.
 
 ## Holds
 
-- the barracks and the parade ground
-- the tavern where the soldiers drink
-- the pedlar's tray that carries [the knife](piece_the_knife.md)
+- die Kaserne und der Paradeplatz
+- das Wirtshaus der Soldaten
+- der Bauchladen des Krämers mit [dem Messer](piece_the_knife.md)
 
 ## Offers
 
-It offers a poor man a place to enlist, to drink, to be one more body among the
-ranks, all freely and at the price only of becoming nobody in particular.
+Bietet dem armen Mann ein Gewehr. Einen Platz an der Theke. Die Möglichkeit, ein stummer Körper in der Masse zu sein. Das alles gibt es völlig umsonst.
 
 ## Withheld
 
-It withholds a wage that lasts the week, a way out, and any privacy or standing
-for the poor: those it releases only upward, to the ranks that already have them.
+Verweigert einen Lohn, der bis zum Sonntag reicht. Verweigert jeden Ausweg. Gibt den Armen keine Privatsphäre und keinen Respekt. Der Ort presst all das nach oben zu den Rängen ab, die ohnehin schon alles haben.
