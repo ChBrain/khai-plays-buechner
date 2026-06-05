@@ -13,8 +13,7 @@ type: fictional
 
 ## Taxonomy
 
-The role he fills is [the regimental doctor](position_regimental_doctor.md): the
-seat that licenses him to keep a man as an experiment.
+[Der Regimentsarzt](position_regimental_doctor.md).
 
 ## Owner
 
@@ -22,27 +21,16 @@ seat that licenses him to keep a man as an experiment.
 
 ## Projection
 
-A precise, dry man who holds [the regimental doctor](position_regimental_doctor.md)
-and administers [the peas](piece_the_peas.md) by the spoon and the ledger. He
-presents himself as pure reason, delighted by his own rigour, a scientist who has
-found in a poor soldier the perfect instrument for proving the will can master the
-body.
+Präzise. Trocken. Besetzt den Posten als [Regimentsarzt](position_regimental_doctor.md) und dosiert [die Erbsen](piece_the_peas.md) streng nach der Waage. Zeigt der Welt die reine Vernunft. Die absolute Methode. Mein Fall. Mein Woyzeck. Ein gefundenes Instrument für die Wissenschaft. Der Wille muss die Natur beherrschen. Ein schöner Aberratio mentalis.
 
 ## Action
 
-He records Woyzeck's pulse and his water, doles out and withholds the groschen to
-keep the diet on course, lectures him on self-command, and notes every symptom
-with the pen of a man collecting results.
+Misst den Puls. Prüft das Wasser. Er hat auf die Straß gepißt wie ein Hund. Zahlt den Groschen aus. Diktiert die Selbstbeherrschung. Führt die Feder über das Papier. Sammelt die Symptome. Behandelt den Mann wie ein Präparat auf dem Tisch.
 
 ## Shadow
 
-Under the reason is a vanity that has staked its own small immortality on owning
-another man's body, and a cruelty he is constitutionally unable to read as
-cruelty because he has named it method. He cannot see that the theory is fed by
-the ruin of the thing it studies.
+Die nackte Eitelkeit unter dem Kittel. Er glaubt an den Fortschritt, aber er will nur seinen eigenen Namen in den Akten lesen. Er ist blind für seine eigene Grausamkeit, weil er ihr das Etikett der Forschung aufgeklebt hat. Er baut seine Unsterblichkeit auf dem Untergang eines anderen auf und hält das für ein Naturgesetz.
 
 ## Tell
 
-His voice climbs and he rubs his hands when Woyzeck shows a new symptom, pleased
-where a doctor should be alarmed. The flash of joy at another man's deterioration
-gives away what the rigour is really in service of.
+Die Stimme klettert plötzlich eine Oktave nach oben. Er reibt sich hastig die Hände, wenn Woyzeck einen neuen Defekt meldet. Ein nervöses, erfreutes Kichern. Die Maske des objektiven Forschers reißt auf. Der nackte Sadismus springt jubelnd durch das Gutachten.

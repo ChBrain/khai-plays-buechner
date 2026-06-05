@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One step of the parade's conquests: the taking that the admired are licensed to do
-and rarely answer for.
+Der pure Zugriff. Das natürliche Recht des Stärkeren.
 
 ## Owner
 
@@ -21,23 +20,16 @@ and rarely answer for.
 
 ## Initiated by
 
-The Drum Major's eye falling on Marie at her window, with the leisure and the
-licence to follow it. Once the admired man has decided he wants her, the pursuit
-is set in motion.
+Der Blick fällt auf das Weibsbild am Fenster. Der Appetit erwacht. Solange der Stolz das Ziel sieht und niemand sich in den Weg stellt, rollt der Angriff an. Der Körper nimmt sich, was er will.
 
 ## Direction
 
-It runs from display to gift to possession: the steady, confident closing of a man
-who is used to wanting being the same as having.
+Ein direkter Vektor nach vorn. Vom Parademarsch zum Geschenk, vom Geschenk in den nackten Besitz. Kein Zögern. Die unaufhaltsame Vorwärtsbewegung eines Mannes, dem noch nie etwas verweigert wurde.
 
 ## Lever
 
-The pull of warmth and a little brightness meets the hold of loyalty and the habit
-of poverty in Marie. Remove the longing and nothing in her gives; remove the
-loyalty and there is no struggle to overcome.
+Die rohe physische Wucht drückt gegen die dünne Moral einer armen Frau. Ohne die glänzende Uniform und das Gold verfehlt die Kraft ihre Wirkung. Ohne den tiefen Hunger der Frau nach einem besseren Leben gibt es keinen Riss in der Wand. Die nackte Armut macht die Treue weich.
 
 ## Echo
 
-When it has run, [Marie](persona_marie.md) has been taken,
-[the earrings](piece_the_earrings.md) are hidden in her drawer, and the household
-carries a lie that cannot be lived around for long.
+Der Raum ist erobert. [Marie](persona_marie.md) ist genommen. [Die Ohrringe](piece_the_earrings.md) blinken als stummes Zeugnis des Verrats in der Schublade. Die alte Ordnung ist geknackt und die Lüge hat sich fest in das Haus gefressen.

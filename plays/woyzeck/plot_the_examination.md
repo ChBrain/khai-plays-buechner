@@ -12,9 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One movement of the production [Woyzeck](play_woyzeck.md): the opening, where the
-man is shown as the property of the men above him before anything is taken from
-him.
+Der erste Akt in der Produktion [Woyzeck](play_woyzeck.md). Der reine Zustand. Bevor ihm der letzte Rest genommen wird, zeigt der Raum, wem dieser Mann gehört.
 
 ## Owner
 
@@ -22,39 +20,16 @@ him.
 
 ## Cue
 
-Morning in [the doctor's court](place_the_doctors_court.md): the scales already
-set out, the smell of carbolic and cold stone, students gathering at the rail to
-watch. The light is flat and clinical, the air of a place that has decided in
-advance what a poor man is for. Nothing has happened yet; this is only the
-weather Woyzeck reports into.
+Früher Morgen in [dem Hof des Doktors](place_the_doctors_court.md). Die eiserne Waage steht schon bereit. Es riecht nach Karbol und kaltem Stein. Die Studenten drängen sich an das Geländer. Das Licht ist flach und gnadenlos. Die Atmosphäre eines Raumes, der längst entschieden hat, was ein armer Mann wert ist. Noch ist kein Wort gefallen. Das ist nur der kalte Druck, in den der Soldat hineinläuft.
 
 ## Action
 
-Two open vectors meet on Woyzeck's body. He sells his time twice over to keep
-Marie and the child: he runs [the shaving](process_the_shaving.md) over
-[the Captain](persona_the_captain.md), who lectures him on virtue while the blade
-is at his throat, and he stands through [the pea diet](process_the_pea_diet.md)
-for [the Doctor](persona_the_doctor.md), who reads him like an instrument. The
-seat that orders all of it is [the subaltern soldier](position_subaltern_soldier.md);
-the seats that profit are [the garrison captain](position_garrison_captain.md)
-and [the regimental doctor](position_regimental_doctor.md). The collision is
-simple: [Franz Woyzeck](persona_woyzeck.md) is the material both men spend, and
-neither sees a man.
+Zwei nackte Kräfte krachen auf einem einzigen Körper zusammen. Er verkauft seine Zeit doppelt, um die Frau und das Kind durchzubringen. Er macht [die Rasur](process_the_shaving.md) bei [dem Hauptmann](persona_the_captain.md). Die Predigt über die Tugend tropft auf ihn herab, während er die Klinge hält. Er steht stramm und erträgt [die Erbsendiät](process_the_pea_diet.md) für [den Doktor](persona_the_doctor.md), der ihn wie ein Messgerät abliest. Der Stuhl als [gemeiner Soldat](position_subaltern_soldier.md) zwingt ihn in den Dienst. Die Ränge als [Garnisonshauptmann](position_garrison_captain.md) und [Regimentsarzt](position_regimental_doctor.md) schöpfen den Profit ab. Die Kollision ist absolut simpel. [Franz Woyzeck](persona_woyzeck.md) ist das rohe Material, das beide Männer verbrauchen. Keiner von beiden sieht noch einen Menschen.
 
 ## Stage
 
-[Franz Woyzeck](persona_woyzeck.md) crosses the threshold with
-[the razor](piece_the_razor.md) folded in his pocket, the tool of his trade and
-the mark of his service. [the Doctor](persona_the_doctor.md) sets out
-[the peas](piece_the_peas.md) in their jar and ledger. The arrangement is the
-whole point: the soldier on his feet, the instruments laid ready, the man placed
-where the work can reach him.
+[Franz Woyzeck](persona_woyzeck.md) tritt über die Schwelle. [Das Rasiermesser](piece_the_razor.md) ruht zusammengeklappt in seiner Tasche. Das Werkzeug für den Dienst. [Der Doktor](persona_the_doctor.md) stellt [die Erbsen](piece_the_peas.md) im Glas bereit und schlägt die Akte auf. Die Aufstellung der Körper sagt bereits alles. Der Soldat steht wehrlos im Raum. Die Instrumente liegen blank auf dem Tisch. Der Mann ist genau dort platziert, wo die Maschine ihn zersägen kann.
 
 ## Tension
 
-What no one in the court can see is that [the peas](piece_the_peas.md) are
-already doing their work inside [Franz Woyzeck](persona_woyzeck.md): the visions
-have started, the voices come up out of the ground, the diet meant to prove a
-theory is quietly unmaking the mind that has to keep obeying. He cannot report
-it without losing the coin he came for, so he carries it alone, and the obedience
-the scene demands is exactly what the contraband makes impossible to sustain.
+Der blinde Fleck des Raumes. Niemand im Hof sieht, dass [die Erbsen](piece_the_peas.md) bereits tief in [Franz Woyzeck](persona_woyzeck.md) wühlen. Die Visionen brennen in seinem Kopf. Die Stimmen steigen aus dem Boden auf. Das Futter, das eine fremde Theorie beweisen soll, zersetzt leise den Verstand. Er kann den Defekt nicht melden, ohne seine wenigen Groschen zu verlieren. Er muss den Wahnsinn stumm herunterschlucken. Die absolute Stille, die dieser Raum verlangt, ist genau das, was das Fieber in seinem Kopf unmöglich macht.

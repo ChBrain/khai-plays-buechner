@@ -13,8 +13,7 @@ type: fictional
 
 ## Taxonomy
 
-The role he fills is [the drum major](position_drum_major.md): the head of the
-parade, admired for his body and licensed to take what he wants.
+Purer Stolz. [Der Tambourmajor](position_drum_major.md).
 
 ## Owner
 
@@ -22,26 +21,16 @@ parade, admired for his body and licensed to take what he wants.
 
 ## Projection
 
-A big, handsome man in plumes who holds [the drum major](position_drum_major.md)
-and walks at the head of the band, sure of every inch of himself. He presents pure
-confidence: the finest figure in the regiment, used to being looked at, certain
-that wanting a thing is the same as being owed it.
+Ein Mann wie ein Baum. Trägt den Federbusch als [Tambourmajor](position_drum_major.md). Pures Selbstbewusstsein. Die Brust raus. Die Welt gehört ihm. Wer ihn ansieht, muss ihn bewundern. Was ein Weibsbild. Die muss her.
 
 ## Action
 
-He struts the parade and drinks in the tavern, takes [Marie](persona_marie.md)
-because she is there to be taken, presses [the earrings](piece_the_earrings.md)
-on her, and later knocks Woyzeck down in front of the others for the pleasure of
-it.
+Geht vor der Musik. Füllt das Wirtshaus mit seiner Stimme. Nimmt sich [Marie](persona_marie.md), weil er sie haben will. Kauft sie mit [den Ohrringen](piece_the_earrings.md). Wirft Woyzeck vor den anderen Männern in den Dreck. Aus purem Spaß an der eigenen Kraft.
 
 ## Shadow
 
-Under the plumes there is nothing but appetite: he is a surface that has never had
-to be anything else, admired for a body and empty behind it, and he does not know
-the admiration is the whole of him.
+Nichts als Appetit. Unter der Uniform ist er völlig hohl. Er ist reine Oberfläche. Er hat noch nie nachgedacht, weil ihm noch nie jemand etwas verweigert hat. Er verwechselt die Bewunderung für seinen Körper mit echtem Respekt und glaubt, dass jeder Hunger ein Recht ist.
 
 ## Tell
 
-He preens at every reflecting surface and cannot pass a window without squaring his
-shoulders to it. The swagger never once rests, and that it never rests is what
-shows there is only swagger underneath.
+Die Schultern zucken nach hinten, sobald er an einer Glasscheibe vorbeigeht. Er kann an keinem Spiegel vorbeigehen, ohne sich aufzubauen. Ein reflexartiges, hartes Streichen über den Bart. Die Pose fällt niemals in sich zusammen. Wenn sie fallen würde, bliebe nichts von ihm übrig.

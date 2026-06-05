@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-The bottom seat of the garrison, reporting up into [the garrison captain](position_garrison_captain.md)
-and below every other rank that can give an order.
+Ganz unten in der Garnison. Steht unter [dem Garnisonshauptmann](position_garrison_captain.md). Steht unter jedem, der einen Befehl brüllen darf.
 
 ## Owner
 
@@ -21,26 +20,16 @@ and below every other rank that can give an order.
 
 ## Has
 
-It brings a wage in groschen that does not reach the end of the week, a uniform, a
-billet, and the lowest standing in the town: whoever holds it is owed almost
-nothing and may be called on for almost anything.
+Ein paar Groschen Lohn. Reicht nicht bis zum Sonntag. Eine abgewetzte Uniform. Ein Bett in der Kaserne. Wer diesen Sitz hat, dem steht nichts zu. Er muss für alles herhalten.
 
 ## Orders
 
-It orders the man to obey on the instant and without remainder: to stand for
-[the pea diet](process_the_pea_diet.md), to run [the shaving](process_the_shaving.md)
-over his betters, to do the day's chores and take whatever insult any rank cares to
-hand down.
+Blinder Gehorsam. Auf der Stelle. Ohne Rest. Zwingt den Mann, für [die Erbsendiät](process_the_pea_diet.md) strammzustehen. Befiehlt ihm, [die Rasur](process_the_shaving.md) an seinen Herren zu machen. Die Arbeit tun. Jeden Tritt von oben schlucken.
 
 ## Loses
 
-It strips him of privacy, of any say over what goes into his own body, and of the
-standing to defend [Marie](persona_marie.md) or his own name: a man in this seat
-is not credited with honour to protect, so the law of the garrison does not see it
-taken.
+Raubt jede Privatsphäre. Nimmt das Recht auf den eigenen Körper. Nimmt den Stand, [Marie](persona_marie.md) oder den eigenen Namen zu verteidigen. Ein Mann auf diesem Platz hat keine Ehre. Das Gesetz der Garnison bestraft niemanden, der sie ihm nimmt.
 
 ## Drives
 
-Holding it, he drives the whole garrison from underneath: shaved, supplied, fed,
-and kept in order on his labour, while the experiments and the lectures are
-absorbed into his body. The structure stands because this seat carries it.
+Schiebt die ganze Garnison von unten an. Hält die Herren sauber und satt. Die pure Körperkraft füttert den Betrieb. Er saugt die Experimente und die Moralpredigten wie ein Schwamm auf. Die Architektur bricht nicht zusammen, weil dieser Sitz das ganze Gewicht schluckt.

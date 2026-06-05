@@ -13,8 +13,7 @@ type: fictional
 
 ## Taxonomy
 
-The role he fills is [the garrison captain](position_garrison_captain.md): an
-officer with the leisure to moralise and a soldier obliged to listen.
+[Der Garnisonshauptmann](position_garrison_captain.md).
 
 ## Owner
 
@@ -22,25 +21,16 @@ officer with the leisure to moralise and a soldier obliged to listen.
 
 ## Projection
 
-A soft, well-fed officer who holds [the garrison captain](position_garrison_captain.md)
-and offers his throat to [the razor](piece_the_razor.md) each morning. He presents
-himself as a man of feeling and virtue, slow and superior, fond of the sound of
-his own decency, instructing the poor man beneath him on morality and eternity.
+Gut genährt. Weich. Sitzt als [Garnisonshauptmann](position_garrison_captain.md) im Stuhl und bietet dem Diener die Kehle für [das Rasiermesser](piece_the_razor.md) dar. Zeigt sich der Welt als Mann von Gefühl. Langsam, Woyzeck, langsam. Eins nach dem andern. Ein guter Mensch hat keine Eile. Ein guter Mensch hat ein gutes Gewissen.
 
 ## Action
 
-He sits for his shave and talks the whole while, needles Woyzeck for having a
-child outside the church, praises his own goodness, and worries aloud at the awful
-slowness of time and the turning of the world.
+Sitzt und redet. Füllt die Zeit. Nimmt [die Rasur](process_the_shaving.md) als sein tägliches Recht. Weist Woyzeck auf dessen fehlende Moral hin. Ohne Segen der Kirche. Philosophiert über die Ewigkeit und die Himmelsrichtungen. Schaut aus dem Fenster und sorgt sich, dass die Welt sich zu schnell dreht.
 
 ## Shadow
 
-Under the virtue is a frightened, idle man with a horror of death and empty hours
-he cannot admit, so he loads it onto the soldier at his throat: it is the Captain,
-not Woyzeck, who has no real virtue, only rank and the leisure to perform it.
+Die nackte Panik vor der Leere. Ihm wird angst um die Welt, wenn er an die Ewigkeit denkt. Er hat keine echte Tugend. Er hat nur den Rang, der ihm erlaubt, andere abzuurteilen. Die Schwermut frisst ihn auf. Er wälzt seine eigene Angst auf den Mann ab, der ihm ausgeliefert ist, weil er die Stille mit sich selbst nicht erträgt.
 
 ## Tell
 
-He shudders and hurries his words when the talk drifts to time or the grave, and
-cannot bear a silence in the room. The melancholy leaks out through the banter,
-giving away the fear the lecture is meant to cover.
+Ein plötzliches, unkontrollierbares Frösteln. Die Worte stürzen hastig übereinander, wenn das Gespräch den Tod oder die Ewigkeit streift. Er fängt fahrig an, über das Wetter oder den Wind zu reden, sobald auch nur drei Sekunden Stille im Raum stehen. Die nackte Angst bricht durch den breiten, satten Tonfall.

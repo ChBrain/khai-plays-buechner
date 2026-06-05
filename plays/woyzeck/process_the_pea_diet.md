@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One step of the Doctor's experiment on the human constitution: the controlled
-feeding meant to prove the will can master the body.
+Das medizinische Experiment. Die Zersetzung durch Methode.
 
 ## Owner
 
@@ -21,24 +20,16 @@ feeding meant to prove the will can master the body.
 
 ## Initiated by
 
-The Doctor's offer of a few groschen to a starving soldier who has a child to feed
-and so cannot say no. While the man is poor enough, the consent is guaranteed and
-the diet begins.
+Die Auszahlung der Groschen an einen hungernden Vater. Die Verpflichtung ist gekauft. Solange das Subjekt das Geld braucht, gibt es keinen Abbruch. Die Methode zwingt sich selbst in Gang.
 
 ## Direction
 
-It runs down a single deepening vector of control: from setting the diet, to
-observing it, to recording the body's failure under it, each stage tightening on
-the man.
+Ein einziger, stetiger Vektor nach unten. Die Entzugserscheinung wächst. Die Datenmenge steigt. Die Linie führt von der puren Nahrungsaufnahme direkt in den messbaren Wahn.
 
 ## Lever
 
-The authority of science meets the plain economic necessity of a father who must
-eat. Take away the authority and there is no experiment; take away the hunger and
-there is no subject who would agree.
+Die kalte Autorität der Wissenschaft drückt auf die nackte wirtschaftliche Not. Ohne den ärztlichen Titel fehlt die Legitimation für den Versuch. Ohne den Hunger des Vaters fehlt das fügsame Objekt. Die Armut macht den Körper restlos verfügbar.
 
 ## Echo
 
-When it has run, the body of [Franz Woyzeck](persona_woyzeck.md) is altered and
-his mind has begun to crack, the visions rising as [the peas](piece_the_peas.md)
-do their work, while the Doctor's theory gains exactly the result it wanted.
+Der Puls ist unregelmäßig. Die Muskeln zucken. [Die Erbsen](piece_the_peas.md) arbeiten im Blutgewebe. [Franz Woyzeck](persona_woyzeck.md) verliert den Verstand. Die Theorie hat ihr Resultat erfolgreich bewiesen.

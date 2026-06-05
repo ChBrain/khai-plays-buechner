@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-A seat among the garrison's officers, above the ranks and below the staff: it sits
-within the command of the town and has the leisure the lower seats are denied.
+Die Befehlsgewalt in der Stadt. Steht über den Mannschaften. Hat die viele freie Zeit, die den unteren Rängen verwehrt bleibt.
 
 ## Owner
 
@@ -21,24 +20,16 @@ within the command of the town and has the leisure the lower seats are denied.
 
 ## Has
 
-It brings rank, idle hours, a servant to attend him, and the standing to be heard
-without being answered back: whoever holds it is owed deference as a matter of
-course.
+Den Rang. Die endlose leere Zeit. Einen Diener für die Handgriffe. Das Recht, zu reden, ohne dass jemand widerspricht. Wem dieser Sitz gehört, dem steht der blinde Respekt von unten zu.
 
 ## Orders
 
-It orders him to keep discipline over the ranks, to take [the shaving](process_the_shaving.md)
-as his daily due, and to perform the virtue and feeling that an officer is
-supposed to embody.
+Zwingt zur Disziplin. Verlangt, dass die Ordnung aufrecht bleibt. Fordert [die Rasur](process_the_shaving.md) als tägliches Ritual. Zwingt den Offizier, die Tugend und das Gefühl zu spielen, die sein Rang verkörpern muss.
 
 ## Loses
 
-It strips him of any honest reckoning with his own fear: the seat requires a calm
-and a goodness he must show whether he feels them or not, so it costs him the
-plain admission that he is idle and afraid.
+Raubt jede ehrliche Auseinandersetzung mit der eigenen Angst. Die Position verlangt Ruhe und moralische Überlegenheit. Er verbietet dem Mann auf dem Stuhl, seine eigene Schwermut und Leere zuzugeben. Die Uniform kostet das Recht auf den nackten Zweifel.
 
 ## Drives
 
-Holding it, he drives the daily order of the garrison and presses the weight of
-its morality downward, making the ranks carry the discipline and the judgement the
-officers pronounce.
+Drückt die Ordnung der Garnison mit voller Wucht nach unten. Presst die Moral auf die unteren Ränge. Zwingt die Mannschaft, die Disziplin zu tragen und das Urteil der Offiziere stumm zu schlucken.

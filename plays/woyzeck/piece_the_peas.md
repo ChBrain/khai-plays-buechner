@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One of the Doctor's laboratory stores, the materials of his experiment on the
-human constitution.
+Das Material für das Experiment an der menschlichen Natur. Die kalten Vorräte aus dem Labor des Doktors.
 
 ## Owner
 
@@ -21,24 +20,16 @@ human constitution.
 
 ## Place
 
-They sit by weight in a glass jar with a ledger beside it in [the doctor's court](place_the_doctors_court.md),
-and they sit, boiled to a grey paste, in Woyzeck's stomach, which keeps no
-record but the symptoms.
+Sie ruhen streng abgewogen in einem Glas drüben in [dem Hof des Doktors](place_the_doctors_court.md). Das Notizbuch liegt direkt daneben. Sie wandern zu einem grauen Brei zerkocht in den Magen des Soldaten. Der Magen führt kein Buch. Er meldet nur die nackten Defekte.
 
 ## Load Bearing
 
-Take them away and two things fall at once: the Doctor's theory, which has nothing
-left to prove the will on, and the slow engine of Woyzeck's ruin, which is what
-turns the visions from a man's strangeness into a poisoning with a cause.
+Nimm sie weg, und die Theorie des Doktors zerfällt ins Nichts. Er hat keine Hebel mehr, um den Willen zu beweisen. Ohne diese Körner stoppt der langsame Motor der Zerstörung. Sie sind der Grund, warum die Visionen kein bloßer Zufall sind, sondern eine präzise, messbare Vergiftung.
 
 ## Apparent
 
-A measured quantity of dried green peas, faded and identical, hard between the
-fingers, nothing to look at.
+Abgezählte, getrocknete Erbsen. Blassgrün und völlig identisch. Hart zwischen den Fingern. Ein gewöhnliches, billiges Futter.
 
 ## Yearbook
 
-Harvested and dried in some ordinary field, then bought and cataloged into the
-Doctor's stores. Set as Woyzeck's sole food to hold the diet steady. Eaten day on
-day until what began as a cheap vegetable has become, inside one man, a poison
-with a pulse the Doctor writes down with pleasure.
+Auf einem billigen Feld geerntet und in der Sonne getrocknet. Gekauft und fein säuberlich in die Vorräte des Doktors eingetragen. Dem Soldaten als einzige Nahrung verordnet, um den Versuch rein zu halten. Tag für Tag stumm geschluckt. Das unscheinbare Gemüse gärt im Blut zu einem eiskalten Gift, dessen Puls der Doktor mit Vergnügen in seine Akte schreibt.

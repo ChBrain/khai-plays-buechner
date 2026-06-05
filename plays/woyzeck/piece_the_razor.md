@@ -12,8 +12,7 @@ stamp:
 
 ## Taxonomy
 
-One of a barber's kit, the working tools of the trade Woyzeck plies for his
-betters.
+Das Werkzeug des Barbiers. Das blanke Eisen für den täglichen Dienst an den Herren.
 
 ## Owner
 
@@ -21,25 +20,16 @@ betters.
 
 ## Place
 
-It rides folded in Woyzeck's coat as he moves through [the garrison town](place_the_garrison_town.md),
-and comes out at the Captain's chair each morning. It travels with the man, so
-where he is, it is.
+Es ruht zusammengeklappt im Mantel, wenn der Soldat hastig durch [die Garnisonsstadt](place_the_garrison_town.md) eilt. Es kommt jeden Morgen am Stuhl des Hauptmanns ans Licht. Es wandert eng am Körper des Mannes. Wo er ist, da ist die Klinge.
 
 ## Load Bearing
 
-Take it away and Woyzeck loses the trade that earns his groschen and the one daily
-station where his obedience and a bared throat are placed in the same hand. The
-play's quiet irony, the man trusted with a blade at his master's neck, falls with
-it.
+Nimm es weg, und der Mann verliert sein Handwerk und seine Groschen. Ohne diese Klinge fehlt der einzige Moment am Tag, an dem der absolute Gehorsam und die nackte Kehle der Macht in ein und derselben Hand liegen. Die stumme Ironie der ganzen Ordnung zerfällt, wenn der Diener keinen Stahl mehr am Hals seines Herrn hält.
 
 ## Apparent
 
-A folding straight razor with a horn handle worn smooth and a hollow-ground steel
-edge that takes the light in a thin cold line.
+Ein klappbares Rasiermesser. Ein glatt polierter Griff aus echtem Horn. Ein hohlgeschliffener Stahl, der das Licht in einer schmalen, eiskalten Linie fängt.
 
 ## Yearbook
 
-Forged in a cutler's shop and ground sharp for trade. Taken into Woyzeck's service
-and set to scraping the faces of officers, morning upon morning. By the time of
-the run it has shaved the Captain so many times the handle has gone to the shape
-of his hand.
+Irgendwann in einer Schmiede geschlagen und hart für das Handwerk geschliffen. In den Dienst des Soldaten genommen. Morgen für Morgen still über die Gesichter der Offiziere gezogen. Es hat den Hauptmann schon so oft rasiert, dass der Horngriff sich genau an die zitternde Hand des Dieners gewöhnt hat.
