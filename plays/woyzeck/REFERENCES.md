@@ -6,23 +6,23 @@ updated: "2026-06-05"
 
 ## Line of Work
 
-*Woyzeck* as **systemic descent**: the mechanics of a man being dismantled by the power structures above him until he has nothing left to spend but violence. The domain does not model a traditional character tragedy; it models a sequence of extractions (economic, physical, psychological) enacted by institutional seats (science, military) upon a defenseless subject.
+_Woyzeck_ as **systemic descent**: the mechanics of a man being dismantled by the power structures above him until he has nothing left to spend but violence. The domain does not model a traditional character tragedy; it models a sequence of extractions (economic, physical, psychological) enacted by institutional seats (science, military) upon a defenseless subject.
 
 ## Origin
 
 Georg Büchner's dramatic fragment (1836/1837), applying clinical observation and radical social critique to a historical murder case.
 
-| Source | Key Work / Event | Scope |
-| --- | --- | --- |
-| **Georg Büchner** | *Woyzeck* (1836/1837 drafts) | The fragmentation of language and mind under extreme social and physical pressure. The play as an open sequence of scenes. |
-| **Dr. Johann Christian August Clarus** | *The medical assessments of J.C. Woyzeck* (1821/1823) | The historical basis: the question of whether a man driven mad by his environment can be held legally accountable. The clinical gaze as an instrument of power. |
+| Source                                 | Key Work / Event                                      | Scope                                                                                                                                                           |
+| -------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Georg Büchner**                      | _Woyzeck_ (1836/1837 drafts)                          | The fragmentation of language and mind under extreme social and physical pressure. The play as an open sequence of scenes.                                      |
+| **Dr. Johann Christian August Clarus** | _The medical assessments of J.C. Woyzeck_ (1821/1823) | The historical basis: the question of whether a man driven mad by his environment can be held legally accountable. The clinical gaze as an instrument of power. |
 
 ## Restrictions
 
 What the production refuses to model, and to whom it delegates.
 
-- **Chronological absolutism**: Büchner left four draft manuscripts with no definitive scene order. This production does not claim a "true" historical sequence. Instead, it organizes the fragments mechanically by their **Triggers**: service (The Examination) drives betrayal (The Drum Major), which inevitably drives the end (The Pond).
-- **Psychological moralizing**: The production does not treat Woyzeck's madness or Marie's betrayal as personal moral failings. They are treated as systemic exhaust: the mechanical output of the *Positions* (seats) pressing down on them.
+- **Chronological absolutism**: Büchner left four draft manuscripts with no definitive scene order. This production does not claim a "true" historical sequence. Instead, it organizes the fragments mechanically by their **Triggers**: service (The Examination) drives betrayal (The Parade), which inevitably drives the end (The Pond).
+- **Psychological moralizing**: The production does not treat Woyzeck's madness or Marie's betrayal as personal moral failings. They are treated as systemic exhaust: the mechanical output of the _Positions_ (seats) pressing down on them.
 - **The sprawling society**: Büchner's original text includes a wide cast of townsfolk, apprentices, and secondary figures (like Andres or Margret). This production deliberately reduces the cast to exactly five. It refuses to model the society at large, isolating only the pure vectors of extraction (the military, the science, the rival) and the two subjects caught beneath them.
 
 ## Encoding
