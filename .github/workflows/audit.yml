@@ -31,6 +31,7 @@ permissions:
   pull-requests: write
   models: read
   statuses: write
+  packages: read
 
 jobs:
   review:
@@ -70,7 +71,7 @@ jobs:
         with:
           ref: ${{ steps.ctx.outputs.head_ref }}
           fetch-depth: 0
-          token: ${{ secrets.RELEASE_TOKEN }}
+          token: ${{ secrets.RELEASE_TOKEN || github.token }}
 
       - uses: actions/setup-node@v6
         with:

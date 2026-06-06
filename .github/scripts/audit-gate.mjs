@@ -15,13 +15,17 @@ import { decisionsFromThreads, reconcile } from "@chbrain/khai-review";
 const [threadsPath, ...manifests] = process.argv.slice(2);
 const treeSha = (p) => {
   try {
-    return execFileSync("git", ["rev-parse", `HEAD:${p}`], { encoding: "utf8" }).trim();
+    return execFileSync("git", ["rev-parse", `HEAD:${p}`], {
+      encoding: "utf8",
+    }).trim();
   } catch {
     return null;
   }
 };
 const decisions = decisionsFromThreads(
-  threadsPath && existsSync(threadsPath) ? JSON.parse(readFileSync(threadsPath, "utf8")) : [],
+  threadsPath && existsSync(threadsPath)
+    ? JSON.parse(readFileSync(threadsPath, "utf8"))
+    : [],
 );
 
 const reasons = [];
@@ -37,10 +41,14 @@ for (const m of manifests) {
   const meta = JSON.parse(readFileSync(metaPath, "utf8"));
   for (const t of cfg.review?.targets ?? [])
     if (treeSha(t) !== (meta.targets?.[t] ?? null))
-      reasons.push(`${cfg.id}: ${t} changed since the audit, comment /audit ${cfg.id}`);
+      reasons.push(
+        `${cfg.id}: ${t} changed since the audit, comment /audit ${cfg.id}`,
+      );
   // reconcile: the table must agree with the comment treatments
   const ledgerPath = join(dir, "ledger.json");
-  const ledger = existsSync(ledgerPath) ? JSON.parse(readFileSync(ledgerPath, "utf8")) : [];
+  const ledger = existsSync(ledgerPath)
+    ? JSON.parse(readFileSync(ledgerPath, "utf8"))
+    : [];
   for (const b of reconcile(ledger, decisions).blocks)
     reasons.push(`${cfg.id}/${b.id}: ${b.reason}`);
 }
@@ -48,5 +56,6 @@ for (const m of manifests) {
 const ok = reasons.length === 0;
 const summary = ok
   ? `consistent across ${manifests.length} audit(s)`
-  : reasons.slice(0, 2).join("; ") + (reasons.length > 2 ? ` (+${reasons.length - 2})` : "");
+  : reasons.slice(0, 2).join("; ") +
+    (reasons.length > 2 ? ` (+${reasons.length - 2})` : "");
 process.stdout.write(JSON.stringify({ ok, summary }) + "\n");
