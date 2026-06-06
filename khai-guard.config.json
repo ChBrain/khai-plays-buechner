@@ -25,7 +25,9 @@
           "tests/**",
           "README.md",
           "audit/**",
-          "CLAUDE.md"
+          "CLAUDE.md",
+          "REFERENCE.md",
+          "REFERENCES.md"
         ]
       },
       { "pattern": "changeset-release/*", "layer": "general", "allow": [] },

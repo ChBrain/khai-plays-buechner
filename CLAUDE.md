@@ -26,7 +26,7 @@ npx khai-guard branch <topic>
 
 - `play/<topic>` owns `plays/**` (the productions).
 - `governance/<topic>` owns the gates and config (`.github/**`, `.husky/**`,
-  `khai-guard.config.json`, `tests/**`, `README.md`, `audit/**`).
+  `khai-guard.config.json`, `tests/**`, `README.md`, `REFERENCE.md`, `REFERENCES.md`, `audit/**`, `CLAUDE.md`).
 - `changeset-release/*` is a bot-controlled general lane for version releases.
 
 Never `--no-verify`. Never merge; open the PR and stop.

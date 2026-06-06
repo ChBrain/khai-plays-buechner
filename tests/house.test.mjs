@@ -1,7 +1,9 @@
 import { describe, it, expect } from "vitest";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { readFileSync, existsSync } from "node:fs";
 import { validateProject } from "@chbrain/khai-tests";
+import { referenceCard } from "@chbrain/khai-arch";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -16,5 +18,14 @@ describe("Buechner house: plays conform to the canon", () => {
       r.errors.map((e) => `${r.file}: ${e}`),
     );
     expect(errors).toEqual([]);
+  });
+
+  it("house reference warrant conforms to LORE", () => {
+    const refPath = existsSync(join(root, "REFERENCES.md"))
+      ? join(root, "REFERENCES.md")
+      : join(root, "REFERENCE.md");
+    expect(existsSync(refPath)).toBe(true);
+    const refText = readFileSync(refPath, "utf8");
+    expect(() => referenceCard(refText)).not.toThrow();
   });
 });
