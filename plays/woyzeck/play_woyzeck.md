@@ -2,6 +2,7 @@
 khai: play
 title: "Woyzeck"
 license: CC-BY-NC-SA-4.0
+voice: "stripped, clinical, direct; rhythmic, simple sentences"
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

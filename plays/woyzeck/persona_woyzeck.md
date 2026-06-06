@@ -2,6 +2,7 @@
 khai: persona
 title: "Franz Woyzeck"
 license: CC-BY-NC-SA-4.0
+voice: "stripped, urgent, disjointed; brief fragments, sensory focus"
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
