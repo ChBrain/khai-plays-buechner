@@ -17,7 +17,9 @@
           ".github/**",
           ".husky/**",
           "khai-guard.config.json",
-          "tests/**"
+          "tests/**",
+          "README.md",
+          "audit/**"
         ]
       },
       { "pattern": "chore/*", "layer": "general", "allow": [] },
