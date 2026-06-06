@@ -20,16 +20,16 @@ Der zweite Akt der Produktion [Woyzeck](play_woyzeck.md). Die Mitte. Das Einzige
 
 ## Cue
 
-Die drückende Nachmittagshitze steht in [Maries Zimmer](place_maries_room.md). Das Fenster zur Straße steht weit offen. Eine Parade ist gerade vorbeigezogen. Die Militärmusik hängt noch schwer in der Luft. Der Geruch nach Pomade, nach Straßenstaub und nach Männern, die bedingungslos bewundert werden. Drinnen ist es eng und arm. Das Kind schläft. Der Spiegel hat einen Riss. Das ist die Luft in dem Raum, bevor sich überhaupt jemand bewegt.
+Nachmittagshitze in [Maries Zimmer](place_maries_room.md). Das Fenster zur Straße steht offen. Die Militärmusik der Parade verhallt. Geruch von Pomade und Straßenstaub. Drinnen ist es eng. Das Kind schläft; der Spiegel hat einen Riss. Die Luft steht schwer im Raum.
 
 ## Action
 
-[Die Verführung](process_the_seduction.md) nimmt ihren harten Lauf. [Der Tambourmajor](persona_the_drum_major.md) nimmt sich [Marie](persona_marie.md). Ein [Tambourmajor](position_drum_major.md) ist all das, was ein [gemeiner Soldat](position_subaltern_soldier.md) niemals sein kann. Laut. Ganz. Ohne jede Angst. Und sie hat es satt, arm zu sein. Die Vektoren treffen offen aufeinander. Genau in diesem Moment kommt [Franz Woyzeck](persona_woyzeck.md) von seinem endlosen Dienst. Er will die wenigen Groschen auf den Tisch legen. Die Linien kreuzen sich hart. Der Mann, der bezahlt, und der Mann, der begehrt wird. Beide im selben engen Zimmer.
+Die [Verführung](process_the_seduction.md) greift. Der [Tambourmajor](persona_the_drum_major.md) nimmt sich [Marie](persona_marie.md). Ein [Tambourmajor](position_drum_major.md) ist laut, stark und furchtlos, das Gegenteil des [gemeinen Soldaten](position_subaltern_soldier.md). Marie will dem Dreck entfliehen. Woyzeck kehrt vom Dienst heim, um seine Groschen hinzulegen. Der Mann, der dient, und der Mann, der begehrt wird, stehen im selben engen Zimmer.
 
 ## Stage
 
-[Marie](persona_marie.md) sitzt am Fenster. Sie wendet [die Ohrringe](piece_the_earrings.md) im Licht. Ein Ding, viel zu kostbar für die Frau eines einfachen Soldaten. [Der Tambourmajor](persona_the_drum_major.md) füllt den Rahmen der Tür komplett aus. Die Position der Körper verrät alles, bevor das erste Wort fällt. Sie steht am Spiegel und bewundert den Preis, den sie bekommen hat. Er steht breitbeinig auf der Schwelle. Dieser Raum gehört nicht mehr Woyzeck.
+[Marie](persona_marie.md) wendet die [Ohrringe](piece_the_earrings.md) im Licht. Der [Tambourmajor](persona_the_drum_major.md) füllt die Tür aus. Marie steht vor dem Spiegel; der Rivale besetzt breitbeinig die Schwelle. Die Aufstellung besiegelt den Verrat. Dieser Raum gehört nicht mehr Woyzeck.
 
 ## Tension
 
-[Marie](persona_marie.md) trägt eine drückende Schuld in sich. Sie hält sie greifbar in Form [der Ohrringe](piece_the_earrings.md) in den Händen. Sie verdeckt das Gold, sobald Woyzeck hinschaut. Sie lenkt das Gespräch fahrig auf das Kind. Sie redet hastig von der Bibel. Sie versucht verzweifelt, ein anständiges Weib zu sein, während der nackte Beweis für den Verrat in ihrer Hand liegt. Die Handlung kann sich nicht sauber auflösen. Sie sagt die Wahrheit nicht. Aber er spürt sie längst. Das eiserne Schweigen in diesem Raum macht den dritten Plot absolut unvermeidlich.
+Marie verbirgt das Gold der [Ohrringe](piece_the_earrings.md), sobald [Woyzeck](persona_woyzeck.md) eintritt. Sie lenkt das Gespräch hastig auf das Kind und zitiert die Bibel. Der nackte Beweis des Verrats brennt in ihrer Hand. Sie schweigt, doch Woyzeck spürt das Verhängnis. Das eiserne Schweigen macht das Ende unerbittlich.
