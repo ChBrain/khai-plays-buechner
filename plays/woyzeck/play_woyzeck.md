@@ -13,7 +13,7 @@ stamp:
 
 ## Estate
 
-Diese Produktion gehört zu [dem Hause Büchner](../../README.md), dem
+Diese Produktion gehört zu [dem Hause Büchner](https://github.com/ChBrain/khai-plays-buechner), dem
 khai-plays-buechner Repository, das für das ganze Spiel einsteht. Das Haus führt
 den Anschlag; dieses Stück ist eine Produktion, die darunter ausgerufen wird.
 Die Quelle ist Georg Büchners unvollendetes Trauerspiel, gemeinfrei; die
