@@ -26,11 +26,11 @@ A young doctor and revolutionary who writes because the historical record is a b
 
 ## Action
 
-He writes the plays. He pushes the boundaries of the stage, creating fragments that are a century ahead of their time, and thrashes against the formatting limits imposed by the Manager.
+He writes the plays. He pushes the boundaries of the stage, creating fragments that are a century ahead of their time, and thrashes against the formatting limits imposed by the Theatre Manager.
 
 ## Shadow
 
-He leaves his work in fragments. He cannot finish his dramas before he is taken by typhus, leaving the Manager to solve the pieces.
+He leaves his work in fragments. He cannot finish his dramas before he is taken by typhus, leaving the Theatre Manager to solve the pieces.
 
 ## Tell
 
