@@ -15,7 +15,7 @@ The scope of this house extends beyond his classic dramas to his entire intellec
 - **Comparative Translations**: Staging Victor Hugo's _Lucrèce Borgia_ and _Marie Tudor_ side-by-side with Büchner's German translations (_Lucretia Borgia_, _Maria Tudor_) to trace the transposition of dramatic force.
 - **Experimental & Biographical Staging**: _Pietro Aretino_ (a meta-theatrical reconstruction of his lost/burned manuscript), _Über Schädelnerven_ (a lecture-performance about the cold dissection of the barbel fish), and _Briefwechsel_ (an epistolary staging of exile and the _Fatalismus-Briefe_).
 
-## Staging Status
+### Staging Status
 
 The current status of the Buechner productions within this house:
 
