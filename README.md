@@ -1,3 +1,7 @@
+---
+voice: "sparse, working-class register; colon and semicolon, never a dash"
+---
+
 # khai plays: Buechner
 
 The Buechner production house: a collection of khai plays, each a

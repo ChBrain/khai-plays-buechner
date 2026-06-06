@@ -1,0 +1,7 @@
+{
+  "id": "woyzeck-conciseness",
+  "review": {
+    "rubrics": ["conciseness"],
+    "targets": ["plays/woyzeck"]
+  }
+}
