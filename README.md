@@ -1,5 +1,6 @@
 ---
 voice: "sparse, working-class register; colon and semicolon, never a dash"
+language: de
 ---
 
 # khai plays: Buechner
