@@ -1,0 +1,8 @@
+{
+  "auditId": "khai-type",
+  "reviewedSha": "ad78062bb5e59470d6b9a29e4dec059471bf0d74",
+  "reviewedAt": "2026-06-06T17:15:57.338Z",
+  "targets": {
+    ".": null
+  }
+}

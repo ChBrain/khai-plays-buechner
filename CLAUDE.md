@@ -26,7 +26,7 @@ npx khai-guard branch <topic>
 
 - `play/<topic>` owns `plays/**` (the productions).
 - `governance/<topic>` owns the gates and config (`.github/**`, `.husky/**`,
-  `khai-guard.config.json`, `tests/**`, `README.md`, `REFERENCE.md`, `REFERENCES.md`, `audit/**`, `CLAUDE.md`).
+  `khai-guard.config.json`, `tests/**`, `CLAUDE.md`, `README.md`, `REFERENCE.md`, `REFERENCES.md`, `management/**`).
 - `changeset-release/*` is a bot-controlled general lane for version releases.
 
 Never `--no-verify`. Never merge; open the PR and stop.
@@ -36,7 +36,7 @@ Never `--no-verify`. Never merge; open the PR and stop.
 We align version numbers using changesets under the following rules:
 
 - **Adding a play** -> `minor` bump (so the minor version indicates the total count of plays).
-- **Everything else** (audits, governance, formatting, etc.) -> `patch` bump.
+- **Everything else** (governance, formatting, etc.) -> `patch` bump.
 
 ## Protection
 

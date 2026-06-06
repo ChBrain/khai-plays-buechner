@@ -11,7 +11,14 @@
       ".changeset/**",
       "package.json",
       "package-lock.json",
-      "CHANGELOG.md"
+      "CHANGELOG.md",
+      ".prettierrc",
+      ".gitignore",
+      ".npmrc",
+      ".nvmrc",
+      "LICENSE",
+      "LICENSE-CODE",
+      "SECURITY.md"
     ],
     "lanes": [
       { "pattern": "play/*", "layer": "solution", "allow": ["plays/**"] },
@@ -24,10 +31,12 @@
           "khai-guard.config.json",
           "tests/**",
           "README.md",
-          "audit/**",
+          "GEMINI.md",
           "CLAUDE.md",
           "REFERENCE.md",
-          "REFERENCES.md"
+          "REFERENCES.md",
+          "management/**",
+          "audit/**"
         ]
       },
       { "pattern": "changeset-release/*", "layer": "general", "allow": [] },

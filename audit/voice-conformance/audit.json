@@ -1,7 +1,7 @@
 {
-  "id": "woyzeck-voice-conformance",
+  "id": "voice-conformance",
   "review": {
     "rubrics": ["voice-conformance"],
-    "targets": ["plays/woyzeck"]
+    "targets": ["."]
   }
 }
