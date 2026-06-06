@@ -1,5 +1,15 @@
 # @chbrain/khai-plays-buechner
 
+## 0.2.0
+
+### Minor Changes
+
+- dbc656b: Stage Georg Büchner's Leonce and Lena: a full ENACTS play staging including configuration, personas, positions, pieces, places, processes, and plots.
+
+### Patch Changes
+
+- dbc656b: Refine Woyzeck play: add play synopsis to frontmatter description, trim plot descriptions, and update German phrasing.
+
 ## 0.1.0
 
 ### Minor Changes
