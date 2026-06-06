@@ -1,0 +1,11 @@
+{
+  "name": "@chbrain/khai-plays-buechner-woyzeck",
+  "version": "0.0.0",
+  "private": true,
+  "khai": {
+    "engine": "woyzeck",
+    "card": {
+      "wire": "Georg Buechners unvollendetes Trauerspiel, inszeniert als ENACTS-Struktur."
+    }
+  }
+}
