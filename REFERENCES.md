@@ -18,8 +18,8 @@ The current status of the Buechner productions within this house:
 
 Buechner's writings, historical archives, and cultural context.
 
-| Source               | Key Work / Event | Scope                            |
-| -------------------- | ---------------- | -------------------------------- |
+| Source       | Key Work / Event | Scope                            |
+| ------------ | ---------------- | -------------------------------- |
 | **Buechner** | Canonical works  | Description of the source canon. |
 
 ## Restrictions

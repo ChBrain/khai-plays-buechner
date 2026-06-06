@@ -22,7 +22,7 @@ type: historical
 
 ## Projection
 
-The editor who peers through the chemical fade of ink. Franzos does not write the dramas—Büchner did. Franzos is the one who recovers them, organizing the fragmented pages of *Woyzeck* into a sequence the stage can hold.
+The editor who peers through the chemical fade of ink. Franzos does not write the dramas—Büchner did. Franzos is the one who recovers them, organizing the fragmented pages of _Woyzeck_ into a sequence the stage can hold.
 
 ## Action
 
