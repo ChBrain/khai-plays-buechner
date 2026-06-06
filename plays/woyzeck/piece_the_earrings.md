@@ -32,4 +32,4 @@ Zwei schwere Ohrringe aus purem Gold. Sie fangen das Licht. Sie glänzen hart. S
 
 ## Yearbook
 
-Irgendwann für teures Geld gegossen. Am hellen Nachmittag vom Tambourmajor gekauft und als Preis in die weichen Hände gedrückt. Heimlich am Fenster getragen, solange der Soldat auf der Straße war. Hastig versteckt, als der Schatten in die Tür trat. Sie bleiben als stumme Frage in der Schublade, bis das Wasser alles beendet.
+Irgendwann für teures Geld gegossen. Am hellen Nachmittag von [dem Tambourmajor](persona_the_drum_major.md) gekauft und als Preis in die weichen Hände gedrückt. Heimlich am Fenster getragen, solange der Soldat auf der Straße war. Hastig versteckt, als der Schatten in die Tür trat. Sie bleiben als stumme Frage in der Schublade, bis das Wasser alles beendet.
