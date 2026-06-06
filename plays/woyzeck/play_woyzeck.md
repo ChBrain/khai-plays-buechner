@@ -81,7 +81,7 @@ The plots run in one order, and each closes into the next.
    Captain and the Doctor and is paid in coin and in damage. Its close, a man
    dismissed with his wages and his mind already slipping, is the cue for the
    second.
-2. [The Drum Major](plot_the_drum_major.md) fires on that dismissal: Marie turns
+2. [The Parade](plot_the_parade.md) fires on that dismissal: Marie turns
    to the Drum Major while Woyzeck is out earning. Its close, betrayal made
    certain, is the cue for the third.
 3. [The Pond](plot_the_pond.md) fires on that certainty: Woyzeck leads Marie to
