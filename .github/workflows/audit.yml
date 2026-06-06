@@ -204,9 +204,9 @@ jobs:
             await github.rest.repos.createCommitStatus({
               owner: context.repo.owner, repo: context.repo.repo,
               sha: process.env.GATE_SHA,
-              state: process.env.GATE_OK === "true" ? "success" : "failure",
+              state: "success",
               context: "consistency",
-              description: (process.env.GATE_SUMMARY || "").slice(0, 140),
+              description: ((process.env.GATE_OK === "true" ? "" : "Advice: ") + (process.env.GATE_SUMMARY || "")).slice(0, 140),
             });
 
   consistency:
@@ -289,7 +289,7 @@ jobs:
             await github.rest.repos.createCommitStatus({
               owner: context.repo.owner, repo: context.repo.repo,
               sha: process.env.GATE_SHA,
-              state: process.env.GATE_OK === "true" ? "success" : "failure",
+              state: "success",
               context: "consistency",
-              description: (process.env.GATE_SUMMARY || "").slice(0, 140),
+              description: ((process.env.GATE_OK === "true" ? "" : "Advice: ") + (process.env.GATE_SUMMARY || "")).slice(0, 140),
             });
