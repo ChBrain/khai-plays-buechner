@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-buechner
 
+## 0.3.0
+
+### Minor Changes
+
+- b85b471: Stage Georg Büchner's Danton's Death (Dantons Tod): a full ENACTS play staging including configuration, personas, positions, pieces, places, processes, and plots.
+
 ## 0.2.0
 
 ### Minor Changes
