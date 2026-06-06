@@ -19,14 +19,10 @@ if (!manifestPath) {
 }
 
 const cfg = JSON.parse(readFileSync(manifestPath, "utf8"));
-const headSha = execFileSync("git", ["rev-parse", "HEAD"], {
-  encoding: "utf8",
-}).trim();
+const headSha = execFileSync("git", ["rev-parse", "HEAD"], { encoding: "utf8" }).trim();
 const treeSha = (path) => {
   try {
-    return execFileSync("git", ["rev-parse", `HEAD:${path}`], {
-      encoding: "utf8",
-    }).trim();
+    return execFileSync("git", ["rev-parse", `HEAD:${path}`], { encoding: "utf8" }).trim();
   } catch {
     return null; // a target that does not resolve to a tree (missing) stamps null
   }
@@ -41,8 +37,5 @@ const meta = {
   reviewedAt: new Date().toISOString(),
   targets,
 };
-writeFileSync(
-  join(dirname(manifestPath), "meta.json"),
-  JSON.stringify(meta, null, 2) + "\n",
-);
+writeFileSync(join(dirname(manifestPath), "meta.json"), JSON.stringify(meta, null, 2) + "\n");
 console.log(`stamped ${cfg.id} at ${headSha}`);

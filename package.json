@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "khai plays: the Buechner production house. Plays staged with khai; the source is credited where it is in the public domain.",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
@@ -34,8 +34,8 @@
   "devDependencies": {
     "@changesets/cli": "^2.27.8",
     "@chbrain/khai-arch": "^0.1.0",
-    "@chbrain/khai-tests": "^0.1.0",
     "@chbrain/khai-language": "^0.1.0",
+    "@chbrain/khai-tests": "^0.1.0",
     "@chbrain/khai-guard": "^0.1.0",
     "@chbrain/khai-review": "^0.1.0",
     "@chbrain/khai-pack": "^0.0.3",

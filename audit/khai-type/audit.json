@@ -1,7 +1,7 @@
 {
-  "id": "woyzeck-khai-type",
+  "id": "khai-type",
   "review": {
     "rubrics": ["khai-type"],
-    "targets": ["plays/woyzeck"]
+    "targets": ["."]
   }
 }
