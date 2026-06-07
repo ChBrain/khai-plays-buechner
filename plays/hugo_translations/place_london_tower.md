@@ -29,7 +29,7 @@ Ein hoher, kühler Saal mit grauen Steinwänden und spitzbogigen Fenstern. Im Ze
 
 ## Offers
 
-Bietet [Maria Tudor](persona_maria.md) den Ort der unumschränkten Machtausübung, an dem sie Dekrete unterzeichnet, Verräter verurteilt und die Staatsgewalt nach ihren Gefühlen beugt.
+Bietet der fiktiven Königin Maria Tudor (eine Projektion von [Victor Hugo](persona_hugo.md)) den Ort der unumschränkten Machtausübung, an dem sie Urteile fällt und den herrscherischen Zorn demonstriert.
 
 ## Withheld
 

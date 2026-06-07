@@ -32,14 +32,14 @@ Die Personen:
 - [Georg Büchner](persona_buechner.md), der gehetzte Übersetzer (fiktionale Rolle)
 - [Heinrich Remigius Sauerländer](persona_sauerlaender.md), der Schweizer Verleger
 - [Lucretia Borgia](persona_lucretia.md), die Giftmischerin aus seiner Übersetzung
-- [Maria Tudor](persona_maria.md), die grausame Königin aus seiner Übersetzung
+- [Victor Hugo](persona_hugo.md), der französische Dichter und Urheber
 
 Die Sitze, die sie innehaben:
 
 - [der Übersetzer](position_translator.md)
 - [der Verleger](position_publisher.md)
 - [die Heldin](position_heroine.md)
-- [die Obrigkeit](position_authority.md)
+- [die Autorität](position_authority.md)
 
 Die Dinge im Spiel:
 

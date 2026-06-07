@@ -20,7 +20,7 @@ describe("Buechner house: plays conform to the canon", () => {
   });
 
   it("every play satisfies the language policy", () => {
-    const results = validateProjectLanguages(root);
+    const results = validateProjectLanguages(root, { nlpLanguages: ["french"] });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
   });

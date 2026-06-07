@@ -24,11 +24,11 @@ Die [Dachstube](place_writing_room.md) bei Nacht. Die [Öllampe](piece_midnight_
 
 ## Action
 
-Die Qual des Schreibens beginnt. [Georg Büchner](persona_buechner.md) besetzt den Schreibplatz und führt [die Übersetzung](process_translation.md) durch. Mit zitternder Hand führt er die [Schreibfeder](piece_writing_quill.md), um die [deutsche Übersetzung](piece_german_translation.md) fertigzustellen. In seinem von Fieber und Angst geschwächten Zustand erwachen die Figuren der Übersetzung zum Leben: [Lucretia Borgia](persona_lucretia.md) mit dem [Giftfläschchen](piece_poison_vial.md) am [Hof von Ferrara](place_ferrara_court.md) und [Maria Tudor](persona_maria.md) mit dem [Richtbeil](piece_execution_axe.md) im [Windsor-Saal](place_london_tower.md) treten als Geister auf und deklamieren ihre tragischen Rollen, während Büchner versucht, das Grauen wortgetreu festzuhalten.
+Die Qual des Schreibens beginnt. [Georg Büchner](persona_buechner.md) besetzt den Schreibplatz und führt [die Übersetzung](process_translation.md) durch. Mit zitternder Hand führt er die [Schreibfeder](piece_writing_quill.md), um die [deutsche Übersetzung](piece_german_translation.md) fertigzustellen. In seinem von Fieber und Angst geschwächten Zustand erwachen die Figuren und ihr Schöpfer zum Leben: [Lucretia Borgia](persona_lucretia.md) mit dem [Giftfläschchen](piece_poison_vial.md) am [Hof von Ferrara](place_ferrara_court.md) und [Victor Hugo](persona_hugo.md) mit dem [Richtbeil](piece_execution_axe.md) im [Windsor-Saal](place_london_tower.md) treten als Geister auf und deklamieren ihre tragischen Rollen, während Büchner versucht, das Grauen wortgetreu festzuhalten.
 
 ## Stage
 
-Büchner sitzt gebeugt im Lichtkreis der [Öllampe](piece_midnight_lamp.md) im Zentrum der Bühne. Im düsteren Hintergrund, hinter den Dachbalken, wandeln die geisterhaften Gestalten Lucretias und Marias. Sie bewegen sich synchron zu seinen Schreibbewegungen und deklamieren ihre Verse über Gift und Tod wie ein unheilvoller Chor.
+Büchner sitzt gebeugt im Lichtkreis der [Öllampe](piece_midnight_lamp.md) im Zentrum der Bühne. Im düsteren Hintergrund, hinter den Dachbalken, wandeln die geisterhaften Gestalten Lucretias und Hugos. Sie bewegen sich synchron zu seinen Schreibbewegungen und deklamieren ihre Verse über Gift und Tod wie ein unheilvoller Chor.
 
 ## Tension
 

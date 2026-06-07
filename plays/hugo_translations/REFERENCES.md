@@ -34,6 +34,6 @@ Source to constraint, per file.
 - **the translator ([Büchner](persona_buechner.md), [translator](position_translator.md))**: The writer working for his life under the threat of arrest.
 - **the publisher ([Sauerländer](persona_sauerlaender.md), [publisher](position_publisher.md))**: The Swiss publisher demanding the manuscripts.
 - **the heroine ([Lucretia Borgia](persona_lucretia.md), [heroine](position_heroine.md))**: The fictional projections of fated tragedy from the translations.
-- **the queen ([Maria Tudor](persona_maria.md), [authority](position_authority.md))**: The forces of absolute power and arrest warrant closing in.
+- **the author ([Victor Hugo](persona_hugo.md), [authority](position_authority.md))**: The forces of literary authority and fated tragedy closing in.
 - **the tools ([original](piece_french_original.md), [translation](piece_german_translation.md), [quill](piece_writing_quill.md), [money](piece_advance_money.md))**: The instruments of translation labor and escape.
 - **the border ([writing room](place_writing_room.md), [aarau](place_aarau_office.md), [border](place_strasbourg_border.md))**: The movement from confinement to safety.

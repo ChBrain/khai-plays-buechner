@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Das französische Original"
+title: "L'original français"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,11 +8,11 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Piece: Das französische Original
+# Piece: L'original français
 
 ## Taxonomy
 
-Ein gedrucktes Buch mit den französischen Originaltexten von Victor Hugos Dramen _Lucrèce Borgia_ und _Marie Tudor_.
+Un livre imprimé contenant les textes originaux français des drames de Victor Hugo, _Lucrèce Borgia_ et _Marie Tudor_.
 
 ## Owner
 
@@ -20,16 +20,16 @@ Ein gedrucktes Buch mit den französischen Originaltexten von Victor Hugos Drame
 
 ## Place
 
-Bereitgestellt auf dem Arbeitstisch in der [Dachstube](place_writing_room.md) oder am [Hof von Ferrara](place_ferrara_court.md).
+Déposé sur la table de travail dans [die Dachstube](place_writing_room.md) ou au [der Hof von Ferrara](place_ferrara_court.md).
 
 ## Load Bearing
 
-Nimm das französische Original weg, und die Übersetzungsarbeit verliert ihre Quelle. Es ist die wortwörtliche, fremde Vorlage, die Büchners Arbeit diktiert und die er in deutsche Sätze übertragen muss, um sein Überleben zu sichern.
+Retirez l'original français, et le travail de traduction perd sa source. C'est le texte littéral et étranger de Victor Hugo qui régit le labeur de l'écrivain, qu'il doit transposer en phrases allemandes pour assurer sa survie et son départ.
 
 ## Apparent
 
-Ein broschierter, leicht abgegriffener Band mit blauem Papierumschlag, gedruckt in Paris. Die Seiten sind unbeschnitten, weisen französische Typografie auf und zeigen zahlreiche Flecken von Tinte und Kaffee.
+Un volume broché, légèrement usé, sous une couverture de papier bleu, imprimé à Paris. Les pages ne sont pas ébarbées, présentent une typographie française et montrent de nombreuses taches d'encre et de café.
 
 ## Yearbook
 
-Gekauft in Straßburg im Jahr 1834 und von Büchner nach Darmstadt gebracht, um als Vorlage für seine dringliche Auftragsarbeit zu dienen.
+Acheté à Strasbourg en 1834 et apporté par Büchner à Darmstadt pour servir de modèle à son travail de commande urgent.
