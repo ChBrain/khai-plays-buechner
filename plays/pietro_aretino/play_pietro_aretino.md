@@ -21,7 +21,7 @@ Die Produktion läuft unter dem Namen **Aretino (Der Kamin)**: Sie bezeichnet da
 
 ## Arc
 
-Februar 1837 und danach: Georg Büchner stirbt in Zürich; sein literarischer Nachlass, darunter das vollendete Drama _Pietro Aretino_, wird zu seiner Verlobten Minna Jaeglé nach Straßburg gebracht. Minna steht vor den unzensierten, blasphemischen Blättern des Stücks. Geplagt von theologischer Furcht und der Sorge um Georgs Nachruhm, greift sie zu den Streichhölzern. Sie wirft das Manuskript Seite für Seite in den Kamin. Während das Papier verbrennt, erwacht im Knistern des Feuers die profane Gestalt des Satirikers Pietro Aretino als flackerndes Trugbild in den Flammen, verlacht die Tugend und spottet über die Vernichtung. Jahrzehnte später steht Karl Emil Franzos im Archiv und durchsucht die Asche und Briefe nach den verlorenen Zeilen, um den Mythos des verbrannten Meisterwerks zu errichten.
+Ein verlorenes Meisterwerk der Renaissance-Satire steigt als Asche aus dem Kamin der Verlobten.
 
 ## Company
 

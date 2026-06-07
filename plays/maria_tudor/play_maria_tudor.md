@@ -21,7 +21,7 @@ Die Produktion läuft unter dem Namen **Maria Tudor**: nach der Königin von Eng
 
 ## Arc
 
-Fabiano Fabiani, der italienische Günstling der Königin Maria Tudor, führt ein doppeltes Spiel: Er genießt den Reichtum des Hofes, verführt jedoch heimlich die Waise Jane, die Mündel des ehrlichen Londoner Handwerkers Gilbert. Als Gilberts Freunde Fabianis Verrat aufdecken, verbündet sich der verletzte Handwerker mit dem spanischen Gesandten. Die Königin erfährt von Fabianis Treulosigkeit und stellt ihm eine tödliche Falle: Sie klagt ihn und Gilbert des Hochverrats an. Zwar will sie ihren Günstling im letzten Moment vor dem Richtplatz retten und befiehlt, Gilbert heimlich auf das Schafott zu schicken, doch das Londoner Volk erzwingt die Gerechtigkeit. Fabiani fällt unter dem Richtbeil, während Gilbert gerettet wird.
+Eine Königin stellt ihrem untreuen Liebhaber eine tödliche Falle aus Hochverrat und Hinrichtung.
 
 ## Company
 
