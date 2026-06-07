@@ -1,5 +1,15 @@
 # @chbrain/khai-plays-buechner
 
+## 0.9.0
+
+### Minor Changes
+
+- 78fb4f1: Stage Georg Büchner's Victor Hugo translations: a biographical meta-play framing Büchner's translation work under imminent threat of arrest.
+
+### Patch Changes
+
+- 78fb4f1: Add native French language support for Victor Hugo persona and original piece, replacing local exceptions workaround.
+
 ## 0.8.0
 
 ### Minor Changes
