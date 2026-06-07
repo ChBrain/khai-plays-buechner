@@ -12,10 +12,10 @@ Georg Büchner's prose fragment _Lenz_ as **dissociative drift**: the tragedy of
 
 Georg Büchner's narrative fragment _Lenz_ (written in 1835, first published posthumously in 1839 by Karl Gutzkow). The text is based on the historical journals and diaries of the pastor Johann Friedrich Oberlin, documenting the period from January 20 to mid-February 1778, when the Sturm und Drang poet Jakob Michael Reinhold Lenz stayed in the parsonage at Waldbach in the Steintal (Stein valley).
 
-| Source | Key Work / Event | Scope |
-| :--- | :--- | :--- |
-| **Johann Friedrich Oberlin** | _Oberlin's Journal_ (1778) | The primary historical record of Lenz's behavior, speech, and crises during his stay in Waldbach. |
-| **Georg Büchner** | _Lenz_ (1835/1839) | The literary adaptation of Oberlin's notes, shifting the focus to the visceral, existential struggle of Lenz's mind. |
+| Source                       | Key Work / Event           | Scope                                                                                                                |
+| :--------------------------- | :------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| **Johann Friedrich Oberlin** | _Oberlin's Journal_ (1778) | The primary historical record of Lenz's behavior, speech, and crises during his stay in Waldbach.                    |
+| **Georg Büchner**            | _Lenz_ (1835/1839)         | The literary adaptation of Oberlin's notes, shifting the focus to the visceral, existential struggle of Lenz's mind. |
 
 ## Restrictions
 
