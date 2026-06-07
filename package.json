@@ -1,7 +1,7 @@
 {
   "name": "@chbrain/khai-plays-buechner",
   "version": "0.9.0",
-  "description": "khai plays: the Buechner production house. Plays staged with khai; the source is credited where it is in the public domain.",
+  "description": "12 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction.",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
@@ -21,7 +21,7 @@
   "khai": {
     "engine": "plays-buechner",
     "card": {
-      "wire": "The Buechner production house: a collection of khai plays."
+      "wire": "12 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction."
     }
   },
   "scripts": {
