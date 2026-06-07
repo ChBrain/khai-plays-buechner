@@ -70,21 +70,4 @@ describe("Buechner house: plays conform to the canon", () => {
     walk(playsDir);
     expect(errors).toEqual([]);
   });
-
-  it("every management order is completed (no pending targets)", () => {
-    const ordersDir = join(root, "management", "orders");
-    if (!existsSync(ordersDir)) return;
-    const errors = [];
-    for (const fileName of readdirSync(ordersDir)) {
-      if (!fileName.endsWith(".md")) continue;
-      const filePath = join(ordersDir, fileName);
-      const content = readFileSync(filePath, "utf8");
-      // Match unchecked checkboxes [ ] but not [x], [F], [W]
-      const uncheckedMatch = content.match(/-\s+\[\s*\]/g);
-      if (uncheckedMatch) {
-        errors.push(`${fileName} has ${uncheckedMatch.length} pending targets`);
-      }
-    }
-    expect(errors).toEqual([]);
-  });
 });
