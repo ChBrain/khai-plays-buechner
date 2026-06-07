@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-buechner
 
+## 0.5.0
+
+### Minor Changes
+
+- ca63eda: Stage Georg Büchner's Der Hessische Landbote (The Hessian Courier): a full ENACTS play staging including configuration, personas, positions, pieces, places, processes, and plots.
+
 ## 0.4.0
 
 ### Minor Changes
