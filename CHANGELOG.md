@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-buechner
 
+## 0.4.0
+
+### Minor Changes
+
+- f2de093: Stage Georg Büchner's Lenz: a full ENACTS play staging in German, including configuration, personas, positions, pieces, places, processes, and plots.
+
 ## 0.3.0
 
 ### Minor Changes
