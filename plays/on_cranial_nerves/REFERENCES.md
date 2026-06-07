@@ -6,7 +6,7 @@ updated: "2026-06-07"
 
 ## Line of Work
 
-Georg Büchner's Zurich trial lecture of 1836, _Über Schädelnerven (Cyprinus barbus)_, staged as a **materialist anatomy demonstration**. The comparative dissection of the cranial nerves of the barbel fish is presented as an empirical battleground: proving that life, consciousness, and response are functions of physical, biological structure—an organic machine—rather than a metaphysical soul or teleological design. The domain models the lecture hall as a theater of anatomical, chemical, and electrical operations where the living organism is reduced to its mechanical components.
+Georg Büchner's Zurich trial lecture of 1836, _Über Schädelnerven (Cyprinus barbus)_, staged as a **materialist anatomy demonstration**. The comparative dissection of the cranial nerves of the barbel fish is presented as an empirical battleground: proving that life, consciousness, and response are functions of physical, biological structure (an organic machine) rather than a metaphysical soul or teleological design. The domain models the lecture hall as a theater of anatomical, chemical, and electrical operations where the living organism is reduced to its mechanical components.
 
 ## Origin
 
