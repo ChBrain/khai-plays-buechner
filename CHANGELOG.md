@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-buechner
 
+## 0.6.0
+
+### Minor Changes
+
+- 5ac1366: Stage Georg Büchner's Zurich trial lecture Über Schädelnerven (On Cranial Nerves): a full ENACTS play staging including configuration, personas, positions, pieces, places, processes, and plots.
+
 ## 0.5.0
 
 ### Minor Changes
