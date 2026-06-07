@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-buechner
 
+## 0.7.0
+
+### Minor Changes
+
+- 29442a3: Stage Georg Büchner's translation of Victor Hugo's tragedy Lucretia Borgia: a full ENACTS play staging including configuration, personas, positions, pieces, places, processes, and plots.
+
 ## 0.6.0
 
 ### Minor Changes
