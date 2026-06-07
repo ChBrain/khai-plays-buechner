@@ -1,7 +1,7 @@
 {
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.1.0",
-  "description": "khai plays: the Buechner production house. Plays staged with khai; the source is credited where it is in the public domain.",
+  "version": "0.12.0",
+  "description": "12 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction.",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
@@ -20,8 +20,61 @@
   ],
   "khai": {
     "engine": "plays-buechner",
+    "languages": [
+      "french"
+    ],
     "card": {
-      "wire": "The Buechner production house: a collection of khai plays."
+      "wire": "12 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction."
+    },
+    "plays": {
+      "dantons_death": {
+        "title": "Dantons Tod",
+        "description": "Ein müder Revolutionär wird von der unerbittlichen Maschinerie der historischen Tugend zermalmt."
+      },
+      "leonce_and_lena": {
+        "title": "Leonce und Lena",
+        "description": "Zwei gelangweilte Königskinder fliehen vor ihren Kronen, um als hölzerne Automaten zu heiraten."
+      },
+      "woyzeck": {
+        "title": "Woyzeck",
+        "description": "Ein einfacher Soldat zerbricht an Befehlen, Hunger und einem Messer."
+      },
+      "lenz": {
+        "title": "Lenz",
+        "description": "Ein Dichter flieht in die kalten Berge des Wahnsinns, auf der Suche nach einem Anker für seinen Geist."
+      },
+      "the_hessian_courier": {
+        "title": "Der Hessische Landbote",
+        "description": "Ein revolutionäres Pamphlet nutzt nackte Steuerstatistiken, um den Bauernaufstand zu entfachen."
+      },
+      "briefwechsel": {
+        "title": "Briefwechsel",
+        "description": "Ein verzweifeltes Netz aus Tinte und Siegelwachs trägt das Überleben eines Flüchtigen über Grenzen."
+      },
+      "zuericher_exil": {
+        "title": "Züricher Exil",
+        "description": "Ein materialistischer Arzt seziert die Nerven der Barbe, während der Typhus seinen Körper fordert."
+      },
+      "pietro_aretino": {
+        "title": "Pietro Aretino",
+        "description": "Ein verlorenes Meisterwerk der Renaissance-Satire steigt als Asche aus dem Kamin der Verlobten."
+      },
+      "on_cranial_nerves": {
+        "title": "Über Schädelnerven",
+        "description": "Galvanischer Strom lässt einen toten Fisch zucken, um das Leben als biologische Maschine zu beweisen."
+      },
+      "hugo_translations": {
+        "title": "Hugo-Übersetzungen",
+        "description": "Ein Flüchtling übersetzt in fieberhafter Nachtarbeit französische Dramen, um seine Flucht zu finanzieren."
+      },
+      "lucretia_borgia": {
+        "title": "Lucretia Borgia",
+        "description": "Ein Soldat ersticht ahnungslos seine Mutter, die berüchtigte Herzogin, um seine vergifteten Freunde zu rächen."
+      },
+      "maria_tudor": {
+        "title": "Maria Tudor",
+        "description": "Eine Königin stellt ihrem untreuen Liebhaber eine tödliche Falle aus Hochverrat und Hinrichtung."
+      }
     }
   },
   "scripts": {
@@ -33,14 +86,14 @@
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.8",
-    "@chbrain/khai-arch": "^0.1.0",
-    "@chbrain/khai-tests": "^0.1.0",
-    "@chbrain/khai-language": "^0.1.0",
+    "@chbrain/khai-arch": "^0.1.7",
     "@chbrain/khai-guard": "^0.1.0",
-    "@chbrain/khai-review": "^0.1.0",
+    "@chbrain/khai-language": "^0.1.1",
     "@chbrain/khai-pack": "^0.0.3",
-    "vitest": "^4.1.8",
+    "@chbrain/khai-review": "^0.1.0",
+    "@chbrain/khai-tests": "^0.1.7",
+    "husky": "^9.1.0",
     "prettier": "^3.3.0",
-    "husky": "^9.1.0"
+    "vitest": "^4.1.8"
   }
 }

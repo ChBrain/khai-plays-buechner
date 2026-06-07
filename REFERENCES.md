@@ -1,53 +1,35 @@
 ---
-updated: "2026-06-06"
+updated: "2026-01-01"
 ---
 
 # Buechner House: Reference
 
 ## Line of Work
 
-Staging the complete, fragmentary, and experimental works of Georg Büchner as **systemic systems**: modeling the mechanical, political, and psychological extraction of the individual under institutional power structures. The house does not model these works as conventional character tragedies; it represents them as sequences of economic, ideological, and psychological pressure.
-
-The scope of this house extends beyond his classic dramas to his entire intellectual footprint:
-
-- **Canonical Dramas**: _Woyzeck_ (servitude and madness), _Dantons Tod_ (political fatalism and terror), and _Leonce und Lena_ (satirical automation of state and romance).
-- **Prose & Pamphlets**: _Lenz_ (a clinical monodrama of psychological decay) and _Der Hessische Landbote_ (an agitprop oratorio of class struggle).
-- **Comparative Translations**: Staging Victor Hugo's _Lucrèce Borgia_ and _Marie Tudor_ side-by-side with Büchner's German translations (_Lucretia Borgia_, _Maria Tudor_) to trace the transposition of dramatic force.
-- **Experimental & Biographical Staging**: _Pietro Aretino_ (a meta-theatrical reconstruction of his lost/burned manuscript), _Über Schädelnerven_ (a lecture-performance about the cold dissection of the barbel fish), and _Briefwechsel_ (an epistolary staging of exile and the _Fatalismus-Briefe_).
+Staging the works of Buechner as **systemic systems**: modeling the mechanical, thematic, and dramatic structures of the source. The house represents these works not as conventional character tragedies, but as structured processes operating under system-wide rules.
 
 ### Staging Status
 
 The current status of the Buechner productions within this house:
 
-- `[x]` **Woyzeck** (Classic Drama) — Staged
-- `[ ]` **Dantons Tod** (Classic Drama) — Planned
-- `[ ]` **Leonce und Lena** (Satirical Comedy) — Planned
-- `[ ]` **Lenz** (Clinical Monodrama) — Planned
-- `[ ]` **Der Hessische Landbote** (Agitprop Oratorio) — Planned
-- `[ ]` **Pietro Aretino** (Lost Drama Meta-Staging) — Planned
-- `[ ]` **Über Schädelnerven** (Scientific Lecture-Performance) — Planned
-- `[ ]` **Briefwechsel** (Epistolary Reading) — Planned
-- `[ ]` **Hugo Translations** (Comparative side-by-side: _Lucrèce Borgia_ / _Marie Tudor_) — Planned
+- [ ] **Example Production** — Planned
 
 ## Origin
 
-Georg Büchner's dramatic, prose, scientific, and political writings (1834–1837), applying clinical precision, radical social critique, and existential philosophy to historical, psychological, and satiric subjects.
+Buechner's writings, historical archives, and cultural context.
 
-| Source                                 | Key Work / Event                                           | Scope                                                                                          |
-| -------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Georg Büchner**                      | _Complete Works and Letters_ (1834–1837)                   | The complete literary, epistolary, and scientific canon.                                       |
-| **Historical & Philosophical Sources** | French Revolution archives, Clarus reports, Romantic irony | The factual and conceptual bases for Büchner's materialist view of history and human behavior. |
+| Source       | Key Work / Event | Scope                            |
+| ------------ | ---------------- | -------------------------------- |
+| **Buechner** | Canonical works  | Description of the source canon. |
 
 ## Restrictions
 
 What the house refuses to model, and to whom it delegates.
 
-- **Chronological and textual absolutism**: Büchner's works, particularly _Woyzeck_ and _Lenz_, exist in fragmentary states. The house does not claim "true" historical sequences. Instead, it organizes play fragments mechanically by triggers and structural causality.
-- **Psychological moralizing**: The house refuses to treat madness, betrayal, or political failure as personal moral flaws. They are modeled as systemic exhaust: the output of positions, resources, and processes pressing down on the personas.
-- **Historical realism**: Ensembles and settings are strictly reduced to the essential vectors of extraction (e.g., military, science, class, ideology), omitting minor decorative details and secondary figures.
-- **Monolingual uniformity (Language Policy)**: The house implements a strict bilingual split:
-  - **English for Architecture & Schema**: To maintain compatibility with the global `khai` framework specifications and tooling, the house identity ([README.md](README.md)), the reference warrant ([REFERENCES.md](REFERENCES.md)), frontmatter keys, and H2 structural headings are written in English.
-  - **German for Prose & Staging**: All character descriptions (`Projection`, `Action`, `Shadow`), element behaviors, and scene notes are written in Büchner's authentic German (incorporating his distinctive parataxis, period-specific syntax, and direct quotations like _„Wir arme Leut“_). Translating this prose to English would dilute the raw, feverish, and historical quality of Büchner's original text.
+- **Absolutism & Realism**: The house refuses to claim absolute historical or psychological realism. Elements, roles, and settings are strictly reduced to the essential load-bearing vectors of the play's systemic architecture.
+- **Language Policy**: The house defines its own language policy regarding the staging prose and schema compatibility:
+  - **English for Architecture & Schema**: To maintain compatibility with global validation tooling and the `khai` framework specifications, structural headings, frontmatter keys, reference warrants (`REFERENCE.md` or `REFERENCES.md`), and the house identity (`README.md`) are written in English.
+  - **[Staging Language] for Prose & Staging**: All character projections, actions, shadows, tells, and staging notes are written in the source's authentic language to preserve its original dramatic force and historical qualities.
 
 ## Encoding
 
