@@ -1,21 +1,22 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-buechner",
   "version": "0.12.0",
   "plays": [
+    {
+      "id": "briefwechsel",
+      "title": "Briefwechsel",
+      "description": "Ein verzweifeltes Netz aus Tinte und Siegelwachs trägt das Überleben eines Flüchtigen über Grenzen."
+    },
     {
       "id": "dantons_death",
       "title": "Dantons Tod",
       "description": "Ein müder Revolutionär wird von der unerbittlichen Maschinerie der historischen Tugend zermalmt."
     },
     {
-      "id": "leonce_and_lena",
-      "title": "Leonce und Lena",
-      "description": "Zwei gelangweilte Königskinder fliehen vor ihren Kronen, um als hölzerne Automaten zu heiraten."
-    },
-    {
-      "id": "woyzeck",
-      "title": "Woyzeck",
-      "description": "Ein einfacher Soldat zerbricht an Befehlen, Hunger und einem Messer."
+      "id": "hugo_translations",
+      "title": "Hugo-Übersetzungen",
+      "description": "März 1835: Georg Büchner steht in Darmstadt unter ständiger polizeilicher Beobachtung und flieht nach Straßburg."
     },
     {
       "id": "lenz",
@@ -23,34 +24,9 @@
       "description": "Ein Dichter flieht in die kalten Berge des Wahnsinns, auf der Suche nach einem Anker für seinen Geist."
     },
     {
-      "id": "the_hessian_courier",
-      "title": "Der Hessische Landbote",
-      "description": "Ein revolutionäres Pamphlet nutzt nackte Steuerstatistiken, um den Bauernaufstand zu entfachen."
-    },
-    {
-      "id": "briefwechsel",
-      "title": "Briefwechsel",
-      "description": "Ein verzweifeltes Netz aus Tinte und Siegelwachs trägt das Überleben eines Flüchtigen über Grenzen."
-    },
-    {
-      "id": "zuericher_exil",
-      "title": "Die Spiegelgasse (Das Züricher Exil)",
-      "description": "Ein materialistischer Arzt seziert die Nerven der Barbe, während der Typhus seinen Körper fordert."
-    },
-    {
-      "id": "pietro_aretino",
-      "title": "Aretino (Der Kamin)",
-      "description": "Ein verlorenes Meisterwerk der Renaissance-Satire steigt als Asche aus dem Kamin der Verlobten."
-    },
-    {
-      "id": "on_cranial_nerves",
-      "title": "Über Schädelnerven",
-      "description": "Galvanischer Strom lässt einen toten Fisch zucken, um das Leben als biologische Maschine zu beweisen."
-    },
-    {
-      "id": "hugo_translations",
-      "title": "Hugo-Übersetzungen",
-      "description": "Ein Flüchtling übersetzt in fieberhafter Nachtarbeit französische Dramen, um seine Flucht zu finanzieren."
+      "id": "leonce_and_lena",
+      "title": "Leonce und Lena",
+      "description": "Zwei gelangweilte Königskinder fliehen vor ihren Kronen, um als hölzerne Automaten zu heiraten."
     },
     {
       "id": "lucretia_borgia",
@@ -61,6 +37,31 @@
       "id": "maria_tudor",
       "title": "Maria Tudor",
       "description": "Eine Königin stellt ihrem untreuen Liebhaber eine tödliche Falle aus Hochverrat und Hinrichtung."
+    },
+    {
+      "id": "on_cranial_nerves",
+      "title": "Über Schädelnerven",
+      "description": "Galvanischer Strom lässt einen toten Fisch zucken, um das Leben als biologische Maschine zu beweisen."
+    },
+    {
+      "id": "pietro_aretino",
+      "title": "Aretino (Der Kamin)",
+      "description": "Ein verlorenes Meisterwerk der Renaissance-Satire steigt als Asche aus dem Kamin der Verlobten."
+    },
+    {
+      "id": "the_hessian_courier",
+      "title": "Der Hessische Landbote",
+      "description": "Ein revolutionäres Pamphlet nutzt nackte Steuerstatistiken, um den Bauernaufstand zu entfachen."
+    },
+    {
+      "id": "woyzeck",
+      "title": "Woyzeck",
+      "description": "Ein einfacher Soldat zerbricht an Befehlen, Hunger und einem Messer."
+    },
+    {
+      "id": "zuericher_exil",
+      "title": "Die Spiegelgasse (Das Züricher Exil)",
+      "description": "Ein materialistischer Arzt seziert die Nerven der Barbe, während der Typhus seinen Körper fordert."
     }
   ]
 }
