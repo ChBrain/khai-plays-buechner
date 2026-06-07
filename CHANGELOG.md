@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-buechner
 
+## 0.8.0
+
+### Minor Changes
+
+- bb7b2b6: Stage Georg Büchner's translation of Victor Hugo's tragedy Maria Tudor: a full ENACTS play staging including configuration, personas, positions, pieces, places, processes, and plots.
+
 ## 0.7.0
 
 ### Minor Changes
