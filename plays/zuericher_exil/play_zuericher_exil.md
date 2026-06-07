@@ -21,7 +21,7 @@ Die Produktion läuft unter dem Namen **Die Spiegelgasse (Das Züricher Exil)**:
 
 ## Arc
 
-Winter 1836 bis Februar 1837: Georg Büchner hat seine Dissertation abgeschlossen und erhält seine Promotion als Doktor der Philosophie in Zürich. Er hält seine erfolgreiche Probevorlesung _Über Schädelnerven_ vor dem Senat und beginnt seine Lehrtätigkeit als Dozent. Er doziert über das Nervensystem der Barbe, um die materialistische Einheit von Geist und Körper zu beweisen. Doch im Januar 1837 greift die unsichtbare Infektion des Typhus seinen eigenen Organismus an. Aus der stolzen Kanzel des Wissenschaftlers wird die Enge des Fieberbettes in der Spiegelgasse. Wilhelm und Caroline Schulz pflegen ihn verzweifelt und zeichnen sein Fieber auf, während Büchner im Delirium wirre, fragmentierte Worte spricht. Am 19. Februar 1837 erlischt sein Atem; sein eigener Körper wird zur kalten, biologischen Masse des Seziertisches.
+Ein materialistischer Arzt seziert die Nerven der Barbe, während der Typhus seinen Körper fordert.
 
 ## Company
 
