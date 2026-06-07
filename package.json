@@ -26,6 +26,9 @@
   ],
   "khai": {
     "engine": "plays-buechner",
+    "languages": [
+      "french"
+    ],
     "card": {
       "wire": "12 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction."
     },
