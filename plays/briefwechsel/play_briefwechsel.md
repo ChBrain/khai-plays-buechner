@@ -21,7 +21,7 @@ Die Produktion läuft unter dem Namen **Briefwechsel**: Sie bezeichnet das Netz 
 
 ## Arc
 
-1834 bis 1837: Georg Büchner flieht vor der hessischen Justiz, hinterlässt seine Verlobte Minna in Straßburg und sucht Zuflucht in Darmstadt, Offenbach, Straßburg und schließlich Zürich. Seine Briefe sind die einzige Verbindung zur Heimat. Er schreibt gegen die väterliche Missbilligung, ringt mit dem Verleger um Vorschüsse und gesteht Minna seine tiefste Lähmung: das Gesetz des Fatalismus, das die Geschichte beherrscht und den Menschen zum bloßen Schaum auf der Welle degradiert. Während er verzweifelt auf Antworten wartet, fangen Gendarmen seine Post ab, öffnen Siegel und schneiden Zeilen aus. Das Briefnetz trägt sein nacktes Leben, zerreißt aber unter der Last von Isolation und Entfremdung.
+Ein verzweifeltes Netz aus Tinte und Siegelwachs trägt das Überleben eines Flüchtigen über Grenzen.
 
 ## Company
 

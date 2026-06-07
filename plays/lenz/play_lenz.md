@@ -25,7 +25,7 @@ Die Produktion läuft unter dem Namen **Lenz**: dem Namen des Dichters, der am 2
 
 ## Arc
 
-Ein gehetzter Dichter flieht in die Einsamkeit der Vogesen, um seinen inneren Qualen zu entkommen. Im Pfarrhaus von Waldbach findet er vorübergehend Zuflucht und Trost im Glauben und in der Gemeinschaft. Doch die Ankunft eines alten Bekannten reißt alte Wunden auf und treibt ihn tiefer in den Wahnsinn. Nach dem gescheiterten Versuch, ein totes Kind aufzuerwecken, verliert er jeden Halt. Er wird nach Straßburg zurückgebracht, völlig teilnahmslos, leer und ohne Hoffnung.
+Ein Dichter flieht in die kalten Berge des Wahnsinns, auf der Suche nach einem Anker für seinen Geist.
 
 ## Company
 

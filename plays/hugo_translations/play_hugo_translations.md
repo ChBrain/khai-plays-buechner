@@ -21,7 +21,7 @@ Die Produktion läuft unter dem Namen **Hugo-Übersetzungen**: Sie bezeichnet da
 
 ## Arc
 
-März 1835: Georg Büchner steht in Darmstadt unter ständiger polizeilicher Beobachtung. Seine revolutionäre Flugschrift ist verraten, seine Mitverschwörer sind verhaftet. Um das Geld für seine eigene Flucht aufzutreiben, schließt er einen Vertrag mit dem Schweizer Verleger Sauerländer über die Übersetzung von Victor Hugos Stücken _Lucretia Borgia_ und _Maria Tudor_. In fieberhafter Nachtarbeit bei spärlichem Lampenlicht ringt Büchner mit den französischen Texten, während die Häscher der Obrigkeit das Haus umstellen. Als die Verhaftung unmittelbar bevorsteht, rettet ihn der eintreffende Vorschuss des Verlegers. Büchner packt seine Manuskripte und flieht im letzten Moment über die französische Grenze nach Straßburg.
+Ein Flüchtling übersetzt in fieberhafter Nachtarbeit französische Dramen, um seine Flucht zu finanzieren.
 
 ## Company
 

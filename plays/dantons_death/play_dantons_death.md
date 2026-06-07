@@ -27,7 +27,7 @@ Die Produktion läuft unter dem Namen **Dantons Tod**: dem Namen der geschichtli
 
 ## Arc
 
-Das Spiel schreitet fort vom politischen Stillstand über die Gefangennahme und das Tribunal bis hin zum Schafott. Danton versucht, dem politischen Zwang durch Lethargie zu entkommen, wird jedoch von der Maschinerie der Tugend erfasst. Der Bogen beschreibt die Zerstörung des Individuums durch das historische Gesetz.
+Ein müder Revolutionär wird von der unerbittlichen Maschinerie der historischen Tugend zermalmt.
 
 ## Company
 

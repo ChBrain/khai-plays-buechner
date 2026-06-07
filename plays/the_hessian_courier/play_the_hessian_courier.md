@@ -25,7 +25,7 @@ Die Produktion läuft unter dem Namen **Der Hessische Landbote**: dem Namen der 
 
 ## Arc
 
-Ein junger Medizinstudent verfasst eine revolutionäre Flugschrift, die mit nackten Steuerstatistiken den Zorn der Bauern entfachen soll. Ein reformorientierter Pfarrer überarbeitet den Text mit biblischen Bildern und druckt ihn heimlich im Pfarrhaus. Während Kuriere versuchen, die Papiere unter ständiger Überwachung durch die Stadttore zu schmuggeln, bricht die Verschwörung durch die Denunziation erschöpfter Bauern zusammen. Der Pfarrer wird verhaftet und zu Tode gequält, während der Autor im letzten Moment über die Grenze entflieht.
+Ein revolutionäres Pamphlet nutzt nackte Steuerstatistiken, um den Bauernaufstand zu entfachen.
 
 ## Company
 
