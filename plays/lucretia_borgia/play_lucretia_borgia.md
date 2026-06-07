@@ -21,7 +21,7 @@ Die Produktion läuft unter dem Namen **Lucretia Borgia**: nach der historischen
 
 ## Arc
 
-Gennaro, ein junger Soldat ohne Herkunft, verabscheut die grausamen Borgias. Aus Protest meißelt er den ersten Buchstaben des Borgia-Namens von der Fassade des Herzogspalasts in Ferrara. Don Alphonso, der eifersüchtige Herzog, vermutet in dem jungen Mann den geheimen Liebhaber seiner Frau Lucretia und fordert seinen Tod. Lucretia wird gezwungen, ihrem eigenen Sohn - von dessen Identität er nichts ahnt - den Giftbecher zu reichen, gibt ihm jedoch heimlich das Gegengift. Beim finalen Fest der Prinzessin Negroni vergiftet Lucretia aus Rache Gennaros Freunde, doch Gennaro verweigert das verbleibende Gegengift und ersticht Lucretia im Zorn, bevor er selbst stirbt und im Moment des Todes erfährt, dass sie seine Mutter war.
+Ein Soldat ersticht ahnungslos seine Mutter, die berüchtigte Herzogin, um seine vergifteten Freunde zu rächen.
 
 ## Company
 

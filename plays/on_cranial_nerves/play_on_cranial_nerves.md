@@ -21,7 +21,7 @@ Die Produktion läuft unter dem Namen **Über Schädelnerven**: nach dem Titel v
 
 ## Arc
 
-Ein junger Emigrant und Naturforscher tritt vor das Skeptiker-Auditorium in Zürich, um die mechanische Natur des Lebens zu demonstrieren. Auf einem kalten Seziertisch liegt eine Barbe. Durch präzise Schnitte legt er die Trigeminus- und Fazialisnerven frei, während sein Gehilfe die galvanischen Platten vorbereitet. Unter den Augen skeptischer Studenten leitet er Strom durch das tote Gewebe, bis die Muskeln des Fisches zucken. Der Beweis ist erbracht: Die Bewegung ist keine Frage einer metaphysischen Seele, sondern das Resultat einer organischen Schaltung. Die lebendige Wildheit der Limmat ist zu einem biologischen Apparat reduziert worden.
+Galvanischer Strom lässt einen toten Fisch zucken, um das Leben als biologische Maschine zu beweisen.
 
 ## Company
 

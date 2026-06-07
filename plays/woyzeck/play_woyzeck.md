@@ -3,7 +3,7 @@ khai: play
 title: "Woyzeck"
 license: CC-BY-NC-SA-4.0
 voice: "stripped, clinical, direct; rhythmic, simple sentences"
-description: "Franz Woyzeck, ein einfacher Soldat, versucht unter widrigsten Bedingungen, das Überleben seiner Partnerin Marie und ihres gemeinsamen Kindes zu sichern. Um Geld zu verdienen, rasiert er seinen Hauptmann und unterzieht sich für den Regimentsarzt einer grausamen Erbsendiät. Die systematische Ausbeutung zerstört seine geistige Gesundheit. Als Marie sich auf eine Affäre mit dem Tambourmajor einlässt, bricht Woyzecks letzter Halt weg. Getrieben von Wahnvorstellungen und Stimmen kauft er ein Messer, führt Marie an den Teich vor der Stadt und sticht sie nieder."
+description: "Ein einfacher Soldat zerbricht an Befehlen, Hunger und einem Messer."
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -28,13 +28,7 @@ Wort, denn das Spiel hat nur ein Subjekt und seziert es in drei Akten.
 
 ## Arc
 
-Ein armer Mensch wird an Leib und Seele ausgebeutet und verwertet von den Herren, die über ihn
-gesetzt sind, und das Einzige, was noch sein eigen ist, ist Marie. Der Bogen
-geht vom Dienst über den Verrat bis zum Wasser: Er dient, er verliert sie, er
-sticht sie tot, und im Töten vergießt er den letzten Rest seiner selbst.
-Vertauscht man die drei, bricht der Sturz in sich zusammen: Er muss besessen sein, ehe der
-Verlust ihn treffen kann, und sie verlieren, bevor der Teich etwas bedeutet. Es
-ist ein Sturz, und der Sturz bestimmt die Form.
+Ein einfacher Soldat zerbricht an Befehlen, Hunger und einem Messer.
 
 ## Company
 

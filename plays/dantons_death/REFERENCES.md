@@ -27,6 +27,6 @@ The dramatic conflict is structured as an ideological debate:
 
 ## Primary Sources
 
-- Menzel, Karl Adolf: _Geschichte unserer Zeit_. Bd. 1–3, 1832.
+- Menzel, Karl Adolf: _Geschichte unserer Zeit_. Bd. 1-3, 1832.
 - Blanc, Louis: _Histoire de la Révolution Française_.
 - Thiers, Adolphe: _Histoire de la Révolution Française_, 1823.

@@ -28,14 +28,7 @@ Subjekte, die sich suchen, um sich als Marionetten wiederzufinden.
 
 ## Arc
 
-Zwei gelangweilte Königskinder fliehen vor der arrangierten Ehe und der Schwere
-ihrer Kronen. Auf der Flucht begegnen sie sich unerkannt, verlieben sich in die
-Melancholie des anderen und kehren als hölzerne Automaten verkleidet zurück. Sie
-werden _in effigie_ verheiratet, nur um nach dem Ablegen der Masken zu erkennen,
-dass sie ihrem Schicksal nicht entkommen sind. Der Bogen geht von der Flucht über
-die Täuschung bis zur Krönung: erst die Flucht macht die Begegnung möglich, und
-erst die Verkleidung erlaubt die Rückkehr auf den Thron. Es ist ein Spiel der
-Vorsehung, das als Komödie beginnt und als ewige Langeweile endet.
+Zwei gelangweilte Königskinder fliehen vor ihren Kronen, um als hölzerne Automaten zu heiraten.
 
 ## Company
 
