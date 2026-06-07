@@ -21,7 +21,7 @@ Die Produktion läuft unter dem Namen **Hugo-Übersetzungen**: Sie bezeichnet da
 
 ## Arc
 
-Ein Flüchtling übersetzt in fieberhafter Nachtarbeit französische Dramen, um seine Flucht zu finanzieren.
+März 1835: Georg Büchner steht in Darmstadt unter ständiger polizeilicher Beobachtung und flieht nach Straßburg.
 
 ## Company
 
