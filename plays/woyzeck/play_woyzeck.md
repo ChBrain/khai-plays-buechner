@@ -71,6 +71,10 @@ Prozesse:
 - [die Verführung](process_the_seduction.md)
 - [der Mord](process_the_killing.md)
 
+Pläne:
+
+- [das Experiment](plan_das_experiment.md), das Vorhaben des Doktors, seine Theorie am lebenden Soldaten zu beweisen
+
 ## Triggers
 
 Die Szenen folgen aufeinander und bedingen einander.

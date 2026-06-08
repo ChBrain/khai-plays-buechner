@@ -80,6 +80,10 @@ Was abläuft:
 - [die Denunziation](process_denunciation.md)
 - [das Verhör](process_interrogation.md)
 
+Die Pläne, die unter den Türen scheitern:
+
+- [die Verschwörung](plan_die_verschwoerung.md), das illegale Mandat des Agitators
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
