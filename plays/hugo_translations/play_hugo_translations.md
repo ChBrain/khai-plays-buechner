@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Hugo-Übersetzungen"
+title: "Hugo Translations"
 license: CC-BY-NC-SA-4.0
 voice: "dringlich, atemlos, fiebrig, melancholisch; kontrastiert mit hochromantischem Pathos"
 stamp:
