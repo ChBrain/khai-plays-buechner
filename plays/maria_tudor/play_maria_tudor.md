@@ -72,6 +72,11 @@ Was abläuft:
 - [die Verurteilung](process_condemnation.md)
 - [die Hinrichtung](process_execution.md)
 
+Die Pläne, die sich auf dem Schafott kreuzen:
+
+- [der Tausch](plan_der_tausch.md), das verborgene Vorhaben der Königin
+- [die Rettung](plan_die_rettung.md), das Vorhaben Janes
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
