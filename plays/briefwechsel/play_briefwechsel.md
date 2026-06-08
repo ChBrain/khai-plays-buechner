@@ -72,6 +72,10 @@ Was abläuft:
 - [die Beförderung](process_transport.md)
 - [das Entziffern](process_deciphering.md)
 
+Pläne:
+
+- [die Lebenslinie](plan_die_lebenslinie.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
