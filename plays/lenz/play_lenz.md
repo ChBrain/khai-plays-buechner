@@ -85,6 +85,10 @@ Was abläuft:
 - [die nächtliche Krise](process_night_crisis.md)
 - [der Abtransport](process_departure.md)
 
+Der Plan, der an einem willenlosen Geist zerbricht:
+
+- [die Heilung](plan_die_heilung.md), Oberlins Vorhaben der Seelsorge
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
