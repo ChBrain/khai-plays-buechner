@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Illustration"
+title: "The Illustration"
+declared: "Die Illustration"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Die Spiegelgasse (Das Züricher Exil)"
+title: "The Spiegelgasse (The Zurich Exile)"
+declared: "Die Spiegelgasse (Das Züricher Exil)"
 license: CC-BY-NC-SA-4.0
 voice: "starr, sachlich, materialistisch; konfrontiert medizinische Präzision mit dem biologischen Siechtum des Fiebers"
 stamp:

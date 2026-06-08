@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Verurteilung"
+title: "The Condemnation"
+declared: "Die Verurteilung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

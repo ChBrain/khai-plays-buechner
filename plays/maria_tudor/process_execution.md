@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Hinrichtung"
+title: "The Execution"
+declared: "Die Hinrichtung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

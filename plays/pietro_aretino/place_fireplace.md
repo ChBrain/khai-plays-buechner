@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Der Kamin"
+title: "The Fireplace"
+declared: "Der Kamin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

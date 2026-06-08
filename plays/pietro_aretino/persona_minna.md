@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Minna Jaeglé"
+declared: "Minna Jaeglé"
 license: CC-BY-NC-SA-4.0
 voice: "entschlossen, trauernd, von religiöser und moralischer Furcht geleitet; leise, ernste Diktion"
 stamp:

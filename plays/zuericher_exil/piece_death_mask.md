@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Totenmaske"
+title: "The Death Mask"
+declared: "Die Totenmaske"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

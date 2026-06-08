@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Dorf Waldbach"
+title: "The Village of Waldbach"
+declared: "Das Dorf Waldbach"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

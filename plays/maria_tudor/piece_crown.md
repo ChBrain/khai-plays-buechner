@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die englische Krone"
+title: "The English Crown"
+declared: "Die englische Krone"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

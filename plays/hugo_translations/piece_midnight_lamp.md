@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Öllampe"
+title: "The Oil Lamp"
+declared: "Die Öllampe"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

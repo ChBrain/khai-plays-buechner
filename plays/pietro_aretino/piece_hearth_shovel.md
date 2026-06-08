@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Ascheschaufel"
+title: "The Ash Shovel"
+declared: "Die Ascheschaufel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

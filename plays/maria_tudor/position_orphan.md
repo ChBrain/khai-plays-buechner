@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Die Waise"
+title: "The Orphan"
+declared: "Die Waise"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

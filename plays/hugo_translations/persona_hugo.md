@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Victor Hugo"
+declared: "Victor Hugo"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Themseufer"
+title: "The Bank of the Thames"
+declared: "Das Themseufer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

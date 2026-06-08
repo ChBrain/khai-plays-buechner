@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Don Alphonso"
+declared: "Don Alphonso"
 license: CC-BY-NC-SA-4.0
 voice: "kalt, eifersüchtig, tyrannisch; besessen von seiner Ehre, seinem Recht und seiner Rache"
 stamp:

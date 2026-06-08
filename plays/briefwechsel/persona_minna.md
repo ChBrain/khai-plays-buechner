@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Minna Jaeglé"
+declared: "Minna Jaeglé"
 license: CC-BY-NC-SA-4.0
 voice: "liebevoll, besorgt, geduldig, doch zunehmend von Melancholie und Distanz erfüllt"
 stamp:

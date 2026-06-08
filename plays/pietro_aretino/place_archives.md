@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Arbeitszimmer"
+title: "The Study"
+declared: "Das Arbeitszimmer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

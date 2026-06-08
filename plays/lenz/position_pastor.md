@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Seelsorger"
+title: "The Pastor"
+declared: "Der Seelsorger"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

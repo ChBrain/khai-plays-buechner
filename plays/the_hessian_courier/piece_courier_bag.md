@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Kuriertasche"
+title: "The Courier Bag"
+declared: "Die Kuriertasche"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

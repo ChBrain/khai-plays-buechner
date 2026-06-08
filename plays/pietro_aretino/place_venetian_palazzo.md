@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das imaginierte Venedig"
+title: "The Imagined Venice"
+declared: "Das imaginierte Venedig"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

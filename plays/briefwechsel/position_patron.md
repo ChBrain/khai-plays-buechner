@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Förderer"
+title: "The Patron"
+declared: "Der Förderer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

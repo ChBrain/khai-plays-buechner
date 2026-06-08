@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Der Präparationsraum"
+title: "The Preparation Room"
+declared: "Der Präparationsraum"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

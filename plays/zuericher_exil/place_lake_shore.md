@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Seeufer"
+title: "The Lakeshore"
+declared: "Das Seeufer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

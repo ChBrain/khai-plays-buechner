@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Verteilung"
+title: "The Distribution"
+declared: "Die Verteilung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

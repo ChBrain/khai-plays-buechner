@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Fieberlaken"
+title: "The Fever Sheet"
+declared: "Das Fieberlaken"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

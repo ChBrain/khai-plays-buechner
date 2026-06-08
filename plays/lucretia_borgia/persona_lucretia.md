@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Lucretia Borgia"
+declared: "Lucretia Borgia"
 license: CC-BY-NC-SA-4.0
 voice: "tragisch, verzweifelt, leidenschaftlich; zerrissen zwischen Giftmischerin und liebender Mutter"
 stamp:

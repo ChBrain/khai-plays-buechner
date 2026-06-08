@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Gefährte"
+title: "The Companion"
+declared: "Der Gefährte"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

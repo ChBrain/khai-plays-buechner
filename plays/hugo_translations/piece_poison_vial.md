@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Giftfläschchen"
+title: "The Poison Vial"
+declared: "Das Giftfläschchen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Fenster"
+title: "The Window"
+declared: "Das Fenster"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

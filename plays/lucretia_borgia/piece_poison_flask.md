@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Giftflasche"
+title: "The Poison Flask"
+declared: "Die Giftflasche"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

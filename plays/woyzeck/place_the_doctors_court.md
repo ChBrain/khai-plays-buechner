@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "The Doctor's Court"
+declared: "The Doctor's Court"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

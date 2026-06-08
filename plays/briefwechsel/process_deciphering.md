@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Das Entziffern"
+title: "The Deciphering"
+declared: "Das Entziffern"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

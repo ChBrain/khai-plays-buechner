@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Parade"
+declared: "The Parade"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

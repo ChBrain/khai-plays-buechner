@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Tagebuch"
+title: "The Journal"
+declared: "Das Tagebuch"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

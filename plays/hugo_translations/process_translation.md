@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Übersetzung"
+title: "The Translation"
+declared: "Die Übersetzung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

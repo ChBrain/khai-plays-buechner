@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Wilhelm Schulz"
+declared: "Wilhelm Schulz"
 license: CC-BY-NC-SA-4.0
 voice: "treu, pragmatisch, intellektuell, schmerzerfüllt; präzise Berichterstattung"
 stamp:

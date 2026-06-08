@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Christoph Kaufmann"
+declared: "Christoph Kaufmann"
 license: CC-BY-NC-SA-4.0
 voice: "rational, worldly, decisive, challenging; direct German sentences"
 stamp:

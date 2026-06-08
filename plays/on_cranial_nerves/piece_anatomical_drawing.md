@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die anatomische Zeichnung"
+title: "The Anatomical Drawing"
+declared: "Die anatomische Zeichnung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

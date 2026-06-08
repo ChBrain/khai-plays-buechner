@@ -1,6 +1,7 @@
 ---
 khai: persona
-title: "Die Gouvernante"
+title: "The Governess"
+declared: "Die Gouvernante"
 license: CC-BY-NC-SA-4.0
 voice: "anxious, maternal, pragmatic, conversational"
 stamp:

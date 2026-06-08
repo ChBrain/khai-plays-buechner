@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Denunziation"
+title: "The Denunciation"
+declared: "Die Denunziation"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

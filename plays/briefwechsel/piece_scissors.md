@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Postschere"
+title: "The Postal Scissors"
+declared: "Die Postschere"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

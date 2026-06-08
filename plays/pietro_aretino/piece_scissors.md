@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Schere"
+title: "The Scissors"
+declared: "Die Schere"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

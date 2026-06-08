@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "Marie's Room"
+declared: "Marie's Room"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

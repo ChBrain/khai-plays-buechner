@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Brot"
+title: "The Bread"
+declared: "Das Brot"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

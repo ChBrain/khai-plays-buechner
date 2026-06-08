@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Kanzel"
+title: "The Pulpit"
+declared: "Die Kanzel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Die Spiegelgasse"
+title: "The Spiegelgasse"
+declared: "Die Spiegelgasse"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

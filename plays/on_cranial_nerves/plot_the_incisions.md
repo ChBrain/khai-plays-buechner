@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Incisions"
+declared: "The Incisions"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

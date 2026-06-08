@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Medizinflasche"
+title: "The Medicine Bottle"
+declared: "Die Medizinflasche"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

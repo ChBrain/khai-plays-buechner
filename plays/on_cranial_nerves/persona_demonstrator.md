@@ -1,6 +1,7 @@
 ---
 khai: persona
-title: "der Demonstrator"
+title: "The Demonstrator"
+declared: "der Demonstrator"
 license: CC-BY-NC-SA-4.0
 voice: "lakonisch, mechanisch, präzise; konzentriert auf Instrumente, Justierung und Handwerk"
 stamp:

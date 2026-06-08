@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Marion"
+declared: "Marion"
 license: CC-BY-NC-SA-4.0
 voice: "sinnlich, erzählend, naturverbunden; spricht von Lust und Hingabe ohne Scham oder moralische Kategorien"
 stamp:

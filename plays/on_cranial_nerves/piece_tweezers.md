@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Pinzette"
+title: "The Tweezers"
+declared: "Die Pinzette"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

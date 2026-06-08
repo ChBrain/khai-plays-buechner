@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Schmähung"
+title: "The Defacement"
+declared: "Die Schmähung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Maximilien Robespierre"
+declared: "Maximilien Robespierre"
 license: CC-BY-NC-SA-4.0
 voice: "dogmatisch, predigend, kalt; spricht in moralischen Maximen und verweist auf die Reinheit des Staates"
 stamp:

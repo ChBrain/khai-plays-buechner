@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Lucile Desmoulins"
+declared: "Lucile Desmoulins"
 license: CC-BY-NC-SA-4.0
 voice: "kindlich, poetisch, wahnsinnig; singt Lieder und spricht in unzusammenhängenden, melancholischen Bildern"
 stamp:

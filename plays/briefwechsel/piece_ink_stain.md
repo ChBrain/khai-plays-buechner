@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Tintenfleck"
+title: "The Ink Stain"
+declared: "Der Tintenfleck"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

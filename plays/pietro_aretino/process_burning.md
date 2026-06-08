@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Das Verbrennen"
+title: "The Burning"
+declared: "Das Verbrennen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

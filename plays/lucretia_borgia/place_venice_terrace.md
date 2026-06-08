@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Die Terrasse in Venedig"
+title: "The Terrace in Venice"
+declared: "Die Terrasse in Venedig"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

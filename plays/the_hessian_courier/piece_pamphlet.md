@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Flugschrift"
+title: "The Pamphlet"
+declared: "Die Flugschrift"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

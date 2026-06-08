@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Sterbelaken"
+title: "The Death Shroud"
+declared: "Das Sterbelaken"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

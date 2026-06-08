@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "die Guillotine"
+title: "The Guillotine"
+declared: "die Guillotine"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

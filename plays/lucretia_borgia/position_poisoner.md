@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Die Giftmischerin"
+title: "The Poisoner"
+declared: "Die Giftmischerin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

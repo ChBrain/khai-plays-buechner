@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Der Kerker"
+title: "The Dungeon"
+declared: "Der Kerker"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

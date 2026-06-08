@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Maria Tudor"
+declared: "Maria Tudor"
 license: CC-BY-NC-SA-4.0
 voice: "leidenschaftlich, autoritär, theatralisch, fatalistisch; romantische deutsche Prosa"
 stamp:

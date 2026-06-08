@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Wirtshaus"
+title: "The Inn"
+declared: "Das Wirtshaus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

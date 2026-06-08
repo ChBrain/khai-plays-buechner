@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Landesherr"
+title: "The Sovereign"
+declared: "Der Landesherr"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

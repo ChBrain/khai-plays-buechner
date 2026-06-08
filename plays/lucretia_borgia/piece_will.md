@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Testament"
+title: "The Will"
+declared: "Das Testament"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

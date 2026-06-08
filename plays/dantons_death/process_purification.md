@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "die politische Reinigung"
+title: "The Political Purge"
+declared: "die politische Reinigung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

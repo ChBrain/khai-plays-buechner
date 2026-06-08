@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Die Empfängerin"
+title: "The Recipient"
+declared: "Die Empfängerin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

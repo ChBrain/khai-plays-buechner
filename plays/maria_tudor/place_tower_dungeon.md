@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Der Tower-Kerker"
+title: "The Tower Dungeon"
+declared: "Der Tower-Kerker"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

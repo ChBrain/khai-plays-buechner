@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Frankfurter Redaktionszimmer"
+title: "The Frankfurt Editorial Room"
+declared: "Das Frankfurter Redaktionszimmer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Leichentücher"
+title: "The Shrouds"
+declared: "Die Leichentücher"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

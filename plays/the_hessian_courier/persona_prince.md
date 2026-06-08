@@ -1,6 +1,7 @@
 ---
 khai: persona
-title: "Der Großherzog"
+title: "The Grand Duke"
+declared: "Der Großherzog"
 license: CC-BY-NC-SA-4.0
 voice: "aloof, aristocratic, administrative, detached; formal German court prose"
 stamp:

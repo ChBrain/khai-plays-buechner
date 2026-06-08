@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Hafersuppe"
+title: "The Oat Soup"
+declared: "Die Hafersuppe"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

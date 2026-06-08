@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Lenz"
+declared: "Lenz"
 license: CC-BY-NC-SA-4.0
 voice: "stark, physisch, klinisch, fragmentiert, fieberhaft; abrupte deutsche Sätze"
 stamp:

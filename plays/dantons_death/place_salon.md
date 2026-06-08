@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "der Salon"
+title: "The Salon"
+declared: "der Salon"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

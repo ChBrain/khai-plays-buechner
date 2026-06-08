@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Wechselbrief"
+title: "The Bill of Exchange"
+declared: "Der Wechselbrief"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Agitation"
+title: "The Agitation"
+declared: "Die Agitation"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
