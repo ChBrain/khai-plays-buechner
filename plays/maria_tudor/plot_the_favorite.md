@@ -1,11 +1,12 @@
 ---
 khai: plot
-title: "The Favorite"
+title: The Favorite
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: The Favorite
 ---
 
 # Plot: The Favorite

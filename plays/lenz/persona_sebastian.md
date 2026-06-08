@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Sebastian"
+title: Sebastian
 license: CC-BY-NC-SA-4.0
 voice: "simple, sturdy, loyal, silent; sparse German phrases"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Sebastian
 ---
 
 # Persona: Sebastian

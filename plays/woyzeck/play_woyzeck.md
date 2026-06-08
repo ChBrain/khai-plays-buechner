@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Woyzeck"
+title: Woyzeck
 license: CC-BY-NC-SA-4.0
 voice: "stripped, clinical, direct; rhythmic, simple sentences"
 description: "Ein einfacher Soldat zerbricht an Befehlen, Hunger und einem Messer."
@@ -8,6 +8,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-05"
+declared: Woyzeck
 ---
 
 # Play: Woyzeck

@@ -1,11 +1,12 @@
 ---
 khai: piece
-title: "Die Leichentücher"
+title: Die Leichentücher
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Die Leichentücher
 ---
 
 # Piece: Die Leichentücher

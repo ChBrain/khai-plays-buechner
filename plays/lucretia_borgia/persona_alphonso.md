@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Don Alphonso"
+title: Don Alphonso
 license: CC-BY-NC-SA-4.0
-voice: "kalt, eifersüchtig, tyrannisch; besessen von seiner Ehre, seinem Recht und seiner Rache"
+voice: >-
+  kalt, eifersüchtig, tyrannisch; besessen von seiner Ehre, seinem Recht und
+  seiner Rache
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Don Alphonso
 ---
 
 # Persona: Don Alphonso

@@ -1,11 +1,12 @@
 ---
 khai: piece
-title: "Die deutsche Übersetzung"
+title: Die deutsche Übersetzung
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Die deutsche Übersetzung
 ---
 
 # Piece: Die deutsche Übersetzung

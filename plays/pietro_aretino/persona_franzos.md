@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Karl Emil Franzos"
+title: Karl Emil Franzos
 license: CC-BY-NC-SA-4.0
-voice: "wissenschaftlich, akribisch, getrieben von historischer Schuld; präzise deutsche Diktion"
+voice: >-
+  wissenschaftlich, akribisch, getrieben von historischer Schuld; präzise
+  deutsche Diktion
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Karl Emil Franzos
 ---
 
 # Persona: Karl Emil Franzos

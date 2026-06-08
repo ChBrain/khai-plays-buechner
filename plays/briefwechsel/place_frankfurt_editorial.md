@@ -1,11 +1,12 @@
 ---
 khai: place
-title: "Das Frankfurter Redaktionszimmer"
+title: Das Frankfurter Redaktionszimmer
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Das Frankfurter Redaktionszimmer
 ---
 
 # Place: Das Frankfurter Redaktionszimmer

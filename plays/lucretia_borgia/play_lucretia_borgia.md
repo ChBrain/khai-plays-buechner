@@ -1,12 +1,15 @@
 ---
 khai: play
-title: "Lucretia Borgia"
+title: Lucretia Borgia
 license: CC-BY-NC-SA-4.0
-voice: "leidenschaftlich, düster, melodramatisch, fatalistisch; romantische deutsche Prosa"
+voice: >-
+  leidenschaftlich, düster, melodramatisch, fatalistisch; romantische deutsche
+  Prosa
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Lucretia Borgia
 ---
 
 # Play: Lucretia Borgia

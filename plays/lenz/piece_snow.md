@@ -1,11 +1,12 @@
 ---
 khai: piece
-title: "Der Schnee"
+title: Der Schnee
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Der Schnee
 ---
 
 # Piece: Der Schnee

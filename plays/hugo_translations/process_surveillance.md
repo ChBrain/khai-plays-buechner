@@ -1,11 +1,12 @@
 ---
 khai: process
-title: "Die Beschattung"
+title: Die Beschattung
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Die Beschattung
 ---
 
 # Process: Die Beschattung

@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Nicias"
+title: Nicias
 license: CC-BY-NC-SA-4.0
-voice: "measured, weighted; the generosity of a man who knows the crowd; piety as grammar"
+voice: >-
+  measured, weighted; the generosity of a man who knows the crowd; piety as
+  grammar
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-06"
 type: real
+declared: Nicias
 ---
 
 # Persona: Nicias

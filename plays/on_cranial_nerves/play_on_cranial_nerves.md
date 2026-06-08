@@ -1,12 +1,13 @@
 ---
 khai: play
-title: "On Cranial Nerves"
+title: On Cranial Nerves
 license: CC-BY-NC-SA-4.0
 voice: "klinisch, materialistisch, sezierend, intensiv; präzise deutsche Prosa"
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Über Schädelnerven
 ---
 
 # Play: Über Schädelnerven

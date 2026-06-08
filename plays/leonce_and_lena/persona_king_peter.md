@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "König Peter"
+title: König Peter
 license: CC-BY-NC-SA-4.0
 voice: "pedantic, confused, philosophical, tautological"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-06"
 type: fictional
+declared: König Peter
 ---
 
 # Persona: König Peter

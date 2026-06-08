@@ -1,12 +1,15 @@
 ---
 khai: play
-title: "The Hessian Courier"
+title: The Hessian Courier
 license: CC-BY-NC-SA-4.0
-voice: "statistisch, biblisch, revolutionär, physisch, anklagend; rhythmische deutsche Prosa"
+voice: >-
+  statistisch, biblisch, revolutionär, physisch, anklagend; rhythmische deutsche
+  Prosa
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Der Hessische Landbote
 ---
 
 # Play: Der Hessische Landbote

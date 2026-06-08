@@ -1,11 +1,12 @@
 ---
 khai: position
-title: "The Garrison Captain"
+title: The Garrison Captain
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-05"
+declared: The Garrison Captain
 ---
 
 # Position: The Garrison Captain

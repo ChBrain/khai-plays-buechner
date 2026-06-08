@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Pericles"
+title: Pericles
 license: CC-BY-NC-SA-4.0
 voice: "precise, unhurried; the long view; economy of word"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-06"
 type: real
+declared: Pericles
 ---
 
 # Persona: Pericles

@@ -1,12 +1,15 @@
 ---
 khai: play
-title: "Die Spiegelgasse (The Zurich Exile)"
+title: Die Spiegelgasse (The Zurich Exile)
 license: CC-BY-NC-SA-4.0
-voice: "starr, sachlich, materialistisch; konfrontiert medizinische Präzision mit dem biologischen Siechtum des Fiebers"
+voice: >-
+  starr, sachlich, materialistisch; konfrontiert medizinische Präzision mit dem
+  biologischen Siechtum des Fiebers
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Die Spiegelgasse (Das Züricher Exil)
 ---
 
 # Play: Die Spiegelgasse (Das Züricher Exil)

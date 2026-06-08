@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Die Gouvernante"
+title: Die Gouvernante
 license: CC-BY-NC-SA-4.0
 voice: "anxious, maternal, pragmatic, conversational"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-06"
 type: fictional
+declared: Die Gouvernante
 ---
 
 # Persona: Die Gouvernante

@@ -1,12 +1,15 @@
 ---
 khai: play
-title: "Correspondence"
+title: Correspondence
 license: CC-BY-NC-SA-4.0
-voice: "dringlich, parataktisch, voller Zweifel und materieller Härte; kontrastiert mit dem fatalistischen Netz der Geschichte"
+voice: >-
+  dringlich, parataktisch, voller Zweifel und materieller Härte; kontrastiert
+  mit dem fatalistischen Netz der Geschichte
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Briefwechsel
 ---
 
 # Play: Briefwechsel

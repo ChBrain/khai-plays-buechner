@@ -1,11 +1,12 @@
 ---
 khai: position
-title: "der Volksvertreter"
+title: der Volksvertreter
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: der Volksvertreter
 ---
 
 # Position: der Volksvertreter

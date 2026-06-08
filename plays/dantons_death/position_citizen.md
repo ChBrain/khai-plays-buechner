@@ -1,11 +1,12 @@
 ---
 khai: position
-title: "der Pariser Bürger"
+title: der Pariser Bürger
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: der Pariser Bürger
 ---
 
 # Position: der Pariser Bürger

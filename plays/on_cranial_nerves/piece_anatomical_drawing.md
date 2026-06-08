@@ -1,11 +1,12 @@
 ---
 khai: piece
-title: "Die anatomische Zeichnung"
+title: Die anatomische Zeichnung
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Die anatomische Zeichnung
 ---
 
 # Piece: Die anatomische Zeichnung

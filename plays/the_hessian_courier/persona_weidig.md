@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Friedrich Ludwig Weidig"
+title: Friedrich Ludwig Weidig
 license: CC-BY-NC-SA-4.0
 voice: "biblical, educational, moral, tactical; resolute German prose"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Friedrich Ludwig Weidig
 ---
 
 # Persona: Friedrich Ludwig Weidig

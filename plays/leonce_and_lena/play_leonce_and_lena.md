@@ -1,12 +1,13 @@
 ---
 khai: play
-title: "Leonce and Lena"
+title: Leonce and Lena
 license: CC-BY-NC-SA-4.0
 voice: "melancholic, witty, cynical, satirical; poetic, parodic sentences"
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-06"
+declared: Leonce und Lena
 ---
 
 # Play: Leonce und Lena

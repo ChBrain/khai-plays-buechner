@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Caroline Schulz"
+title: Caroline Schulz
 license: CC-BY-NC-SA-4.0
 voice: "mitfühlend, erschöpft, besorgt, methodisch; leise, melancholische Prosa"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Caroline Schulz
 ---
 
 # Persona: Caroline Schulz

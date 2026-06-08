@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Ernst Büchner"
+title: Ernst Büchner
 license: CC-BY-NC-SA-4.0
 voice: "streng, rational, autoritär, staatstreu; nüchterne, präzise Diktion"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Ernst Büchner
 ---
 
 # Persona: Ernst Büchner

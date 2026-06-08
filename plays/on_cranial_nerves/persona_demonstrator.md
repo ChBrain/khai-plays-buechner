@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "der Demonstrator"
+title: der Demonstrator
 license: CC-BY-NC-SA-4.0
-voice: "lakonisch, mechanisch, präzise; konzentriert auf Instrumente, Justierung und Handwerk"
+voice: >-
+  lakonisch, mechanisch, präzise; konzentriert auf Instrumente, Justierung und
+  Handwerk
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: der Demonstrator
 ---
 
 # Persona: der Demonstrator

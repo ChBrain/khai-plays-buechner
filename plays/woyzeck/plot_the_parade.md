@@ -1,11 +1,12 @@
 ---
 khai: plot
-title: "The Parade"
+title: The Parade
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-05"
+declared: The Parade
 ---
 
 # Plot: The Parade

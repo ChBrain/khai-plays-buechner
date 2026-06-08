@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Karl Emil Franzos"
+title: Karl Emil Franzos
 license: CC-BY-NC-SA-4.0
-voice: "scholarly, meticulous, driven by historical duty; a defender of the unfinished word"
+voice: >-
+  scholarly, meticulous, driven by historical duty; a defender of the unfinished
+  word
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-06"
 type: real
+declared: Karl Emil Franzos
 ---
 
 # Persona: Karl Emil Franzos

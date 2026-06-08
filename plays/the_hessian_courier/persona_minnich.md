@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Johann Konrad Minnich"
+title: Johann Konrad Minnich
 license: CC-BY-NC-SA-4.0
 voice: "determined, energetic, naive, loyal; quick German sentences"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Johann Konrad Minnich
 ---
 
 # Persona: Johann Konrad Minnich

@@ -1,11 +1,12 @@
 ---
 khai: place
-title: "Das Straßburger Dachzimmer"
+title: Das Straßburger Dachzimmer
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Das Straßburger Dachzimmer
 ---
 
 # Place: Das Straßburger Dachzimmer

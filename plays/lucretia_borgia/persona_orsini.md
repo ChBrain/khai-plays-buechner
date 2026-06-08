@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Maffio Orsini"
+title: Maffio Orsini
 license: CC-BY-NC-SA-4.0
 voice: "treu, warnend, lebenslustig, rachsüchtig; hasst die Borgias aus tiefster Seele"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Maffio Orsini
 ---
 
 # Persona: Maffio Orsini

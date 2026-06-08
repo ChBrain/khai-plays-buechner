@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Camille Desmoulins"
+title: Camille Desmoulins
 license: CC-BY-NC-SA-4.0
-voice: "romantisch, journalistisch, verletzlich; verweist auf die antike Kunst und das Recht auf Glück"
+voice: >-
+  romantisch, journalistisch, verletzlich; verweist auf die antike Kunst und das
+  Recht auf Glück
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: real
+declared: Camille Desmoulins
 ---
 
 # Persona: Camille Desmoulins

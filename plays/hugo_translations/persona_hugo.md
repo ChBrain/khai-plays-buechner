@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Victor Hugo"
+title: Victor Hugo
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Victor Hugo
 ---
 
 # Persona: Victor Hugo

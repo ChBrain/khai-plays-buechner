@@ -1,11 +1,12 @@
 ---
 khai: position
-title: "The Subaltern Soldier"
+title: The Subaltern Soldier
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-05"
+declared: The Subaltern Soldier
 ---
 
 # Position: The Subaltern Soldier

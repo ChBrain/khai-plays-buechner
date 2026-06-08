@@ -1,12 +1,15 @@
 ---
 khai: play
-title: "Hugo Translations"
+title: Hugo Translations
 license: CC-BY-NC-SA-4.0
-voice: "dringlich, atemlos, fiebrig, melancholisch; kontrastiert mit hochromantischem Pathos"
+voice: >-
+  dringlich, atemlos, fiebrig, melancholisch; kontrastiert mit hochromantischem
+  Pathos
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Hugo-Übersetzungen
 ---
 
 # Play: Hugo-Übersetzungen

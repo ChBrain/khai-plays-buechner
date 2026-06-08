@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Lucretia Borgia"
+title: Lucretia Borgia
 license: CC-BY-NC-SA-4.0
 voice: "majestätisch, tragisch, finster, unheilvoll; hochromantische deutsche Prosa"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Lucretia Borgia
 ---
 
 # Persona: Lucretia Borgia

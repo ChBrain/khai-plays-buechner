@@ -1,11 +1,12 @@
 ---
 khai: position
-title: "Der Hofnarr"
+title: Der Hofnarr
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-06"
+declared: Der Hofnarr
 ---
 
 # Position: Der Hofnarr

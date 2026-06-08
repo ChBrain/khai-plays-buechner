@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Minna Jaeglé"
+title: Minna Jaeglé
 license: CC-BY-NC-SA-4.0
-voice: "entschlossen, trauernd, von religiöser und moralischer Furcht geleitet; leise, ernste Diktion"
+voice: >-
+  entschlossen, trauernd, von religiöser und moralischer Furcht geleitet; leise,
+  ernste Diktion
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Minna Jaeglé
 ---
 
 # Persona: Minna Jaeglé

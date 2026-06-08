@@ -1,12 +1,15 @@
 ---
 khai: play
-title: "Maria Tudor"
+title: Maria Tudor
 license: CC-BY-NC-SA-4.0
-voice: "leidenschaftlich, autoritär, theatralisch, fatalistisch; romantische deutsche Prosa"
+voice: >-
+  leidenschaftlich, autoritär, theatralisch, fatalistisch; romantische deutsche
+  Prosa
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Maria Tudor
 ---
 
 # Play: Maria Tudor

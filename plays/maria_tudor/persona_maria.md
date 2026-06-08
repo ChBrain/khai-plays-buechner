@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Maria Tudor"
+title: Maria Tudor
 license: CC-BY-NC-SA-4.0
-voice: "herrscherisch, leidenschaftlich, rachsüchtig, zerrissen; königliche deutsche Prosa"
+voice: >-
+  herrscherisch, leidenschaftlich, rachsüchtig, zerrissen; königliche deutsche
+  Prosa
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Maria Tudor
 ---
 
 # Persona: Maria Tudor

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Prinzessin Lena"
+title: Prinzessin Lena
 license: CC-BY-NC-SA-4.0
 voice: "poetic, melancholic, delicate, vulnerable"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-06"
 type: fictional
+declared: Prinzessin Lena
 ---
 
 # Persona: Prinzessin Lena

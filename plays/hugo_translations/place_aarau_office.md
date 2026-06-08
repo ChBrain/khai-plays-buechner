@@ -1,11 +1,12 @@
 ---
 khai: place
-title: "Das Aarauer Kontor"
+title: Das Aarauer Kontor
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Das Aarauer Kontor
 ---
 
 # Place: Das Aarauer Kontor

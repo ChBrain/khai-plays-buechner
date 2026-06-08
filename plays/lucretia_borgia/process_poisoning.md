@@ -1,11 +1,12 @@
 ---
 khai: process
-title: "Die Vergiftung"
+title: Die Vergiftung
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Die Vergiftung
 ---
 
 # Process: Die Vergiftung

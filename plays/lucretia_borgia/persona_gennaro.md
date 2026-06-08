@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Gennaro"
+title: Gennaro
 license: CC-BY-NC-SA-4.0
-voice: "mutig, ungestüm, aufrecht; angewidert von Tyrannei, unwissend über seine Herkunft"
+voice: >-
+  mutig, ungestüm, aufrecht; angewidert von Tyrannei, unwissend über seine
+  Herkunft
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Gennaro
 ---
 
 # Persona: Gennaro

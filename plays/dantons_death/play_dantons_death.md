@@ -1,12 +1,15 @@
 ---
 khai: play
-title: "Danton's Death"
+title: Danton's Death
 license: CC-BY-NC-SA-4.0
-voice: "rhetorisch, fatalistisch, epikureisch; reich, geschichtlich und politisch geladene Sätze"
+voice: >-
+  rhetorisch, fatalistisch, epikureisch; reich, geschichtlich und politisch
+  geladene Sätze
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Dantons Tod
 ---
 
 # Play: Dantons Tod

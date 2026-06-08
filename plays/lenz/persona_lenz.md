@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Jakob Michael Reinhold Lenz"
+title: Jakob Michael Reinhold Lenz
 license: CC-BY-NC-SA-4.0
 voice: "stark, physisch, clinical, fragmented, feverish; abrupt German sentences"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Jakob Michael Reinhold Lenz
 ---
 
 # Persona: Jakob Michael Reinhold Lenz

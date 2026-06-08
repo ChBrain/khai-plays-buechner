@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Minna Jaeglé"
+title: Minna Jaeglé
 license: CC-BY-NC-SA-4.0
-voice: "liebevoll, besorgt, geduldig, doch zunehmend von Melancholie und Distanz erfüllt"
+voice: >-
+  liebevoll, besorgt, geduldig, doch zunehmend von Melancholie und Distanz
+  erfüllt
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Minna Jaeglé
 ---
 
 # Persona: Minna Jaeglé

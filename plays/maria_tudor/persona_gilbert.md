@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Gilbert"
+title: Gilbert
 license: CC-BY-NC-SA-4.0
 voice: "aufrecht, ernst, schlicht, rachsüchtig; kraftvolle deutsche Prosa"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Gilbert
 ---
 
 # Persona: Gilbert

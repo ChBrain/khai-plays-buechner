@@ -1,11 +1,12 @@
 ---
 khai: piece
-title: "Die Fackel"
+title: Die Fackel
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Die Fackel
 ---
 
 # Piece: Die Fackel

@@ -1,12 +1,15 @@
 ---
 khai: play
-title: "Aretino (The Chimney)"
+title: Aretino (The Chimney)
 license: CC-BY-NC-SA-4.0
-voice: "fiebrig, profan, aschengrau, von bitterer Ironie; kontrastiert das Knistern des Feuers mit der Gelehrsamkeit des Archivs"
+voice: >-
+  fiebrig, profan, aschengrau, von bitterer Ironie; kontrastiert das Knistern
+  des Feuers mit der Gelehrsamkeit des Archivs
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Aretino (Der Kamin)
 ---
 
 # Play: Aretino (Der Kamin)

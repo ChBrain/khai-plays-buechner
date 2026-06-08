@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "die Barbe"
+title: die Barbe
 license: CC-BY-NC-SA-4.0
-voice: "stumm, passiv, reaktiv; repräsentiert die wilde, mechanisierte Natur unter dem Messer"
+voice: >-
+  stumm, passiv, reaktiv; repräsentiert die wilde, mechanisierte Natur unter dem
+  Messer
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: die Barbe
 ---
 
 # Persona: die Barbe

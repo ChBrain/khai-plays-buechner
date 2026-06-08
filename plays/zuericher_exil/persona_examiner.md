@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Der Dekan"
+title: Der Dekan
 license: CC-BY-NC-SA-4.0
 voice: "formal, akademisch, kühl, distanziert; feierliche und bureaukratische Diktion"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Der Dekan
 ---
 
 # Persona: Der Dekan

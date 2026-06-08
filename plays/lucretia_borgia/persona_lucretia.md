@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Lucretia Borgia"
+title: Lucretia Borgia
 license: CC-BY-NC-SA-4.0
-voice: "tragisch, verzweifelt, leidenschaftlich; zerrissen zwischen Giftmischerin und liebender Mutter"
+voice: >-
+  tragisch, verzweifelt, leidenschaftlich; zerrissen zwischen Giftmischerin und
+  liebender Mutter
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Lucretia Borgia
 ---
 
 # Persona: Lucretia Borgia

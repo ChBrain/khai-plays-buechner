@@ -1,11 +1,12 @@
 ---
 khai: piece
-title: "Der Wein"
+title: Der Wein
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-06"
+declared: Der Wein
 ---
 
 # Piece: Der Wein

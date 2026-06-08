@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Wilhelm Schulz"
+title: Wilhelm Schulz
 license: CC-BY-NC-SA-4.0
 voice: "treu, pragmatisch, intellektuell, schmerzerfüllt; präzise Berichterstattung"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Wilhelm Schulz
 ---
 
 # Persona: Wilhelm Schulz

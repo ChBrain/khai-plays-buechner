@@ -1,11 +1,12 @@
 ---
 khai: place
-title: "Der Herzogspalast in Ferrara"
+title: Der Herzogspalast in Ferrara
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Der Herzogspalast in Ferrara
 ---
 
 # Place: Der Herzogspalast in Ferrara

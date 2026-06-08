@@ -1,12 +1,13 @@
 ---
 khai: play
-title: "Lenz"
+title: Lenz
 license: CC-BY-NC-SA-4.0
 voice: "stark, physisch, klinisch, fragmentiert, fieberhaft; abrupte deutsche Sätze"
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Lenz
 ---
 
 # Play: Lenz

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Captain"
+title: The Captain
 license: CC-BY-NC-SA-4.0
 voice: "verbose, melancholy, patronizing; long phrases, frequent moralizing"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-05"
 type: fictional
+declared: The Captain
 ---
 
 # Persona: The Captain

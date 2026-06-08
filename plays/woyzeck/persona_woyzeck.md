@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Franz Woyzeck"
+title: Franz Woyzeck
 license: CC-BY-NC-SA-4.0
 voice: "stripped, urgent, disjointed; brief fragments, sensory focus"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-05"
 type: fictional
+declared: Franz Woyzeck
 ---
 
 # Persona: Franz Woyzeck

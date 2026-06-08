@@ -1,11 +1,12 @@
 ---
 khai: place
-title: "Der Hof von Ferrara"
+title: Der Hof von Ferrara
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Der Hof von Ferrara
 ---
 
 # Place: Der Hof von Ferrara

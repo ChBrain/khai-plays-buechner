@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Christoph Kaufmann"
+title: Christoph Kaufmann
 license: CC-BY-NC-SA-4.0
 voice: "rational, worldly, decisive, challenging; direct German sentences"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Christoph Kaufmann
 ---
 
 # Persona: Christoph Kaufmann

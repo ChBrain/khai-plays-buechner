@@ -1,11 +1,12 @@
 ---
 khai: piece
-title: "Die Druckausgabe 1879"
+title: Die Druckausgabe 1879
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Die Druckausgabe 1879
 ---
 
 # Piece: Die Druckausgabe 1879

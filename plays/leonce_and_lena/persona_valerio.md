@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Valerio"
+title: Valerio
 license: CC-BY-NC-SA-4.0
 voice: "nihilistic, earthy, cynical, witty, wordplay-driven"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-06"
 type: fictional
+declared: Valerio
 ---
 
 # Persona: Valerio

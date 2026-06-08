@@ -1,11 +1,12 @@
 ---
 khai: piece
-title: "Der Brunnen"
+title: Der Brunnen
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
+declared: Der Brunnen
 ---
 
 # Piece: Der Brunnen

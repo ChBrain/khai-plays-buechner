@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Der Großherzog"
+title: Der Großherzog
 license: CC-BY-NC-SA-4.0
 voice: "aloof, aristocratic, administrative, detached; formal German court prose"
 stamp:
@@ -8,6 +8,7 @@ stamp:
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Der Großherzog
 ---
 
 # Persona: Der Großherzog

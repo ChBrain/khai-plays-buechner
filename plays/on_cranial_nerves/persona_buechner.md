@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Georg Büchner"
+title: Georg Büchner
 license: CC-BY-NC-SA-4.0
-voice: "wissenschaftlich, präzise, materialistisch; besessen von Struktur, Reflexen und der Ablehnung der Teleologie"
+voice: >-
+  wissenschaftlich, präzise, materialistisch; besessen von Struktur, Reflexen
+  und der Ablehnung der Teleologie
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Georg Büchner
 ---
 
 # Persona: Georg Büchner

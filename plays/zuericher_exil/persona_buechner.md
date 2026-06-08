@@ -1,13 +1,16 @@
 ---
 khai: persona
-title: "Georg Büchner"
+title: Georg Büchner
 license: CC-BY-NC-SA-4.0
-voice: "erschöpft, triumphal im Geist, bald verwirrt und vom Fieber gezeichnet; parataktisch"
+voice: >-
+  erschöpft, triumphal im Geist, bald verwirrt und vom Fieber gezeichnet;
+  parataktisch
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-07"
 type: fictional
+declared: Georg Büchner
 ---
 
 # Persona: Georg Büchner
