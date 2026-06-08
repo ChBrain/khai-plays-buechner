@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Fabiano Fabiani"
+declared: "Fabiano Fabiani"
 license: CC-BY-NC-SA-4.0
 voice: "verführerisch, ehrgeizig, heuchlerisch, feige; gewandte deutsche Prosa"
 stamp:

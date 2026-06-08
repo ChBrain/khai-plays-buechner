@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Steuerregister"
+title: "The Tax Register"
+declared: "Das Steuerregister"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

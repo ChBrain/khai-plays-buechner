@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Promotionsurkunde"
+title: "The Doctoral Diploma"
+declared: "Die Promotionsurkunde"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

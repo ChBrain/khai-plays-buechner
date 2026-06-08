@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die nächtliche Krise"
+title: "The Nocturnal Crisis"
+declared: "Die nächtliche Krise"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

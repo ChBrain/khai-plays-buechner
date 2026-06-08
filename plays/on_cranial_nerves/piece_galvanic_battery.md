@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die galvanische Batterie"
+title: "The Galvanic Battery"
+declared: "Die galvanische Batterie"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

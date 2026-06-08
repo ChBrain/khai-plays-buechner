@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Georg Büchner"
+declared: "Georg Büchner"
 license: CC-BY-NC-SA-4.0
 voice: "erschöpft, triumphal im Geist, bald verwirrt und vom Fieber gezeichnet; parataktisch"
 stamp:

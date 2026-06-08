@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Briefwechsel"
+title: "Correspondence"
+declared: "Briefwechsel"
 license: CC-BY-NC-SA-4.0
 voice: "dringlich, parataktisch, voller Zweifel und materieller Härte; kontrastiert mit dem fatalistischen Netz der Geschichte"
 stamp:

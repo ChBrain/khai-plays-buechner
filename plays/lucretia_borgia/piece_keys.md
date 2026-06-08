@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Schlüssel"
+title: "The Keys"
+declared: "Die Schlüssel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

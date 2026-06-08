@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die deutsche Übersetzung"
+title: "The German Translation"
+declared: "Die deutsche Übersetzung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

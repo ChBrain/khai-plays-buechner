@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Betrayal"
+declared: "The Betrayal"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

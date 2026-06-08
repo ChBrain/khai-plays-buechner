@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Armenhaus"
+title: "The Poorhouse"
+declared: "Das Armenhaus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

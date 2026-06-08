@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Georg Büchner"
+declared: "Georg Büchner"
 license: CC-BY-NC-SA-4.0
 voice: "fiebrig, gehetzt, verzweifelt, fatalistisch; atemlose deutsche Prosa"
 stamp:

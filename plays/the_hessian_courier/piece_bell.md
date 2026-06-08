@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Alarmglocke"
+title: "The Alarm Bell"
+declared: "Die Alarmglocke"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Leonce und Lena"
+title: "Leonce and Lena"
+declared: "Leonce und Lena"
 license: CC-BY-NC-SA-4.0
 voice: "melancholic, witty, cynical, satirical; poetic, parodic sentences"
 stamp:

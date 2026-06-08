@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das tote Kind"
+title: "The Dead Child"
+declared: "Das tote Kind"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

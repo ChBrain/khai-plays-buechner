@@ -1,6 +1,7 @@
 ---
 khai: position
 title: "The Drum Major"
+declared: "The Drum Major"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

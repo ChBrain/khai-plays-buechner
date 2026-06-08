@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Dantons Tod"
+title: "Danton's Death"
+declared: "Dantons Tod"
 license: CC-BY-NC-SA-4.0
 voice: "rhetorisch, fatalistisch, epikureisch; reich, geschichtlich und politisch geladene Sätze"
 stamp:

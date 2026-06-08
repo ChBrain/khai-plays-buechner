@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Darmstädter Vaterhaus"
+title: "The Darmstadt Family Home"
+declared: "Das Darmstädter Vaterhaus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Lucretia Borgia"
+declared: "Lucretia Borgia"
 license: CC-BY-NC-SA-4.0
 voice: "leidenschaftlich, düster, melodramatisch, fatalistisch; romantische deutsche Prosa"
 stamp:

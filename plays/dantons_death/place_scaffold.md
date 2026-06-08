@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "das Schafott"
+title: "The Scaffold"
+declared: "das Schafott"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

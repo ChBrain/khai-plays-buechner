@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Der Schlossgarten"
+title: "The Palace Garden"
+declared: "Der Schlossgarten"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

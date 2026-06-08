@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Thronfolger"
+title: "The Heir to the Throne"
+declared: "Der Thronfolger"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Karl Emil Franzos"
+declared: "Karl Emil Franzos"
 license: CC-BY-NC-SA-4.0
 voice: "wissenschaftlich, akribisch, getrieben von historischer Schuld; präzise deutsche Diktion"
 stamp:

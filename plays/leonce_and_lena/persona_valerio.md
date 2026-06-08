@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Valerio"
+declared: "Valerio"
 license: CC-BY-NC-SA-4.0
 voice: "nihilistic, earthy, cynical, witty, wordplay-driven"
 stamp:

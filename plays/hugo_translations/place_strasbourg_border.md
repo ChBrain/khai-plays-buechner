@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Die Straßburger Grenze"
+title: "The Strasbourg Border"
+declared: "Die Straßburger Grenze"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

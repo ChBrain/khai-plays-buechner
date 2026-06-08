@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Georges Danton"
+declared: "Georges Danton"
 license: CC-BY-NC-SA-4.0
 voice: "fatalistisch, müde, spöttisch; nutzt sinnliche Metaphern und bekundet Ekel vor der Politik"
 stamp:

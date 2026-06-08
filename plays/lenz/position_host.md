@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Gastgeber"
+title: "The Host"
+declared: "Der Gastgeber"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

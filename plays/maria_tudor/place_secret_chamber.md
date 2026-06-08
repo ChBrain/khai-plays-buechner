@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Geheimkabinett"
+title: "The Secret Chamber"
+declared: "Das Geheimkabinett"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

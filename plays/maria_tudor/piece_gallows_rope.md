@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Galgenseil"
+title: "The Gallows Rope"
+declared: "Das Galgenseil"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

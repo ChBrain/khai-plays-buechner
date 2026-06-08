@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Wein"
+title: "The Wine"
+declared: "Der Wein"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

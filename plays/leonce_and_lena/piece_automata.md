@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Automaten"
+title: "The Automata"
+declared: "Die Automaten"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

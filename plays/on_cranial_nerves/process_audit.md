@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Das Audit"
+title: "The Audit"
+declared: "Das Audit"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

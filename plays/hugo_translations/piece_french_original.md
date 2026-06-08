@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "L'original français"
+title: "The French Original"
+declared: "L'original français"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "The Captain"
+declared: "The Captain"
 license: CC-BY-NC-SA-4.0
 voice: "verbose, melancholy, patronizing; long phrases, frequent moralizing"
 stamp:

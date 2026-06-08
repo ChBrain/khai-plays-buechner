@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Verleger"
+title: "The Publisher"
+declared: "Der Verleger"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

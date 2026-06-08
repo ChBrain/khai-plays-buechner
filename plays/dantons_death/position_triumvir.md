@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "der Ausschussbürger"
+title: "The Committeeman"
+declared: "der Ausschussbürger"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Heinrich Remigius Sauerländer"
+declared: "Heinrich Remigius Sauerländer"
 license: CC-BY-NC-SA-4.0
 voice: "pragmatisch, geschäftsmäßig, kühl, mahnend; bürgerliche deutsche Prosa"
 stamp:

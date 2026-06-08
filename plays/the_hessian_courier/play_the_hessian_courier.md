@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Der Hessische Landbote"
+title: "The Hessian Courier"
+declared: "Der Hessische Landbote"
 license: CC-BY-NC-SA-4.0
 voice: "statistisch, biblisch, revolutionär, physisch, anklagend; rhythmische deutsche Prosa"
 stamp:

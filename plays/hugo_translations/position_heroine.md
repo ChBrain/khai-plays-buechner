@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Die Heldin"
+title: "The Heroine"
+declared: "Die Heldin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

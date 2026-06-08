@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Briefschreiber"
+title: "The Letter-Writer"
+declared: "Der Briefschreiber"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

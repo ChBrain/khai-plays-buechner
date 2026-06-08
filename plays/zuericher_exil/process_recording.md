@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Das Protokollieren"
+title: "The Recording"
+declared: "Das Protokollieren"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

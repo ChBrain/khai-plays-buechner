@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "The Knife"
+declared: "The Knife"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

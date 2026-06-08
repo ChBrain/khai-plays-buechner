@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Axe"
+declared: "The Axe"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

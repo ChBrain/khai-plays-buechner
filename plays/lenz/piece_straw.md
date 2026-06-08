@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Stroh"
+title: "The Straw"
+declared: "Das Stroh"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

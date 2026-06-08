@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "The Shaving"
+declared: "The Shaving"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

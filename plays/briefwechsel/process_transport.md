@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Beförderung"
+title: "The Transport"
+declared: "Die Beförderung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Nadeln"
+title: "The Needles"
+declared: "Die Nadeln"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

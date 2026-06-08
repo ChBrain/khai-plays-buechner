@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Enthüllung"
+title: "The Revelation"
+declared: "Die Enthüllung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

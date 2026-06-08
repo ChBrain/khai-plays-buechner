@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Aretino (Der Kamin)"
+title: "Aretino (The Fireplace)"
+declared: "Aretino (Der Kamin)"
 license: CC-BY-NC-SA-4.0
 voice: "fiebrig, profan, aschengrau, von bitterer Ironie; kontrastiert das Knistern des Feuers mit der Gelehrsamkeit des Archivs"
 stamp:

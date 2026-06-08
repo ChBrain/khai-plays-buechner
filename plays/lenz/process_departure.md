@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Der Abtransport"
+title: "The Removal"
+declared: "Der Abtransport"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

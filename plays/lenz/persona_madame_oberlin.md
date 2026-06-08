@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Madame Oberlin"
+declared: "Madame Oberlin"
 license: CC-BY-NC-SA-4.0
 voice: "quiet, practical, nurturing, observant; soft German prose"
 stamp:

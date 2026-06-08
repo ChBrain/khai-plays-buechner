@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Goldmünzen"
+title: "The Gold Coins"
+declared: "Die Goldmünzen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

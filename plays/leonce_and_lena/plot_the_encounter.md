@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Encounter"
+declared: "The Encounter"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

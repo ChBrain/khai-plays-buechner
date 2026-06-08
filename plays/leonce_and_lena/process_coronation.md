@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Krönung"
+title: "The Coronation"
+declared: "Die Krönung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

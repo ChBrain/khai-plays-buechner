@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Gennaro"
+declared: "Gennaro"
 license: CC-BY-NC-SA-4.0
 voice: "mutig, ungestüm, aufrecht; angewidert von Tyrannei, unwissend über seine Herkunft"
 stamp:

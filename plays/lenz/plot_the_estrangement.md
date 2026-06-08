@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Estrangement"
+declared: "The Estrangement"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

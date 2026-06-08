@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Sterbezimmer"
+title: "The Death Chamber"
+declared: "Das Sterbezimmer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

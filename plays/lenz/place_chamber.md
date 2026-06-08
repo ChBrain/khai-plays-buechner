@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Die Kammer"
+title: "The Chamber"
+declared: "Die Kammer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

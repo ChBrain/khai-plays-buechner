@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Dorfweg"
+title: "The Village Path"
+declared: "Der Dorfweg"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

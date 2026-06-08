@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Brunnen"
+title: "The Well"
+declared: "Der Brunnen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

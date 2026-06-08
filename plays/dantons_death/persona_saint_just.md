@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Saint-Just"
+declared: "Saint-Just"
 license: CC-BY-NC-SA-4.0
 voice: "monumental, naturwissenschaftlich, eiskalt; nutzt Analogien von geologischen Umbrüchen und Naturgesetzen"
 stamp:

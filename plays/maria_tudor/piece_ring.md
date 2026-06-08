@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Siegelring"
+title: "The Signet Ring"
+declared: "Der Siegelring"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Kreide"
+title: "The Chalk"
+declared: "Die Kreide"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
