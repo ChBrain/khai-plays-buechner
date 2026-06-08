@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Über Schädelnerven"
+title: "On Cranial Nerves"
 license: CC-BY-NC-SA-4.0
 voice: "klinisch, materialistisch, sezierend, intensiv; präzise deutsche Prosa"
 stamp:
