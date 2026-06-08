@@ -39,6 +39,6 @@ Die Republik wird nur durch absolute Reinheit gerettet; jede Ermüdung, jeder Ge
 ## Targets
 
 - [x] Die Namen sind aufgeschrieben und das Dekret des Konvents erwirkt
-- [x] Die Verhaftung bei Nacht ist vollzogen; die Dantonisten sitzen in der Conciergerie
-- [x] Der Konvent ist eingeschüchtert und stumm geschlagen
-- [x] Der Terror hat seine Herrschaft über die Köpfe gefestigt
+- [ ] Die Verhaftung bei Nacht ist vollzogen; die Dantonisten sitzen in der Conciergerie
+- [ ] Der Konvent ist eingeschüchtert und stumm geschlagen
+- [ ] Der Terror hat seine Herrschaft über die Köpfe gefestigt
