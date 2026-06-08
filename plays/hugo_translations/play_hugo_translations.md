@@ -72,6 +72,11 @@ Was abläuft:
 - [die Beschattung](process_surveillance.md)
 - [die Flucht](process_escape.md)
 
+Die Pläne, die einander begegnen:
+
+- [die Flucht](plan_die_flucht.md), das finanzierte Vorhaben des Übersetzers
+- [die Beschattung](plan_die_beschattung.md), das Vorhaben der Autorität
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
