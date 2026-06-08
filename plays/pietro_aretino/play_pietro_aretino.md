@@ -72,6 +72,11 @@ Was abläuft:
 - [das Zensieren](process_censoring.md)
 - [das Archivieren](process_archiving.md)
 
+Die Pläne, die über die Asche hinweg miteinander ringen:
+
+- [die Bewahrung](plan_die_bewahrung.md), Minnas Vorhaben am Kamin
+- [die Rekonstruktion](plan_die_rekonstruktion.md), Franzos' Vorhaben Jahrzehnte später
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
