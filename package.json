@@ -97,7 +97,7 @@
     "@chbrain/khai-language": "^0.1.2",
     "@chbrain/khai-pack": "^0.0.3",
     "@chbrain/khai-review": "^0.1.0",
-    "@chbrain/khai-tests": "^0.1.8",
+    "@chbrain/khai-tests": "^0.1.9",
     "husky": "^9.1.0",
     "prettier": "^3.3.0",
     "vitest": "^4.1.8"
