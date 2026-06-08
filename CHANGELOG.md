@@ -1,5 +1,13 @@
 # @chbrain/khai-plays-buechner
 
+## 0.13.0
+
+### Minor Changes
+
+- ca5ae0d: Stage Georg Büchner's correspondence (Briefwechsel) as an epistolary network drama modeling transit, surveillance, and existential fatalism.
+- 6545ffb: Stage Georg Büchner's lost Renaissance drama (Pietro Aretino) as a meta-theatrical aftermath and erasure.
+- f422dd6: Stage Georg Büchner's Zurich exile and death (Züricher Exil) as a materialist and biological tragedy.
+
 ## 0.9.0
 
 ### Minor Changes
