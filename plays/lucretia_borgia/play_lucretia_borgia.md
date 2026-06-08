@@ -72,6 +72,11 @@ Was abläuft:
 - [die Enthüllung](process_revelation.md)
 - [die Tötung](process_slaying.md)
 
+Die Pläne, die einander begegnen:
+
+- [der Racheplan](plan_racheplan.md), das verborgene Vorhaben Lucretias
+- [der Eifersuchtsplan](plan_eifersucht.md), das Vorhaben Alphonsos
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
