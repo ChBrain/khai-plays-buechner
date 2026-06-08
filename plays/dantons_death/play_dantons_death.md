@@ -63,9 +63,12 @@ Orte:
 - [das Gefängnis](place_prison.md)
 - [das Schafott](place_scaffold.md)
 
+Pläne:
+
+- [der Säuberungsplan](plan_purification.md)
+
 Prozesse:
 
-- [die politische Reinigung](process_purification.md)
 - [der Scheinprozess](process_mock_trial.md)
 - [die Enthauptung](process_decapitation.md)
 
