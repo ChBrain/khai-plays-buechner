@@ -21,6 +21,7 @@
       "SECURITY.md",
       "registry.json"
     ],
+    "riders": [{ "pattern": "management/orders/**", "fallback": "governance" }],
     "lanes": [
       { "pattern": "play/*", "layer": "solution", "allow": ["plays/**"] },
       {
@@ -41,11 +42,6 @@
         ]
       },
       { "pattern": "changeset-release/*", "layer": "general", "allow": [] },
-      {
-        "pattern": "migration/*",
-        "layer": "general",
-        "allow": ["plays/**", "management/**"]
-      },
       { "pattern": "chore/*", "layer": "general", "allow": [] },
       { "pattern": "fix/*", "layer": "general", "allow": [] },
       { "pattern": "docs/*", "layer": "general", "allow": [] }
