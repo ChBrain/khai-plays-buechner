@@ -72,6 +72,11 @@ Was abläuft:
 - [das Delirium](process_delirium.md)
 - [das Protokollieren](process_recording.md)
 
+Die Pläne, die das Fieber zerbricht:
+
+- [die Habilitation](plan_die_habilitation.md), der akademische Aufstieg des Dozenten
+- [die Pflege](plan_die_pflege.md), das Pflegevorhaben Carolines
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
