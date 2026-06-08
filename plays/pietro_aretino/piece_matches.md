@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Zündhölzer"
+title: "The Matches"
+declared: "Die Zündhölzer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

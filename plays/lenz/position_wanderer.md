@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Wanderer"
+title: "The Wanderer"
+declared: "Der Wanderer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

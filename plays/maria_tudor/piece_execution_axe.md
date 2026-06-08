@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Richtbeil"
+title: "The Execution Axe"
+declared: "Das Richtbeil"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

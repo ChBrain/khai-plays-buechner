@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Schöpfer"
+title: "The Creator"
+declared: "Der Schöpfer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

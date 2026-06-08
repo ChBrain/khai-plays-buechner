@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Verhandlung"
+title: "The Negotiation"
+declared: "Die Verhandlung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

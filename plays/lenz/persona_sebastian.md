@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Sebastian"
+declared: "Sebastian"
 license: CC-BY-NC-SA-4.0
 voice: "simple, sturdy, loyal, silent; sparse German phrases"
 stamp:

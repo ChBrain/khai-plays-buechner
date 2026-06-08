@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Materialist Proof"
+declared: "The Materialist Proof"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

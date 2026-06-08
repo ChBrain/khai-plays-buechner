@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Die Gondel"
+title: "The Gondola"
+declared: "Die Gondel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

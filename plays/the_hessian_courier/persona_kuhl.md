@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Karl Kuhl"
+declared: "Karl Kuhl"
 license: CC-BY-NC-SA-4.0
 voice: "exhausted, fearful, defensive, pragmatic; short German dialect sentences"
 stamp:

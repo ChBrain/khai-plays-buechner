@@ -1,6 +1,7 @@
 ---
 khai: persona
-title: "Prinz Leonce"
+title: "Prince Leonce"
+declared: "Prinz Leonce"
 license: CC-BY-NC-SA-4.0
 voice: "melancholic, witty, cynical, satirical; poetic, parodic sentences"
 stamp:

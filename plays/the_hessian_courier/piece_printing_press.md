@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Druckerpresse"
+title: "The Printing Press"
+declared: "Die Druckerpresse"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

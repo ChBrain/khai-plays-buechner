@@ -1,6 +1,7 @@
 ---
 khai: persona
-title: "der Student"
+title: "The Student"
+declared: "der Student"
 license: CC-BY-NC-SA-4.0
 voice: "skeptisch, idealistisch, suchend; geprägt von Naturphilosophie, Harmonie und Teleologie"
 stamp:

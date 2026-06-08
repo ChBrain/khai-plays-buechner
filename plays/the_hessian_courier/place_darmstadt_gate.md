@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Darmstädter Tor"
+title: "The Darmstadt Gate"
+declared: "Das Darmstädter Tor"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

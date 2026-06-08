@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Die Königin"
+title: "The Queen"
+declared: "Die Königin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

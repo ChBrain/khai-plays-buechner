@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Siegellicht"
+title: "The Sealing Candle"
+declared: "Das Siegellicht"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

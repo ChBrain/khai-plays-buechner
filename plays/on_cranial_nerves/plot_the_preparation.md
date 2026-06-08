@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Preparation"
+declared: "The Preparation"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

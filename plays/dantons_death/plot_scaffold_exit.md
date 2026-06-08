@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "Scaffold Exit"
+declared: "Scaffold Exit"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

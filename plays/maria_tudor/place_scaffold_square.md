@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Der Richtplatz"
+title: "The Place of Execution"
+declared: "Der Richtplatz"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

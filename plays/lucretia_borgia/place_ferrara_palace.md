@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Der Herzogspalast in Ferrara"
+title: "The Ducal Palace in Ferrara"
+declared: "Der Herzogspalast in Ferrara"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

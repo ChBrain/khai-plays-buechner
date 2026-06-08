@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Die Bauernhütte"
+title: "The Peasant Cabin"
+declared: "Die Bauernhütte"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

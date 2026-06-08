@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Der Galvanismus"
+title: "Galvanism"
+declared: "Der Galvanismus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Abspaltung"
+title: "The Dissociation"
+declared: "Die Abspaltung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

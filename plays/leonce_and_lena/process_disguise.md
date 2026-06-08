@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Maskierung"
+title: "The Disguise"
+declared: "Die Maskierung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

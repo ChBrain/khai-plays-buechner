@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Pietro Aretino"
+declared: "Pietro Aretino"
 license: CC-BY-NC-SA-4.0
 voice: "blasphemisch, spöttisch, derb, weltgewandt und stolz; kraftvolle, Renaissance-gefärbte Sprache"
 stamp:

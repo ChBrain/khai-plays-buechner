@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Gilbert"
+declared: "Gilbert"
 license: CC-BY-NC-SA-4.0
 voice: "aufrecht, ernst, schlicht, rachsüchtig; kraftvolle deutsche Prosa"
 stamp:

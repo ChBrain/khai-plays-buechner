@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Herd"
+title: "The Hearth"
+declared: "Der Herd"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

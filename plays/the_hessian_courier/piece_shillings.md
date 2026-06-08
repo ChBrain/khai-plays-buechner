@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Groschen"
+title: "The Shillings"
+declared: "Die Groschen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

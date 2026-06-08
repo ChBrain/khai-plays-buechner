@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Überwachungsregister"
+title: "The Surveillance Ledger"
+declared: "Das Überwachungsregister"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

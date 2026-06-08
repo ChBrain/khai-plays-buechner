@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Archivar"
+title: "The Archivist"
+declared: "Der Archivar"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

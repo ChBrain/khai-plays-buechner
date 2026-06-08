@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "der Nationalkonvent"
+title: "The National Convention"
+declared: "der Nationalkonvent"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

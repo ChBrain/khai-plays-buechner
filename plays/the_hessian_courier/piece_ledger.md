@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Mitgliederverzeichnis"
+title: "The Membership Ledger"
+declared: "Das Mitgliederverzeichnis"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

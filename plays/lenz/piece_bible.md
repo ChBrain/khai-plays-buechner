@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Bibel"
+title: "The Bible"
+declared: "Die Bibel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

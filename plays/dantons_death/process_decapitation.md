@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "die Enthauptung"
+title: "The Decapitation"
+declared: "die Enthauptung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Predigt"
+title: "The Sermon"
+declared: "Die Predigt"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

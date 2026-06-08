@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Camille Desmoulins"
+declared: "Camille Desmoulins"
 license: CC-BY-NC-SA-4.0
 voice: "romantisch, journalistisch, verletzlich; verweist auf die antike Kunst und das Recht auf Glück"
 stamp:

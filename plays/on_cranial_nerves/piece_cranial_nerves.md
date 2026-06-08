@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Schädelnerven"
+title: "The Cranial Nerves"
+declared: "Die Schädelnerven"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

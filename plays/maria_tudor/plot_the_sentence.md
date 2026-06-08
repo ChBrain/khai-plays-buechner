@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Sentence"
+declared: "The Sentence"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

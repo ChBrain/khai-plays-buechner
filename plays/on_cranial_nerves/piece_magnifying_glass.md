@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Lupe"
+title: "The Magnifying Glass"
+declared: "Die Lupe"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

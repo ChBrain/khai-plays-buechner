@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Briefwechsel"
+title: "The Correspondence"
+declared: "Der Briefwechsel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

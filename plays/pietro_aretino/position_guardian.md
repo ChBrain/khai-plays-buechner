@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Die Hüterin"
+title: "The Guardian"
+declared: "Die Hüterin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

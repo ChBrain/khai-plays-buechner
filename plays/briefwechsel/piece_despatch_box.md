@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Schatulle"
+title: "The Despatch Box"
+declared: "Die Schatulle"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

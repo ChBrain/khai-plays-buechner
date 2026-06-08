@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Distribution"
+declared: "The Distribution"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

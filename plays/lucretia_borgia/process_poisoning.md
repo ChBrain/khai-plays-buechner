@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Vergiftung"
+title: "The Poisoning"
+declared: "Die Vergiftung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

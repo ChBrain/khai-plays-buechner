@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Kaminrost"
+title: "The Fireplace Grate"
+declared: "Der Kaminrost"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

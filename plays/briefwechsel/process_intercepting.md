@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Das Abfangen"
+title: "The Interception"
+declared: "Das Abfangen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

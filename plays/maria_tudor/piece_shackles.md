@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Kerkerketten"
+title: "The Dungeon Chains"
+declared: "Die Kerkerketten"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Beschattung"
+title: "The Surveillance"
+declared: "Die Beschattung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

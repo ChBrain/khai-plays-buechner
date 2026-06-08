@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Richtschwert"
+title: "The Execution Sword"
+declared: "Das Richtschwert"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

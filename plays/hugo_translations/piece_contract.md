@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Verlagsvertrag"
+title: "The Publishing Contract"
+declared: "Der Verlagsvertrag"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

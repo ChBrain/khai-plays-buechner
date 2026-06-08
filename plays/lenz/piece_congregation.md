@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Gemeinde"
+title: "The Congregation"
+declared: "Die Gemeinde"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

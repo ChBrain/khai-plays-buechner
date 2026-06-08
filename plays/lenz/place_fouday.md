@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Haus in Fouday"
+title: "The House in Fouday"
+declared: "Das Haus in Fouday"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

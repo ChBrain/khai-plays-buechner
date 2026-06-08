@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Briefe"
+title: "The Letters"
+declared: "Die Briefe"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

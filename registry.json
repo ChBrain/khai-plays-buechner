@@ -1,21 +1,21 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "plays": [
     {
       "id": "briefwechsel",
-      "title": "Briefwechsel",
+      "title": "Correspondence",
       "description": "Ein verzweifeltes Netz aus Tinte und Siegelwachs trägt das Überleben eines Flüchtigen über Grenzen."
     },
     {
       "id": "dantons_death",
-      "title": "Dantons Tod",
+      "title": "Danton's Death",
       "description": "Ein müder Revolutionär wird von der unerbittlichen Maschinerie der historischen Tugend zermalmt."
     },
     {
       "id": "hugo_translations",
-      "title": "Hugo-Übersetzungen",
+      "title": "Hugo Translations",
       "description": "Ein Flüchtling übersetzt in fieberhafter Nachtarbeit französische Dramen, um seine Flucht zu finanzieren."
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "id": "leonce_and_lena",
-      "title": "Leonce und Lena",
+      "title": "Leonce and Lena",
       "description": "Zwei gelangweilte Königskinder fliehen vor ihren Kronen, um als hölzerne Automaten zu heiraten."
     },
     {
@@ -40,17 +40,17 @@
     },
     {
       "id": "on_cranial_nerves",
-      "title": "Über Schädelnerven",
+      "title": "On Cranial Nerves",
       "description": "Galvanischer Strom lässt einen toten Fisch zucken, um das Leben als biologische Maschine zu beweisen."
     },
     {
       "id": "pietro_aretino",
-      "title": "Aretino (Der Kamin)",
+      "title": "Aretino (The Fireplace)",
       "description": "Ein verlorenes Meisterwerk der Renaissance-Satire steigt als Asche aus dem Kamin der Verlobten."
     },
     {
       "id": "the_hessian_courier",
-      "title": "Der Hessische Landbote",
+      "title": "The Hessian Courier",
       "description": "Ein revolutionäres Pamphlet nutzt nackte Steuerstatistiken, um den Bauernaufstand zu entfachen."
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "id": "zuericher_exil",
-      "title": "Die Spiegelgasse (Das Züricher Exil)",
+      "title": "The Spiegelgasse (The Zurich Exile)",
       "description": "Ein materialistischer Arzt seziert die Nerven der Barbe, während der Typhus seinen Körper fordert."
     }
   ]

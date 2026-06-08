@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der absolute Monarch"
+title: "The Absolute Monarch"
+declared: "Der absolute Monarch"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

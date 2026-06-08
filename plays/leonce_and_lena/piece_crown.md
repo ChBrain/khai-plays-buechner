@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Krone"
+title: "The Crown"
+declared: "Die Krone"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

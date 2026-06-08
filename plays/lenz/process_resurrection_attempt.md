@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Totenerweckung"
+title: "The Raising of the Dead"
+declared: "Die Totenerweckung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

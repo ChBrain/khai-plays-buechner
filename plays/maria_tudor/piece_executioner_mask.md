@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Henkersmaske"
+title: "The Executioner's Mask"
+declared: "Die Henkersmaske"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

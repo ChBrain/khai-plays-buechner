@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "der Scheinprozess"
+title: "The Mock Trial"
+declared: "der Scheinprozess"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

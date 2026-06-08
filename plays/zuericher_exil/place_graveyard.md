@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Der Friedhof"
+title: "The Cemetery"
+declared: "Der Friedhof"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

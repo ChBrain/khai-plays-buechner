@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Gegengift"
+title: "The Antidote"
+declared: "Das Gegengift"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

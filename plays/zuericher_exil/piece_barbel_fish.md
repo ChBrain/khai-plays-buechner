@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Barbe"
+title: "The Barbel"
+declared: "Die Barbe"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
