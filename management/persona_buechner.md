@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "Georg Buechner"
-declared: "Georg Buechner"
+language: english
 license: CC-BY-NC-SA-4.0
 voice: "revolutionary, intense, medically precise; obsessed with physical reality, nerves, and fatalism"
 stamp:
