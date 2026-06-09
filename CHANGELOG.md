@@ -1,5 +1,34 @@
 # @chbrain/khai-plays-buechner
 
+## 0.13.3
+
+### Patch Changes
+
+- b51435d: Give every plot its German declared name.
+
+  Plots were the only element type still declared in English. Each of the 46
+  plots across the 12 productions now carries a German `declared` name (and a
+  matching German H1), so the book reads in its declared language like every
+  other element; the English `title` is unchanged and still names the beat on
+  the shelf. Each play's `## Triggers` prose now links its plots by their German
+  names.
+
+- 32b18e0: Harden the CI/audit workflows against GitHub Actions expression injection. Untrusted
+  contexts (PR branch names via `github.head_ref` / `steps.*.outputs.*_ref`, the PR
+  number, and the diff-derived audit ids) are no longer interpolated directly into
+  `run:` shell or `github-script` bodies; they pass through `env:` and are referenced
+  as `"$VAR"` / `process.env.*`. Clears the code-scanning expression-injection
+  findings; no behavioral change to the gates. Mirrors the hardened khai-stage blueprint.
+- 2d4a0b8: Re-scope the management house to English. The management instances (the
+  production apparatus: Buechner, the Choregos, the Playwright, the Theatre
+  Manager) are English content, not in-world German staging, so each declares
+  `language: english` and carries no German `declared`.
+- f9df84b: Add a `.prettierignore` for the machine-written audit artifacts. The audit
+  workflow commits `audit/*/log.md`, `ledger.json`, and `meta.json`; without an
+  ignore file, `prettier --check` (the `test` gate) fails the moment the audit bot
+  writes a non-trivial finding. Mirrors the khai monorepo and the house blueprint,
+  and registers `.prettierignore` as a shared path in `khai-guard.config.json`.
+
 ## 0.13.2
 
 ### Patch Changes
