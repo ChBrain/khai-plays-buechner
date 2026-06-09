@@ -79,14 +79,14 @@ Pläne:
 
 Die Szenen folgen aufeinander und bedingen einander.
 
-1. [The Examination](plot_the_examination.md) eröffnet das Spiel: Woyzeck dient
+1. [Die Untersuchung](plot_the_examination.md) eröffnet das Spiel: Woyzeck dient
    dem Hauptmann und dem Doktor und wird mit Groschen und Schaden bezahlt. Dessen Ausgang,
    ein entlassener Mann mit seinem Lohn und einem bereits zerrütteten Verstand,
    bereitet den Boden für den zweiten Akt.
-2. [The Parade](plot_the_parade.md) schließt an diese Entlassung an: Marie wendet
+2. [Die Parade](plot_the_parade.md) schließt an diese Entlassung an: Marie wendet
    sich dem Tambourmajor zu, während Woyzeck draußen den Groschen nachjagt. Dessen Ausgang,
    die Gewissheit des Verrats, bereitet den Boden für den dritten Akt.
-3. [The Pond](plot_the_pond.md) folgt aus dieser Gewissheit: Woyzeck führt Marie
+3. [Der Teich](plot_the_pond.md) folgt aus dieser Gewissheit: Woyzeck führt Marie
    an das Wasser und sticht sie tot. Ihr Tod beendet das Spiel.
 
 ## Stakes

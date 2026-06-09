@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Intercept"
-declared: "The Intercept"
+declared: "Der Abfang"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: The Intercept
+# Plot: Der Abfang
 
 ## Taxonomy
 

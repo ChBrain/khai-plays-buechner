@@ -80,10 +80,10 @@ Die Pläne, die der Beweis verlangt:
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Preparation](plot_the_preparation.md) eröffnet das Spiel: Der Demonstrator holt die Barbe aus dem Präparationsraum und pinnt sie auf die Sezierschale. Büchner zeichnet das Gehirn an die Tafel.
-2. [The Incisions](plot_the_incisions.md) zündet auf die Vorbereitung: Büchner führt das Skalpell und legt den Trigeminus- und Fazialisnerv frei. Die Studenten untersuchen die Fasern durch die Lupe.
-3. [The Excitation](plot_the_excitation.md) zündet auf die Freilegung: Der Demonstrator schließt die Drähte der galvanischen Batterie an die Nervenenden an. Die Muskeln des Fisches reagieren mit krampfhaften Zuckungen.
-4. [The Materialist Proof](plot_the_materialist_proof.md) zündet auf den Reflex: Büchner liefert die philosophische Synthese. Das Auditorium verstummt vor dem Beweis, dass der Organismus eine Maschine ist.
+1. [Die Präparation](plot_the_preparation.md) eröffnet das Spiel: Der Demonstrator holt die Barbe aus dem Präparationsraum und pinnt sie auf die Sezierschale. Büchner zeichnet das Gehirn an die Tafel.
+2. [Die Schnitte](plot_the_incisions.md) zündet auf die Vorbereitung: Büchner führt das Skalpell und legt den Trigeminus- und Fazialisnerv frei. Die Studenten untersuchen die Fasern durch die Lupe.
+3. [Die Erregung](plot_the_excitation.md) zündet auf die Freilegung: Der Demonstrator schließt die Drähte der galvanischen Batterie an die Nervenenden an. Die Muskeln des Fisches reagieren mit krampfhaften Zuckungen.
+4. [Der materialistische Beweis](plot_the_materialist_proof.md) zündet auf den Reflex: Büchner liefert die philosophische Synthese. Das Auditorium verstummt vor dem Beweis, dass der Organismus eine Maschine ist.
 
 ## Stakes
 

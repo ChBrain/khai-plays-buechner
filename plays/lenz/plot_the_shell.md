@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Shell"
-declared: "The Shell"
+declared: "Die Hülle"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: The Shell
+# Plot: Die Hülle
 
 ## Taxonomy
 

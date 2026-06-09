@@ -81,10 +81,10 @@ Die Pläne, die einander begegnen:
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Insult](plot_the_insult.md) eröffnet das Spiel: Gennaro und seine Freunde verspotten den Namen Borgia; er meißelt den Buchstaben an der Palastwand ab.
-2. [The Arrest](plot_the_arrest.md) zündet auf die Schmähung: Der eifersüchtige Herzog Alphonso lässt Gennaro festnehmen und stellt Lucretia vor die Wahl, seinen Tod anzuordnen.
-3. [The Poison](plot_the_poison.md) zündet auf die Festnahme: Lucretia reicht Gennaro das vergiftete Goldbecher, rettet ihn aber im Verborgenen mit dem Gegengift und befiehlt ihm die Flucht.
-4. [The Vengeance](plot_the_vengeance.md) zündet auf das Überleben: Gennaro flieht nicht, sondern nimmt am Bankett teil. Lucretia vergiftet die Gesellschaft; Gennaro ersticht seine Mutter und stirbt.
+1. [Die Schmähung](plot_the_insult.md) eröffnet das Spiel: Gennaro und seine Freunde verspotten den Namen Borgia; er meißelt den Buchstaben an der Palastwand ab.
+2. [Die Festnahme](plot_the_arrest.md) zündet auf die Schmähung: Der eifersüchtige Herzog Alphonso lässt Gennaro festnehmen und stellt Lucretia vor die Wahl, seinen Tod anzuordnen.
+3. [Der Gifttrank](plot_the_poison.md) zündet auf die Festnahme: Lucretia reicht Gennaro das vergiftete Goldbecher, rettet ihn aber im Verborgenen mit dem Gegengift und befiehlt ihm die Flucht.
+4. [Die Rache](plot_the_vengeance.md) zündet auf das Überleben: Gennaro flieht nicht, sondern nimmt am Bankett teil. Lucretia vergiftet die Gesellschaft; Gennaro ersticht seine Mutter und stirbt.
 
 ## Stakes
 

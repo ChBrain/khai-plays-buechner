@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Melancholy"
-declared: "The Melancholy"
+declared: "Die Melancholie"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: The Melancholy
+# Plot: Die Melancholie
 
 ## Taxonomy
 

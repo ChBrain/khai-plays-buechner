@@ -81,10 +81,10 @@ Die Pläne, die sich auf dem Schafott kreuzen:
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Favorite](plot_the_favorite.md) eröffnet das Spiel: Fabiani betrügt die Königin und verführt Jane. Gilbert entdeckt die Entehrung seiner Braut und schwört Rache.
-2. [The Trap](plot_the_trap.md) zündet auf die Aufdeckung: Die Königin erfährt von Fabianis Treulosigkeit und inszeniert eine Anklage wegen Attentats auf Gilbert und Fabiani, um beide in den Tower zu werfen.
-3. [The Sentence](plot_the_sentence.md) zündet auf die Haft: Die Königin unterzeichnet die Todesurteile, versucht aber im Geheimen, Gilbert anstelle von Fabiani hinrichten zu lassen, während Jane um Gilberts Leben kämpft.
-4. [The Axe](plot_the_axe.md) zündet auf das Schafott: Auf dem Richtplatz fordert das Volk den Tod des verhassten Italieners. Fabiani fällt unter dem Beil, während Gilbert im letzten Moment entkommt.
+1. [Der Günstling](plot_the_favorite.md) eröffnet das Spiel: Fabiani betrügt die Königin und verführt Jane. Gilbert entdeckt die Entehrung seiner Braut und schwört Rache.
+2. [Die Falle](plot_the_trap.md) zündet auf die Aufdeckung: Die Königin erfährt von Fabianis Treulosigkeit und inszeniert eine Anklage wegen Attentats auf Gilbert und Fabiani, um beide in den Tower zu werfen.
+3. [Das Todesurteil](plot_the_sentence.md) zündet auf die Haft: Die Königin unterzeichnet die Todesurteile, versucht aber im Geheimen, Gilbert anstelle von Fabiani hinrichten zu lassen, während Jane um Gilberts Leben kämpft.
+4. [Das Beil](plot_the_axe.md) zündet auf das Schafott: Auf dem Richtplatz fordert das Volk den Tod des verhassten Italieners. Fabiani fällt unter dem Beil, während Gilbert im letzten Moment entkommt.
 
 ## Stakes
 
