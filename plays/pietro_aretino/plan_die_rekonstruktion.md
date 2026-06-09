@@ -37,6 +37,6 @@ Jahrzehnte nach dem Kamin macht sich [Franzos](persona_franzos.md) daran, zu ber
 
 ## Targets
 
-- [x] Die Zeugnisse über das verbrannte Werk sind gesammelt
-- [x] Die Druckausgabe 1879 ist als Denkmal der Asche gesetzt
-- [F] Der wahre Text des Meisterwerks ist wiedergewonnen
+- [ ] Die Zeugnisse über das verbrannte Werk sind gesammelt
+- [ ] Die Druckausgabe 1879 ist als Denkmal der Asche gesetzt
+- [ ] Der wahre Text des Meisterwerks ist wiedergewonnen

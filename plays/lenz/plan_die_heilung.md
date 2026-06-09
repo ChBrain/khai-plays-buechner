@@ -37,6 +37,6 @@ Ein Mandatsplan der Seelsorge: das Vorhaben des [Seelsorgers](position_pastor.md
 
 ## Targets
 
-- [F] Lenz findet im Pfarrhaus dauerhaften Halt
-- [F] Das Wort Gottes erreicht den verfallenden Geist
-- [W] Die Fürsorge wird fortgesetzt; statt dessen reist Lenz nach Straßburg ab
+- [ ] Lenz findet im Pfarrhaus dauerhaften Halt
+- [ ] Das Wort Gottes erreicht den verfallenden Geist
+- [ ] Die Fürsorge wird fortgesetzt; statt dessen reist Lenz nach Straßburg ab

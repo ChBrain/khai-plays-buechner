@@ -38,6 +38,6 @@ Caroline wacht am Lager des Fiebernden und stemmt ihre ganze Sorge gegen den Ver
 
 ## Targets
 
-- [F] Das Fieber ist gesenkt
-- [F] Der Funke ist gehalten
-- [x] Der Leichnam ist in das [Grabtuch](piece_shroud.md) gehüllt
+- [ ] Das Fieber ist gesenkt
+- [ ] Der Funke ist gehalten
+- [ ] Der Leichnam ist in das [Grabtuch](piece_shroud.md) gehüllt

@@ -39,7 +39,7 @@ Der Übersetzer sitzt in der Falle: in Hessen droht der Kerker, im Exil winkt di
 
 ## Targets
 
-- [x] Der Verlagsvertrag ist unterzeichnet und die Übersetzungspflicht besiegelt
-- [x] Die fremden Dramen sind vollendet und die Seiten gestapelt
-- [x] Der Vorschuss ist empfangen und die Mittel für die Reise gelöst
+- [ ] Der Verlagsvertrag ist unterzeichnet und die Übersetzungspflicht besiegelt
+- [ ] Die fremden Dramen sind vollendet und die Seiten gestapelt
+- [ ] Der Vorschuss ist empfangen und die Mittel für die Reise gelöst
 - [ ] Die Grenze ist überschritten, ehe der Steckbrief greift

@@ -40,6 +40,6 @@ Das Amt verlangt den Beweis, nicht das Mitleid; die Lizenz zur Forschung deckt, 
 
 - [x] Der hungernde Soldat ist über die Groschen gekauft und an den Versuch gebunden
 - [x] Die Erbsendiät ist als einzige Nahrung verordnet und durchgesetzt
-- [x] Die Zerrüttung ist Tag für Tag gemessen und ins Gutachten geschrieben
-- [x] Die Theorie ist an der lebenden Materie erfolgreich bewiesen
+- [ ] Die Zerrüttung ist Tag für Tag gemessen und ins Gutachten geschrieben
+- [ ] Die Theorie ist an der lebenden Materie erfolgreich bewiesen
 - [ ] Der Beweis rechtfertigt das Amt, das ihn erzwungen hat

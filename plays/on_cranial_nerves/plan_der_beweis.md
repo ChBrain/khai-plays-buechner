@@ -38,7 +38,7 @@ Das Amt des Lecturers verlangt einen öffentlichen Beweis, keinen privaten Glaub
 
 ## Targets
 
-- [x] Die Schädelnerven der Barbe liegen unversehrt und freigelegt da
-- [x] Der tote Muskel zuckt unter dem galvanischen Strom
-- [x] Das Auditorium verstummt vor dem scheinbaren Beweis, dass der Organismus eine Maschine ist
+- [ ] Die Schädelnerven der Barbe liegen unversehrt und freigelegt da
+- [ ] Der tote Muskel zuckt unter dem galvanischen Strom
+- [ ] Das Auditorium verstummt vor dem scheinbaren Beweis, dass der Organismus eine Maschine ist
 - [ ] Der skeptische Student ist überzeugt

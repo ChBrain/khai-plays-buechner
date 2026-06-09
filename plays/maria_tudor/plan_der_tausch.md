@@ -38,6 +38,6 @@ Der Zorn der verratenen Frau und die Macht der Königin fallen in einem Befehl z
 
 ## Targets
 
-- [x] Fabiani und Gilbert sitzen, der Falle wegen, im Tower
-- [x] Beide Todesurteile sind mit dem königlichen Siegel unterzeichnet
-- [F] Fabiani entkommt unter dem Schleier, Gilbert stirbt an seiner statt
+- [ ] Fabiani und Gilbert sitzen, der Falle wegen, im Tower
+- [ ] Beide Todesurteile sind mit dem königlichen Siegel unterzeichnet
+- [ ] Fabiani entkommt unter dem Schleier, Gilbert stirbt an seiner statt
