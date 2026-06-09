@@ -72,6 +72,11 @@ Was abläuft:
 - [die Hochzeit](process_wedding.md)
 - [die Krönung](process_coronation.md)
 
+Die Pläne, die einander begegnen:
+
+- [der Fluchtplan](plan_die_flucht.md), das Vorhaben Leonces, dem Vorbestimmten zu entkommen
+- [der Ordnungsplan](plan_die_ordnung.md), das Vorhaben des Monarchen, die Hochzeit zu erzwingen
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

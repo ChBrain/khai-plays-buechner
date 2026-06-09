@@ -65,7 +65,8 @@ Orte:
 
 Pläne:
 
-- [der Säuberungsplan](plan_purification.md)
+- [der Säuberungsplan](plan_purification.md), das Vorhaben der Maschine
+- [die Verteidigung](plan_die_verteidigung.md), Dantons Gegenplan des Unterlassens
 
 Prozesse:
 
