@@ -38,6 +38,6 @@ Was vom [Straßburger Dachzimmer](place_strasbourg_garret.md) ausgeht, soll die 
 
 ## Targets
 
-- [x] Die Chiffre hält; das Überwachungsregister greift ins Leere, und die Polizei ist getäuscht
-- [x] Gutzkows Vorschuss ist über den Wechselbrief gesichert, und die Lebenslinie hält
+- [ ] Die Chiffre hält; das Überwachungsregister greift ins Leere, und die Polizei ist getäuscht
+- [ ] Gutzkows Vorschuss ist über den Wechselbrief gesichert, und die Lebenslinie hält
 - [ ] Die Ferne zu Minna ist überbrückt

@@ -38,5 +38,5 @@ Das Protokoll verlangt die Hochzeit, der Tag ist anberaumt, das Reich wartet auf
 
 ## Targets
 
-- [x] Die Hochzeit ist _in effigie_ befohlen und an den Automaten vollzogen
+- [ ] Die Hochzeit ist _in effigie_ befohlen und an den Automaten vollzogen
 - [ ] Die Ordnung des Reiches ist gesichert, der Thron unverrückt besetzt

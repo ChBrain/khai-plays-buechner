@@ -37,5 +37,5 @@ Jane durchschaut, dass [Gilbert](persona_gilbert.md) an Fabianis statt sterben s
 
 ## Targets
 
-- [x] Der Tausch ist aufgedeckt und Gilberts Unschuld vor dem Volk behauptet
-- [x] Gilbert entkommt im letzten Augenblick vom Richtplatz
+- [ ] Der Tausch ist aufgedeckt und Gilberts Unschuld vor dem Volk behauptet
+- [ ] Gilbert entkommt im letzten Augenblick vom Richtplatz

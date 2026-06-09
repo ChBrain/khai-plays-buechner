@@ -37,6 +37,6 @@ Ein Mandatsplan der Hüterin: das Vorhaben der [Hüterin](position_guardian.md) 
 
 ## Targets
 
-- [x] Die blasphemischen Szenen sind als untragbar verurteilt
-- [x] Das Manuskript ist im Kamin zu Asche verbrannt
+- [ ] Die blasphemischen Szenen sind als untragbar verurteilt
+- [ ] Das Manuskript ist im Kamin zu Asche verbrannt
 - [ ] Das Andenken des Dichters ist bewahrt

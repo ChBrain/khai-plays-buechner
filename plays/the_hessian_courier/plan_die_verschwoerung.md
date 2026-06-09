@@ -38,7 +38,7 @@ Der Zorn über die untragbaren Lasten der Bauern verdichtet sich zu einem einzig
 
 ## Targets
 
-- [x] Die Flugschrift ist verfasst und mit den Steuerstatistiken bewaffnet
-- [x] Die Auflage ist heimlich an der Druckerpresse gedruckt
-- [x] Die Bündel liegen unter den Türen der Bauernhütten
-- [F] Der Bauernaufstand ist entfacht; die [Denunziation](process_denunciation.md) erstickt ihn, bevor die erste Hütte aufsteht
+- [ ] Die Flugschrift ist verfasst und mit den Steuerstatistiken bewaffnet
+- [ ] Die Auflage ist heimlich an der Druckerpresse gedruckt
+- [ ] Die Bündel liegen unter den Türen der Bauernhütten
+- [ ] Der Bauernaufstand ist entfacht; die [Denunziation](process_denunciation.md) erstickt ihn, bevor die erste Hütte aufsteht
