@@ -1,5 +1,20 @@
 # @chbrain/khai-plays-buechner
 
+## 0.13.4
+
+### Patch Changes
+
+- d465a51: Mark the two completed Buechner management orders as resolved in their order
+  files, so the management ledger reflects work that has landed.
+- b8293c9: Set every in-world plan's targets to their state at curtain-rise. A play opens
+  before its scheme has played out, so each step holds as forward intent (`[ ]`):
+  the poison unpoured, the flight unmade, the proof unwon. Only Woyzeck opens
+  mid-experiment, so its purchased-soldier and pea-diet steps carry `[x]` as
+  settled backstory; every other plan awaits the stage.
+- d2288cd: Update khai dev dependencies to pick up the plan-verdict work: `@chbrain/khai-arch`
+  and `@chbrain/khai-tests` to `0.1.13`. The house still conforms under the updated
+  validator.
+
 ## 0.13.3
 
 ### Patch Changes
