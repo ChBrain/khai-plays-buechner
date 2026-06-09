@@ -38,6 +38,6 @@ Alphonso sieht in [Gennaro](persona_gennaro.md) den Buhlen seiner Frau und in de
 
 ## Targets
 
-- [x] Gennaro ist festgenommen und in den Kerker geworfen
-- [x] Lucretia ist gezwungen, ihm den vergifteten Goldbecher zu reichen
+- [ ] Gennaro ist festgenommen und in den Kerker geworfen
+- [ ] Lucretia ist gezwungen, ihm den vergifteten Goldbecher zu reichen
 - [ ] Der vermeintliche Rivale ist für immer beseitigt

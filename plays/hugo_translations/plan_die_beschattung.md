@@ -38,6 +38,6 @@ Die Autorität duldet kein Entkommen: der Untertan hat den Landboten geschrieben
 
 ## Targets
 
-- [x] Das Haus ist bewacht und die Briefe sind abgefangen
-- [x] Der Steckbrief ist erlassen und die Gendarmen sind aufgerufen
+- [ ] Das Haus ist bewacht und die Briefe sind abgefangen
+- [ ] Der Steckbrief ist erlassen und die Gendarmen sind aufgerufen
 - [ ] Büchner ist verhaftet

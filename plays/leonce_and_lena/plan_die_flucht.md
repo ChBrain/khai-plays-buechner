@@ -38,5 +38,5 @@ Die Melancholie des Hofes ist unerträglich, die Ehe mit der ungesehenen Braut i
 
 ## Targets
 
-- [x] Die Grenze ist überschritten, der arrangierten Heirat entflohen
+- [ ] Die Grenze ist überschritten, der arrangierten Heirat entflohen
 - [ ] Dem Vorbestimmten ist entkommen, das eigene freie Dasein behauptet

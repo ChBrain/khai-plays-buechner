@@ -38,6 +38,6 @@ Der mittellose Flüchtling will den Sprung in die akademische Sicherheit erzwing
 
 ## Targets
 
-- [x] Die Venia Legendi ist errungen und die Probevorlesung gehalten
-- [x] Die Promotionsurkunde ist verliehen und der Rang beurkundet
-- [W] Ein bürgerliches akademisches Leben ist gesichert
+- [ ] Die Venia Legendi ist errungen und die Probevorlesung gehalten
+- [ ] Die Promotionsurkunde ist verliehen und der Rang beurkundet
+- [ ] Ein bürgerliches akademisches Leben ist gesichert

@@ -38,7 +38,7 @@ Der Name Borgia ist an der Palastwand verstümmelt, der Hohn ist öffentlich. Lu
 
 ## Targets
 
-- [x] Die Spötter sind zum Bankett geladen und die Goldbecher vergiftet
-- [x] Gennaro ist mit dem Gegengift vor Alphonsos Becher gerettet
+- [ ] Die Spötter sind zum Bankett geladen und die Goldbecher vergiftet
+- [ ] Gennaro ist mit dem Gegengift vor Alphonsos Becher gerettet
 - [ ] Gennaro flieht aus Ferrara, ehe das Bankett beginnt
 - [ ] Der Name Borgia ist gerächt, ohne den Sohn zu verlieren

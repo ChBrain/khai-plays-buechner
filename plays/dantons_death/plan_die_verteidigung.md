@@ -37,6 +37,6 @@ Danton ist der Tat müde und der Tugendpredigt überdrüssig. Fliehen will er ni
 
 ## Targets
 
-- [W] Die Flucht ist verworfen; Danton bleibt und stellt sich
+- [ ] Die Flucht ist verworfen; Danton bleibt und stellt sich
 - [ ] Die Stimme vor dem Tribunal wendet das Urteil
 - [ ] Der Konvent erhebt sich, ehe das Beil fällt
