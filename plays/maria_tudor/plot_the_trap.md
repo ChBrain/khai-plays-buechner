@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Trap"
-declared: "The Trap"
+declared: "Die Falle"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: The Trap
+# Plot: Die Falle
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Encounter"
-declared: "The Encounter"
+declared: "Die Begegnung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: The Encounter
+# Plot: Die Begegnung
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "Tribunal Speech"
-declared: "Tribunal Speech"
+declared: "Die Verteidigungsrede"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: Tribunal Speech
+# Plot: Die Verteidigungsrede
 
 ## Taxonomy
 

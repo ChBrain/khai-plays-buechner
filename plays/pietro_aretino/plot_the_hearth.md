@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Hearth"
-declared: "The Hearth"
+declared: "Der Kamin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: The Hearth
+# Plot: Der Kamin
 
 ## Taxonomy
 

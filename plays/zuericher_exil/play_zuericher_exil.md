@@ -81,10 +81,10 @@ Die Pläne, die das Fieber zerbricht:
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Triumph](plot_the_triumph.md) eröffnet das Spiel: Büchner hält seine Probevorlesung _Über Schädelnerven_ vor dem Universitätssenat und wird zum Dozenten ernannt.
-2. [The Invasion](plot_the_invasion.md) zündet auf die Ernennung: Die biologische Infektion des Typhus nistet sich unbemerkt in Büchners Körper ein, während er an der Barbe forscht.
-3. [The Delirium](plot_the_delirium.md) zündet auf den Ausbruch des Fiebers: Büchner verfällt im Dachzimmer der Spiegelgasse in Halluzinationen und wirre Phantasien, gepflegt von Caroline.
-4. [The Shroud](plot_the_shroud.md) zündet auf das Versagen der Lebenszeichen: Büchner stirbt, Wilhelm Schulz zeichnet den Nachruf auf, und der Körper wird zur Erdbestattung übergeben.
+1. [Der Triumph](plot_the_triumph.md) eröffnet das Spiel: Büchner hält seine Probevorlesung _Über Schädelnerven_ vor dem Universitätssenat und wird zum Dozenten ernannt.
+2. [Der Befall](plot_the_invasion.md) zündet auf die Ernennung: Die biologische Infektion des Typhus nistet sich unbemerkt in Büchners Körper ein, während er an der Barbe forscht.
+3. [Das Delirium](plot_the_delirium.md) zündet auf den Ausbruch des Fiebers: Büchner verfällt im Dachzimmer der Spiegelgasse in Halluzinationen und wirre Phantasien, gepflegt von Caroline.
+4. [Das Leichentuch](plot_the_shroud.md) zündet auf das Versagen der Lebenszeichen: Büchner stirbt, Wilhelm Schulz zeichnet den Nachruf auf, und der Körper wird zur Erdbestattung übergeben.
 
 ## Stakes
 

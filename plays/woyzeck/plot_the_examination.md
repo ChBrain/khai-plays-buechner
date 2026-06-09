@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Examination"
-declared: "The Examination"
+declared: "Die Untersuchung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Plot: The Examination
+# Plot: Die Untersuchung
 
 ## Taxonomy
 
