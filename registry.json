@@ -4,6 +4,11 @@
   "version": "0.13.2",
   "plays": [
     {
+      "id": "barbel_memoir",
+      "title": "The Barbel Memoir",
+      "description": "Un traité d'anatomie comparée sur le système nerveux du barbeau permet à un exilé d'obtenir son doctorat."
+    },
+    {
       "id": "briefwechsel",
       "title": "Correspondence",
       "description": "A desperate web of ink and sealing wax carries a fugitive's survival across borders."
