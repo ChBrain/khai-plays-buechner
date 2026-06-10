@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Microscopic Observation"
+declared: "L'observation"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +10,7 @@ stamp:
   date: "2026-06-10"
 ---
 
-# Plot: The Microscopic Observation
+# Plot: L'observation
 
 ## Taxonomy
 

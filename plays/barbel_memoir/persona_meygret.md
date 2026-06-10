@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Pierre Meygret"
+declared: "Pierre Meygret"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:

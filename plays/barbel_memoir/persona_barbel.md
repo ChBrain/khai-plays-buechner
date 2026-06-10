@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "The Barbel"
+declared: "Le barbeau"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +11,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: The Barbel
+# Persona: Le barbeau
 
 ## Taxonomy
 

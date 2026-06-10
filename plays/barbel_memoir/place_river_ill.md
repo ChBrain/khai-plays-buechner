@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "The River Ill"
+declared: "l'Ill"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +10,7 @@ stamp:
   date: "2026-06-10"
 ---
 
-# Place: The River Ill
+# Place: l'Ill
 
 ## Taxonomy
 

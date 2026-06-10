@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "The Writing"
+declared: "l'écriture"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +10,7 @@ stamp:
   date: "2026-06-10"
 ---
 
-# Process: The Writing
+# Process: l'écriture
 
 ## Taxonomy
 

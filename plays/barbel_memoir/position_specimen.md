@@ -1,6 +1,7 @@
 ---
 khai: position
 title: "The Specimen"
+declared: "le spécimen"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +10,7 @@ stamp:
   date: "2026-06-10"
 ---
 
-# Position: The Specimen
+# Position: le spécimen
 
 ## Taxonomy
 

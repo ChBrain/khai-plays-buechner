@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Georg Buechner"
+declared: "Georg Büchner"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Georg Buechner
+# Persona: Georg Büchner
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "The Microscope"
+declared: "le microscope"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +10,7 @@ stamp:
   date: "2026-06-10"
 ---
 
-# Piece: The Microscope
+# Piece: le microscope
 
 ## Taxonomy
 

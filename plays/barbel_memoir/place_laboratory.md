@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "The Laboratory"
+declared: "le laboratoire"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +10,7 @@ stamp:
   date: "2026-06-10"
 ---
 
-# Place: The Laboratory
+# Place: le laboratoire
 
 ## Taxonomy
 

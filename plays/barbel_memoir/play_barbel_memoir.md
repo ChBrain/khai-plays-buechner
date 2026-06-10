@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Barbel Memoir"
+declared: "Mémoire sur le système nerveux du barbeau"
 language: fr
 license: CC-BY-NC-SA-4.0
 voice: "précis, anatomique, exilé, lucide; prose française rigoureuse"
@@ -10,7 +11,7 @@ stamp:
   date: "2026-06-10"
 ---
 
-# Play: The Barbel Memoir
+# Play: Mémoire sur le système nerveux du barbeau
 
 ## Estate
 
