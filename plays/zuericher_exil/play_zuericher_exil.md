@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Die Spiegelgasse (Das Züricher Exil)"
+title: "The Spiegelgasse (The Zurich Exile)"
+declared: "Die Spiegelgasse (Das Züricher Exil)"
 license: CC-BY-NC-SA-4.0
 voice: "starr, sachlich, materialistisch; konfrontiert medizinische Präzision mit dem biologischen Siechtum des Fiebers"
 stamp:
@@ -71,14 +72,19 @@ Was abläuft:
 - [das Delirium](process_delirium.md)
 - [das Protokollieren](process_recording.md)
 
+Die Pläne, die das Fieber zerbricht:
+
+- [die Habilitation](plan_die_habilitation.md), der akademische Aufstieg des Dozenten
+- [die Pflege](plan_die_pflege.md), das Pflegevorhaben Carolines
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Triumph](plot_the_triumph.md) eröffnet das Spiel: Büchner hält seine Probevorlesung _Über Schädelnerven_ vor dem Universitätssenat und wird zum Dozenten ernannt.
-2. [The Invasion](plot_the_invasion.md) zündet auf die Ernennung: Die biologische Infektion des Typhus nistet sich unbemerkt in Büchners Körper ein, während er an der Barbe forscht.
-3. [The Delirium](plot_the_delirium.md) zündet auf den Ausbruch des Fiebers: Büchner verfällt im Dachzimmer der Spiegelgasse in Halluzinationen und wirre Phantasien, gepflegt von Caroline.
-4. [The Shroud](plot_the_shroud.md) zündet auf das Versagen der Lebenszeichen: Büchner stirbt, Wilhelm Schulz zeichnet den Nachruf auf, und der Körper wird zur Erdbestattung übergeben.
+1. [Der Triumph](plot_the_triumph.md) eröffnet das Spiel: Büchner hält seine Probevorlesung _Über Schädelnerven_ vor dem Universitätssenat und wird zum Dozenten ernannt.
+2. [Der Befall](plot_the_invasion.md) zündet auf die Ernennung: Die biologische Infektion des Typhus nistet sich unbemerkt in Büchners Körper ein, während er an der Barbe forscht.
+3. [Das Delirium](plot_the_delirium.md) zündet auf den Ausbruch des Fiebers: Büchner verfällt im Dachzimmer der Spiegelgasse in Halluzinationen und wirre Phantasien, gepflegt von Caroline.
+4. [Das Leichentuch](plot_the_shroud.md) zündet auf das Versagen der Lebenszeichen: Büchner stirbt, Wilhelm Schulz zeichnet den Nachruf auf, und der Körper wird zur Erdbestattung übergeben.
 
 ## Stakes
 

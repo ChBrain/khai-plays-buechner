@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Maria Tudor"
+declared: "Maria Tudor"
 license: CC-BY-NC-SA-4.0
 voice: "herrscherisch, leidenschaftlich, rachsüchtig, zerrissen; königliche deutsche Prosa"
 stamp:

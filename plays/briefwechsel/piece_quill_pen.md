@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Schreibfeder"
+title: "The Writing Quill"
+declared: "Die Schreibfeder"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

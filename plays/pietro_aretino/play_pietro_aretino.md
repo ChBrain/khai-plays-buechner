@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Aretino (Der Kamin)"
+title: "Aretino (The Fireplace)"
+declared: "Aretino (Der Kamin)"
 license: CC-BY-NC-SA-4.0
 voice: "fiebrig, profan, aschengrau, von bitterer Ironie; kontrastiert das Knistern des Feuers mit der Gelehrsamkeit des Archivs"
 stamp:
@@ -71,14 +72,19 @@ Was abläuft:
 - [das Zensieren](process_censoring.md)
 - [das Archivieren](process_archiving.md)
 
+Die Pläne, die über die Asche hinweg miteinander ringen:
+
+- [die Bewahrung](plan_die_bewahrung.md), Minnas Vorhaben am Kamin
+- [die Rekonstruktion](plan_die_rekonstruktion.md), Franzos' Vorhaben Jahrzehnte später
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Fever](plot_the_fever.md) eröffnet das Spiel: Büchner beendet im Züricher Sterbezimmer im Typhuswahn das Stück und imaginiert Aretino an seinem Krankenbett.
-2. [The Judgment](plot_the_judgment.md) zündet auf das Eintreffen des Nachlasses: Minna liest die blasphemischen Szenen und entscheidet aus moralischer Fürsorge, das Werk zu vernichten.
-3. [The Hearth](plot_the_hearth.md) zündet auf den Entschluss der Vernichtung: Minna wirft die Blätter in den Kamin, während Aretinos Spottgestalt im Feuer lebendig wird und verglimmt.
-4. [The Scraps](plot_the_scraps.md) zündet auf das Schweigen nach dem Brand: Karl Emil Franzos rekonstruiert Jahrzehnte später aus Briefen und Zeugenaussagen den Mythos der Asche.
+1. [Das Fieber](plot_the_fever.md) eröffnet das Spiel: Büchner beendet im Züricher Sterbezimmer im Typhuswahn das Stück und imaginiert Aretino an seinem Krankenbett.
+2. [Der Richtspruch](plot_the_judgment.md) zündet auf das Eintreffen des Nachlasses: Minna liest die blasphemischen Szenen und entscheidet aus moralischer Fürsorge, das Werk zu vernichten.
+3. [Der Kamin](plot_the_hearth.md) zündet auf den Entschluss der Vernichtung: Minna wirft die Blätter in den Kamin, während Aretinos Spottgestalt im Feuer lebendig wird und verglimmt.
+4. [Die Fragmente](plot_the_scraps.md) zündet auf das Schweigen nach dem Brand: Karl Emil Franzos rekonstruiert Jahrzehnte später aus Briefen und Zeugenaussagen den Mythos der Asche.
 
 ## Stakes
 

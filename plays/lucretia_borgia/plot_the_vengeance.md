@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Vengeance"
+declared: "Die Rache"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: The Vengeance
+# Plot: Die Rache
 
 ## Taxonomy
 

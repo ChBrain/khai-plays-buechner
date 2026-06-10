@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Sezierschale"
+title: "The Dissecting Pan"
+declared: "Die Sezierschale"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Wappenschild"
+title: "The Crested Shield"
+declared: "Das Wappenschild"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

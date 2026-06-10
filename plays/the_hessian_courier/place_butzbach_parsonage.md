@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Butzbacher Pfarrhaus"
+title: "The Butzbach Parsonage"
+declared: "Das Butzbacher Pfarrhaus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

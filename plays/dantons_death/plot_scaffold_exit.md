@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "Scaffold Exit"
+declared: "Der Gang zum Schafott"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: Scaffold Exit
+# Plot: Der Gang zum Schafott
 
 ## Taxonomy
 

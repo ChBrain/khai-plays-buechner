@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Karl Gutzkow"
+declared: "Karl Gutzkow"
 license: CC-BY-NC-SA-4.0
 voice: "intellektuell, engagiert, geschäftstüchtig, aber mitfühlend; lebhafte Diktion"
 stamp:

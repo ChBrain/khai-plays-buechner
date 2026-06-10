@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Reisepass"
+title: "The Passport"
+declared: "Der Reisepass"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Kerkerschlüssel"
+title: "The Dungeon Key"
+declared: "Der Kerkerschlüssel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

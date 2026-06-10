@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Hugo-Übersetzungen"
+title: "Hugo Translations"
+declared: "Hugo-Übersetzungen"
 license: CC-BY-NC-SA-4.0
 voice: "dringlich, atemlos, fiebrig, melancholisch; kontrastiert mit hochromantischem Pathos"
 stamp:
@@ -71,14 +72,19 @@ Was abläuft:
 - [die Beschattung](process_surveillance.md)
 - [die Flucht](process_escape.md)
 
+Die Pläne, die einander begegnen:
+
+- [die Flucht](plan_die_flucht.md), das finanzierte Vorhaben des Übersetzers
+- [die Beschattung](plan_die_beschattung.md), das Vorhaben der Autorität
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Contract](plot_the_contract.md) eröffnet das Spiel: Büchner schließt in Geldnot den Vertrag mit dem Verleger Sauerländer ab, um seine Flucht zu finanzieren.
-2. [The Translation](plot_the_translation.md) zündet auf den Vertragsabschluss: In seiner Dachstube übersetzt Büchner nachts Hugos Werke, während die Figuren der Übersetzung in seinem Fieberwahn lebendig werden.
-3. [The Pursuit](plot_the_pursuit.md) zündet auf den Schreibfortschritt: Die Gendarmen verstärken die Überwachung, und die Nachricht von Weidigs Verhaftung trifft ein.
-4. [The Flight](plot_the_flight.md) zündet auf die akute Gefahr: Nach Erhalt des Vorschusses flieht Büchner mit gefälschtem Pass über die Grenze nach Straßburg.
+1. [Der Vertrag](plot_the_contract.md) eröffnet das Spiel: Büchner schließt in Geldnot den Vertrag mit dem Verleger Sauerländer ab, um seine Flucht zu finanzieren.
+2. [Die Übersetzung](plot_the_translation.md) zündet auf den Vertragsabschluss: In seiner Dachstube übersetzt Büchner nachts Hugos Werke, während die Figuren der Übersetzung in seinem Fieberwahn lebendig werden.
+3. [Die Verfolgung](plot_the_pursuit.md) zündet auf den Schreibfortschritt: Die Gendarmen verstärken die Überwachung, und die Nachricht von Weidigs Verhaftung trifft ein.
+4. [Die Flucht](plot_the_flight.md) zündet auf die akute Gefahr: Nach Erhalt des Vorschusses flieht Büchner mit gefälschtem Pass über die Grenze nach Straßburg.
 
 ## Stakes
 

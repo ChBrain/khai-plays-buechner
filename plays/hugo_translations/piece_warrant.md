@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Steckbrief"
+title: "The Wanted Poster"
+declared: "Der Steckbrief"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

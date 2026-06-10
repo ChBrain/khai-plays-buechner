@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Franz Woyzeck"
+declared: "Franz Woyzeck"
 license: CC-BY-NC-SA-4.0
 voice: "stripped, urgent, disjointed; brief fragments, sensory focus"
 stamp:

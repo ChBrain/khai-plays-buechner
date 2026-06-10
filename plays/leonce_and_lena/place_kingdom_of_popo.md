@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Königreich Popo"
+title: "The Kingdom of Popo"
+declared: "Das Königreich Popo"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

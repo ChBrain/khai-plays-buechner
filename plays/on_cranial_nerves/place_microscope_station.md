@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Die Mikroskopstation"
+title: "The Microscope Station"
+declared: "Die Mikroskopstation"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "das Tribunal"
+title: "The Tribunal"
+declared: "das Tribunal"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

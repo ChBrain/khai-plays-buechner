@@ -1,6 +1,7 @@
 ---
 khai: persona
-title: "König Peter"
+title: "King Peter"
+declared: "König Peter"
 license: CC-BY-NC-SA-4.0
 voice: "pedantic, confused, philosophical, tautological"
 stamp:

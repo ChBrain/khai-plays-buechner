@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Poison"
+declared: "Der Gifttrank"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: The Poison
+# Plot: Der Gifttrank
 
 ## Taxonomy
 

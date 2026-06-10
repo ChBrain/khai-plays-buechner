@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Günstling"
+title: "The Favorite"
+declared: "Der Günstling"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

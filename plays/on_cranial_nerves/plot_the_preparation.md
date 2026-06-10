@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Preparation"
+declared: "Die Präparation"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: The Preparation
+# Plot: Die Präparation
 
 ## Taxonomy
 

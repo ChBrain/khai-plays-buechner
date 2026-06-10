@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Der Hof von Ferrara"
+title: "The Court of Ferrara"
+declared: "Der Hof von Ferrara"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

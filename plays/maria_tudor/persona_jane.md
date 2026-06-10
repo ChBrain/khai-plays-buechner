@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Jane"
+declared: "Jane"
 license: CC-BY-NC-SA-4.0
 voice: "unschuldig, verzweifelt, liebend, zerrissen; rührende deutsche Prosa"
 stamp:

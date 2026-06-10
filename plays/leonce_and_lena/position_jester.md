@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Hofnarr"
+title: "The Court Jester"
+declared: "Der Hofnarr"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

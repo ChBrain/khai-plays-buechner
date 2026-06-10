@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Straßburger Dachzimmer"
+title: "The Strasbourg Garret"
+declared: "Das Straßburger Dachzimmer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

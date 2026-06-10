@@ -13,6 +13,7 @@
       "package-lock.json",
       "CHANGELOG.md",
       ".prettierrc",
+      ".prettierignore",
       ".gitignore",
       ".npmrc",
       ".nvmrc",
@@ -21,6 +22,7 @@
       "SECURITY.md",
       "registry.json"
     ],
+    "riders": [{ "pattern": "management/orders/**", "fallback": "governance" }],
     "lanes": [
       { "pattern": "play/*", "layer": "solution", "allow": ["plays/**"] },
       {

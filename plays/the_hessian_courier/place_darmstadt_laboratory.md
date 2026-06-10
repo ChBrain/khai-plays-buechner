@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Darmstädter Laboratorium"
+title: "The Darmstadt Laboratory"
+declared: "Das Darmstädter Laboratorium"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

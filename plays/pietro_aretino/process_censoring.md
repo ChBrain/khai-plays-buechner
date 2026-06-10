@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Das Zensieren"
+title: "The Censoring"
+declared: "Das Zensieren"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

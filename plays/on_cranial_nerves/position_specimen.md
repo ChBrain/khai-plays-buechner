@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Das Präparat"
+title: "The Specimen"
+declared: "Das Präparat"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

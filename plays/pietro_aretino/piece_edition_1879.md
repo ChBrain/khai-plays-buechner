@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Druckausgabe 1879"
+title: "The 1879 Edition"
+declared: "Die Druckausgabe 1879"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

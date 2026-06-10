@@ -1,6 +1,7 @@
 ---
 khai: persona
-title: "Der Dekan"
+title: "The Dean"
+declared: "Der Dekan"
 license: CC-BY-NC-SA-4.0
 voice: "formal, akademisch, kühl, distanziert; feierliche und bureaukratische Diktion"
 stamp:

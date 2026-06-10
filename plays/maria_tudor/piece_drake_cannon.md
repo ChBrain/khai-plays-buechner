@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Kanone"
+title: "The Cannon"
+declared: "Die Kanone"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Postmünze"
+title: "The Postal Coin"
+declared: "Die Postmünze"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

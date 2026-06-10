@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "The Doctor"
+declared: "The Doctor"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

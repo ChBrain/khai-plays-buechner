@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Hörer"
+title: "The Listener"
+declared: "Der Hörer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

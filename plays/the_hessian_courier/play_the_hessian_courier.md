@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Der Hessische Landbote"
+title: "The Hessian Courier"
+declared: "Der Hessische Landbote"
 license: CC-BY-NC-SA-4.0
 voice: "statistisch, biblisch, revolutionär, physisch, anklagend; rhythmische deutsche Prosa"
 stamp:
@@ -79,14 +80,18 @@ Was abläuft:
 - [die Denunziation](process_denunciation.md)
 - [das Verhör](process_interrogation.md)
 
+Die Pläne, die unter den Türen scheitern:
+
+- [die Verschwörung](plan_die_verschwoerung.md), das illegale Mandat des Agitators
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Drafting](plot_the_drafting.md) eröffnet das Spiel: Büchner analysiert die Steuereinnahmen und verfasst die Flugschrift. Seine Flucht nach Butzbach setzt den Druckprozess in Gang.
-2. [The Printing](plot_the_printing.md) zündet auf den Entwurf: Weidig überarbeitet den Text und druckt die Papiere heimlich im Pfarrhaus. Die Übergabe an die Kuriere setzt den Schmuggel in Gang.
-3. [The Distribution](plot_the_distribution.md) zündet auf die gedruckten Kisten: Die Kuriere schmuggeln die Flugschrift durch die bewachten Tore zu den Bauernhöfen. Das Eintreffen der Papiere bei den Bauern zündet den Verrat.
-4. [The Betrayal](plot_the_betrayal.md) zündet auf den Erhalt der Papiere: Karl Kuhl übergibt die Flugschrift der Polizei. Die Welle der Verhaftungen und Büchners Flucht über die Grenze beenden das Spiel.
+1. [Der Entwurf](plot_the_drafting.md) eröffnet das Spiel: Büchner analysiert die Steuereinnahmen und verfasst die Flugschrift. Seine Flucht nach Butzbach setzt den Druckprozess in Gang.
+2. [Der Druck](plot_the_printing.md) zündet auf den Entwurf: Weidig überarbeitet den Text und druckt die Papiere heimlich im Pfarrhaus. Die Übergabe an die Kuriere setzt den Schmuggel in Gang.
+3. [Die Verteilung](plot_the_distribution.md) zündet auf die gedruckten Kisten: Die Kuriere schmuggeln die Flugschrift durch die bewachten Tore zu den Bauernhöfen. Das Eintreffen der Papiere bei den Bauern zündet den Verrat.
+4. [Der Verrat](plot_the_betrayal.md) zündet auf den Erhalt der Papiere: Karl Kuhl übergibt die Flugschrift der Polizei. Die Welle der Verhaftungen und Büchners Flucht über die Grenze beenden das Spiel.
 
 ## Stakes
 

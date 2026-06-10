@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Mitverschwörer"
+title: "The Co-Conspirator"
+declared: "Der Mitverschwörer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

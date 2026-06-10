@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "das Journal"
+title: "The Journal"
+declared: "das Journal"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

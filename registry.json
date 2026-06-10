@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.12.0",
+  "version": "0.13.2",
   "plays": [
     {
       "id": "barbel_memoir",
@@ -10,63 +10,63 @@
     },
     {
       "id": "briefwechsel",
-      "title": "Briefwechsel",
-      "description": "Ein verzweifeltes Netz aus Tinte und Siegelwachs trägt das Überleben eines Flüchtigen über Grenzen."
+      "title": "Correspondence",
+      "description": "A desperate web of ink and sealing wax carries a fugitive's survival across borders."
     },
     {
       "id": "dantons_death",
-      "title": "Dantons Tod",
-      "description": "Ein müder Revolutionär wird von der unerbittlichen Maschinerie der historischen Tugend zermalmt."
+      "title": "Danton's Death",
+      "description": "A weary revolutionary is crushed by the relentless machinery of historical virtue."
     },
     {
       "id": "hugo_translations",
-      "title": "Hugo-Übersetzungen",
-      "description": "Ein Flüchtling übersetzt in fieberhafter Nachtarbeit französische Dramen, um seine Flucht zu finanzieren."
+      "title": "Hugo Translations",
+      "description": "A fugitive translates French dramas in feverish night-work to finance his flight."
     },
     {
       "id": "lenz",
       "title": "Lenz",
-      "description": "Ein Dichter flieht in die kalten Berge des Wahnsinns, auf der Suche nach einem Anker für seinen Geist."
+      "description": "A poet flees into the cold mountains of madness, searching for an anchor for his mind."
     },
     {
       "id": "leonce_and_lena",
-      "title": "Leonce und Lena",
-      "description": "Zwei gelangweilte Königskinder fliehen vor ihren Kronen, um als hölzerne Automaten zu heiraten."
+      "title": "Leonce and Lena",
+      "description": "Two bored royal children flee their crowns only to wed as wooden automatons."
     },
     {
       "id": "lucretia_borgia",
       "title": "Lucretia Borgia",
-      "description": "Ein Soldat ersticht ahnungslos seine Mutter, die berüchtigte Herzogin, um seine vergifteten Freunde zu rächen."
+      "description": "A soldier unknowingly stabs his mother, the infamous duchess, to avenge his poisoned friends."
     },
     {
       "id": "maria_tudor",
       "title": "Maria Tudor",
-      "description": "Eine Königin stellt ihrem untreuen Liebhaber eine tödliche Falle aus Hochverrat und Hinrichtung."
+      "description": "A queen sets her unfaithful lover a deadly trap of high treason and execution."
     },
     {
       "id": "on_cranial_nerves",
-      "title": "Über Schädelnerven",
-      "description": "Galvanischer Strom lässt einen toten Fisch zucken, um das Leben als biologische Maschine zu beweisen."
+      "title": "On Cranial Nerves",
+      "description": "A galvanic current makes a dead fish twitch, to prove that life is a biological machine."
     },
     {
       "id": "pietro_aretino",
-      "title": "Aretino (Der Kamin)",
-      "description": "Ein verlorenes Meisterwerk der Renaissance-Satire steigt als Asche aus dem Kamin der Verlobten."
+      "title": "Aretino (The Fireplace)",
+      "description": "A lost masterpiece of Renaissance satire rises as ash from the betrothed's fireplace."
     },
     {
       "id": "the_hessian_courier",
-      "title": "Der Hessische Landbote",
-      "description": "Ein revolutionäres Pamphlet nutzt nackte Steuerstatistiken, um den Bauernaufstand zu entfachen."
+      "title": "The Hessian Courier",
+      "description": "A revolutionary pamphlet uses bare tax statistics to ignite a peasant uprising."
     },
     {
       "id": "woyzeck",
       "title": "Woyzeck",
-      "description": "Ein einfacher Soldat zerbricht an Befehlen, Hunger und einem Messer."
+      "description": "A simple soldier breaks under orders, hunger, and a knife."
     },
     {
       "id": "zuericher_exil",
-      "title": "Die Spiegelgasse (Das Züricher Exil)",
-      "description": "Ein materialistischer Arzt seziert die Nerven der Barbe, während der Typhus seinen Körper fordert."
+      "title": "The Spiegelgasse (The Zurich Exile)",
+      "description": "A materialist doctor dissects the nerves of the barbel as typhus claims his own body."
     }
   ]
 }

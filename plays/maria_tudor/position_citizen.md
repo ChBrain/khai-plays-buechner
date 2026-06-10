@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Bürger"
+title: "The Citizen"
+declared: "Der Bürger"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

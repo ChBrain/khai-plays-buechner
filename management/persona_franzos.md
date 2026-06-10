@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Karl Emil Franzos"
+language: english
 license: CC-BY-NC-SA-4.0
 voice: "scholarly, meticulous, driven by historical duty; a defender of the unfinished word"
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Lenz"
+declared: "Lenz"
 license: CC-BY-NC-SA-4.0
 voice: "stark, physisch, klinisch, fragmentiert, fieberhaft; abrupte deutsche Sätze"
 stamp:
@@ -84,14 +85,18 @@ Was abläuft:
 - [die nächtliche Krise](process_night_crisis.md)
 - [der Abtransport](process_departure.md)
 
+Der Plan, der an einem willenlosen Geist zerbricht:
+
+- [die Heilung](plan_die_heilung.md), Oberlins Vorhaben der Seelsorge
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Descent](plot_the_descent.md) eröffnet das Spiel: Lenz durchquert das eisige Gebirge und kommt im Zustand der Erschöpfung in Waldbach an. Seine Aufnahme im Pfarrhaus setzt die Ruhephase in Gang.
-2. [The Shell](plot_the_shell.md) zündet auf die Ankunft: In der Gemeinschaft des Pfarrhauses findet Lenz kurzzeitig Frieden und Halt. Seine Predigt in der Kirche ist der Höhepunkt dieses stabilen Zustands.
-3. [The Estrangement](plot_the_estrangement.md) zündet auf die Stabilität: Die Ankunft Kaufmanns konfrontiert Lenz mit der Forderung seines Vaters. Seine Angst vor der Rückkehr leitet den Verfall seiner geistigen Kräfte ein.
-4. [The Dissolution](plot_the_dissolution.md) zündet auf die Konfrontation: Nach dem Scheitern der Totenerweckung in Fouday verfällt Lenz dem absoluten Wahnsinn. Seine Abreise nach Straßburg beschließt das Spiel in dumpfer Leere.
+1. [Der Abstieg](plot_the_descent.md) eröffnet das Spiel: Lenz durchquert das eisige Gebirge und kommt im Zustand der Erschöpfung in Waldbach an. Seine Aufnahme im Pfarrhaus setzt die Ruhephase in Gang.
+2. [Die Hülle](plot_the_shell.md) zündet auf die Ankunft: In der Gemeinschaft des Pfarrhauses findet Lenz kurzzeitig Frieden und Halt. Seine Predigt in der Kirche ist der Höhepunkt dieses stabilen Zustands.
+3. [Die Entfremdung](plot_the_estrangement.md) zündet auf die Stabilität: Die Ankunft Kaufmanns konfrontiert Lenz mit der Forderung seines Vaters. Seine Angst vor der Rückkehr leitet den Verfall seiner geistigen Kräfte ein.
+4. [Die Auflösung](plot_the_dissolution.md) zündet auf die Konfrontation: Nach dem Scheitern der Totenerweckung in Fouday verfällt Lenz dem absoluten Wahnsinn. Seine Abreise nach Straßburg beschließt das Spiel in dumpfer Leere.
 
 ## Stakes
 

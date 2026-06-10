@@ -1,6 +1,7 @@
 ---
 khai: persona
-title: "die Barbe"
+title: "The Barbel"
+declared: "die Barbe"
 license: CC-BY-NC-SA-4.0
 voice: "stumm, passiv, reaktiv; repräsentiert die wilde, mechanisierte Natur unter dem Messer"
 stamp:

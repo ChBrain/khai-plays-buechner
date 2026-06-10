@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Die Hochzeit"
+title: "The Wedding"
+declared: "Die Hochzeit"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

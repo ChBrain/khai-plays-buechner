@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Denunziant"
+title: "The Informant"
+declared: "Der Denunziant"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

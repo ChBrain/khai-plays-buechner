@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Fieberblatt"
+title: "The Fever Chart"
+declared: "Das Fieberblatt"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

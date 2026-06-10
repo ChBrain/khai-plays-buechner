@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Agitator"
+title: "The Agitator"
+declared: "Der Agitator"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

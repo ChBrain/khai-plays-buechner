@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Senatsgavel"
+title: "The Senate Gavel"
+declared: "Der Senatsgavel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

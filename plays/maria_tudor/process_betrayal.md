@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Der Verrat"
+title: "The Betrayal"
+declared: "Der Verrat"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

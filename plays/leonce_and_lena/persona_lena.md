@@ -1,6 +1,7 @@
 ---
 khai: persona
-title: "Prinzessin Lena"
+title: "Princess Lena"
+declared: "Prinzessin Lena"
 license: CC-BY-NC-SA-4.0
 voice: "poetic, melancholic, delicate, vulnerable"
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das königliche Siegel"
+title: "The Royal Seal"
+declared: "Das königliche Siegel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "das Gefängnis"
+title: "The Prison"
+declared: "das Gefängnis"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Pfarrhaus"
+title: "The Parsonage"
+declared: "Das Pfarrhaus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Die Autorität"
+title: "The Authority"
+declared: "Die Autorität"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

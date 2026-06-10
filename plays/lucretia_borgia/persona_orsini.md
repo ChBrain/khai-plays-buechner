@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Maffio Orsini"
+declared: "Maffio Orsini"
 license: CC-BY-NC-SA-4.0
 voice: "treu, warnend, lebenslustig, rachsüchtig; hasst die Borgias aus tiefster Seele"
 stamp:

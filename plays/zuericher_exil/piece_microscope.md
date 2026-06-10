@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Das Mikroskop"
+title: "The Microscope"
+declared: "Das Mikroskop"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

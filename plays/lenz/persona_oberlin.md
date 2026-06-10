@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Johann Friedrich Oberlin"
+declared: "Johann Friedrich Oberlin"
 license: CC-BY-NC-SA-4.0
 voice: "measured, paternal, religious, grounding; calm German prose"
 stamp:

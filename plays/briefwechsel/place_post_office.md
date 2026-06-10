@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Die Postexpedition"
+title: "The Post Office"
+declared: "Die Postexpedition"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

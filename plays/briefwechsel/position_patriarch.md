@@ -1,6 +1,7 @@
 ---
 khai: position
-title: "Der Patriarch"
+title: "The Patriarch"
+declared: "Der Patriarch"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

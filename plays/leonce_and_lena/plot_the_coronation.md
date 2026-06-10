@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Coronation"
+declared: "Die Thronbesteigung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: The Coronation
+# Plot: Die Thronbesteigung
 
 ## Taxonomy
 

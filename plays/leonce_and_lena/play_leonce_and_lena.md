@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Leonce und Lena"
+title: "Leonce and Lena"
+declared: "Leonce und Lena"
 license: CC-BY-NC-SA-4.0
 voice: "melancholic, witty, cynical, satirical; poetic, parodic sentences"
 stamp:
@@ -71,17 +72,22 @@ Was abläuft:
 - [die Hochzeit](process_wedding.md)
 - [die Krönung](process_coronation.md)
 
+Die Pläne, die einander begegnen:
+
+- [der Fluchtplan](plan_die_flucht.md), das Vorhaben Leonces, dem Vorbestimmten zu entkommen
+- [der Ordnungsplan](plan_die_ordnung.md), das Vorhaben des Monarchen, die Hochzeit zu erzwingen
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Melancholy](plot_the_melancholy.md) eröffnet das Spiel: Leonce und Lena
+1. [Die Melancholie](plot_the_melancholy.md) eröffnet das Spiel: Leonce und Lena
    fliehen unabhängig voneinander vor dem Zwang der Pflichten und der Ehe. Ihr Abgang
    in die Fremde ist der Einsatz für die zweite Phase.
-2. [The Encounter](plot_the_encounter.md) zündet auf diese Flucht: Die Flüchtigen
+2. [Die Begegnung](plot_the_encounter.md) zündet auf diese Flucht: Die Flüchtigen
    begegnen sich unerkannt im Wirtshaus und verlieben sich ineinander. Ihr Abgang,
    der Entschluss zur gemeinsamen Maskenhochzeit, ist der Einsatz für die dritte Phase.
-3. [The Coronation](plot_the_coronation.md) zündet auf diesen Entschluss: Sie kehren als
+3. [Die Thronbesteigung](plot_the_coronation.md) zündet auf diesen Entschluss: Sie kehren als
    Automaten verkleidet an den Hof zurück, werden gekrönt und übernehmen die Herrschaft.
    Ihr Abgang ist das Ende des Spiels.
 

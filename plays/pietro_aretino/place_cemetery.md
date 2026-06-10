@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das leere Grab"
+title: "The Empty Grave"
+declared: "Das leere Grab"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

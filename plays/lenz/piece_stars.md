@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Die Sterne"
+title: "The Stars"
+declared: "Die Sterne"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Zürcher Auditorium"
+title: "The Zurich Auditorium"
+declared: "Das Zürcher Auditorium"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

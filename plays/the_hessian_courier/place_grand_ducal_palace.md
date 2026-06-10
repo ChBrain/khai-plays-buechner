@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das großherzogliche Palais"
+title: "The Grand Ducal Palace"
+declared: "Das großherzogliche Palais"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

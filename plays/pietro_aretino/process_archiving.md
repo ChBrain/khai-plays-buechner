@@ -1,6 +1,7 @@
 ---
 khai: process
-title: "Das Archivieren"
+title: "The Archiving"
+declared: "Das Archivieren"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

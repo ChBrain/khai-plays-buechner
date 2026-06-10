@@ -1,6 +1,7 @@
 ---
 khai: place
-title: "Das Grenzpostamt"
+title: "The Border Post Office"
+declared: "Das Grenzpostamt"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

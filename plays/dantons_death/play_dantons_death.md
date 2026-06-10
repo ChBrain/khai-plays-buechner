@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Dantons Tod"
+title: "Danton's Death"
+declared: "Dantons Tod"
 license: CC-BY-NC-SA-4.0
 voice: "rhetorisch, fatalistisch, epikureisch; reich, geschichtlich und politisch geladene Sätze"
 stamp:
@@ -62,9 +63,13 @@ Orte:
 - [das Gefängnis](place_prison.md)
 - [das Schafott](place_scaffold.md)
 
+Pläne:
+
+- [der Säuberungsplan](plan_purification.md), das Vorhaben der Maschine
+- [die Verteidigung](plan_die_verteidigung.md), Dantons Gegenplan des Unterlassens
+
 Prozesse:
 
-- [die politische Reinigung](process_purification.md)
 - [der Scheinprozess](process_mock_trial.md)
 - [die Enthauptung](process_decapitation.md)
 
@@ -72,10 +77,10 @@ Prozesse:
 
 Die Phasen der Tragödie vollziehen sich in logischer Konsequenz:
 
-1. [Weariness](plot_weariness.md) eröffnet das Spiel: Dantons Genuss und Passivität prallen auf Robespierres Predigt der moralischen Reinheit.
-2. [Decision](plot_decision.md) folgt aus diesem Zusammenstoß: Der Ausschuss beschließt den Tod der Dantonisten, und die Verhaftung wird vollzogen.
-3. [Tribunal Speech](plot_tribunal_speech.md) beschreibt das Aufbäumen: Danton verteidigt sich vor den Richtern, bis die Ankläger den Prozess manipulieren.
-4. [Scaffold Exit](plot_scaffold_exit.md) schließt das Spiel ab: Die Gefangenen philosophieren vor dem Tod, und das Messer der Guillotine beendet ihr Dasein.
+1. [Der Überdruss](plot_weariness.md) eröffnet das Spiel: Dantons Genuss und Passivität prallen auf Robespierres Predigt der moralischen Reinheit.
+2. [Der Beschluss](plot_decision.md) folgt aus diesem Zusammenstoß: Der Ausschuss beschließt den Tod der Dantonisten, und die Verhaftung wird vollzogen.
+3. [Die Verteidigungsrede](plot_tribunal_speech.md) beschreibt das Aufbäumen: Danton verteidigt sich vor den Richtern, bis die Ankläger den Prozess manipulieren.
+4. [Der Gang zum Schafott](plot_scaffold_exit.md) schließt das Spiel ab: Die Gefangenen philosophieren vor dem Tod, und das Messer der Guillotine beendet ihr Dasein.
 
 ## Stakes
 

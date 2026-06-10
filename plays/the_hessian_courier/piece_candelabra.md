@@ -1,6 +1,7 @@
 ---
 khai: piece
-title: "Der Kronleuchter"
+title: "The Chandelier"
+declared: "Der Kronleuchter"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

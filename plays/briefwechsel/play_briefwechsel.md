@@ -1,6 +1,7 @@
 ---
 khai: play
-title: "Briefwechsel"
+title: "Correspondence"
+declared: "Briefwechsel"
 license: CC-BY-NC-SA-4.0
 voice: "dringlich, parataktisch, voller Zweifel und materieller Härte; kontrastiert mit dem fatalistischen Netz der Geschichte"
 stamp:
@@ -71,14 +72,18 @@ Was abläuft:
 - [die Beförderung](process_transport.md)
 - [das Entziffern](process_deciphering.md)
 
+Pläne:
+
+- [die Lebenslinie](plan_die_lebenslinie.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
 
-1. [The Fatalism](plot_the_fatalism.md) eröffnet das Spiel: Büchner formuliert unter dem Eindruck des gescheiterten Aufstands den Fatalismus-Brief und sendet ihn aus Gießen ab.
-2. [The Intercept](plot_the_intercept.md) zündet auf die Postbeförderung: Die hessische Polizei überwacht die Poststationen und fängt Verdächtige Briefe ab.
-3. [The Lifeline](plot_the_lifeline.md) zündet auf den Geldmangel im Exil: Büchner schreibt verzweifelt an Gutzkow, um durch literarische Veröffentlichungen Vorschüsse zu erbitten.
-4. [The Distance](plot_the_distance.md) zündet auf das ausbleibende Signal: Trotz geschriebener Zeilen wächst das Schweigen und die räumliche Entfremdung zwischen den getrennten Partnern.
+1. [Der Fatalismus](plot_the_fatalism.md) eröffnet das Spiel: Büchner formuliert unter dem Eindruck des gescheiterten Aufstands den Fatalismus-Brief und sendet ihn aus Gießen ab.
+2. [Der Abfang](plot_the_intercept.md) zündet auf die Postbeförderung: Die hessische Polizei überwacht die Poststationen und fängt Verdächtige Briefe ab.
+3. [Die Lebensader](plot_the_lifeline.md) zündet auf den Geldmangel im Exil: Büchner schreibt verzweifelt an Gutzkow, um durch literarische Veröffentlichungen Vorschüsse zu erbitten.
+4. [Die Entfernung](plot_the_distance.md) zündet auf das ausbleibende Signal: Trotz geschriebener Zeilen wächst das Schweigen und die räumliche Entfremdung zwischen den getrennten Partnern.
 
 ## Stakes
 
