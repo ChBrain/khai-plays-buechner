@@ -1,5 +1,18 @@
 # @chbrain/khai-plays-buechner
 
+## 0.13.5
+
+### Patch Changes
+
+- 456968f: Bump the `@chbrain/*` dev dependencies to the latest published canon:
+  `khai-arch` 0.1.14, `khai-review` 0.1.3, `khai-tests` 0.1.17. The house
+  conforms against the updated canon (tests green).
+- 34b327a: Rename the CI conformance job from `test` to `khai-tests`, the tool it runs,
+  matching the `khai-guard` job's naming and the khai-stage blueprint. Branch
+  protection must require the `khai-tests` check instead of `test` once this
+  lands.
+- e6779c5: one-time patch, not minor: corrective 13th play closing the 0.13.x count gap
+
 ## 0.13.4
 
 ### Patch Changes
