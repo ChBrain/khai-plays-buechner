@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "plays": [
     {
       "id": "barbel_memoir",
@@ -62,6 +62,11 @@
       "id": "selecta",
       "title": "The Selecta",
       "description": "Ein Schüler verfasst drei Texte über den freiwilligen Tod und verteidigt Catos Selbstmord vor seinen Lehrern."
+    },
+    {
+      "id": "society_for_human_rights",
+      "title": "The Society for Human Rights",
+      "description": "Eine Geheimgesellschaft schwört den Eid auf die Menschenrechte, bevor das Bündnis von Gendarmen zerschlagen wird."
     },
     {
       "id": "the_hessian_courier",
