@@ -22,7 +22,7 @@ Die Produktion läuft unter dem Namen **Der Steckbrief**: Sie bezeichnet das off
 
 ## Arc
 
-Ein Student wird mit Flugblättern verhaftet, während ein Dichter unter Aufsicht sein Werk schreibt und flieht, bevor der Steckbrief erlassen wird.
+Ein Student wird verhaftet, während ein Dichter sein Werk schreibt und flieht, bevor der Steckbrief erlassen wird.
 
 ## Company
 
