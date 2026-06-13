@@ -1,5 +1,28 @@
 # @chbrain/khai-plays-buechner
 
+## 0.20.0
+
+### Minor Changes
+
+- fdf2902: stage 16th play: The Philosophy Scripts (Descartes and Spinoza lectures, 1836)
+- 1ff1ca0: stage 15th play: The Selecta (Darmstadt school writings, 1829-1830)
+- 9c068e0: stage 17th play: The Society for Human Rights (Die Gesellschaft der Menschenrechte, 1834)
+- feb75b1: stage 20th play: The Strasbourg Emigration (refugee debates and Minna engagement, 1835-1836)
+- 6eef77d: stage 14th play: The Wanted Poster (Der Steckbrief, 1835)
+- 425dd34: stage 18th play: Weidig's Martyrdom (Butzbach/Darmstadt trial and imprisonment, 1834-1837)
+- 7762f01: stage 19th play: The Young Germany Censorship (literary ban and Gutzkow trial, 1835)
+
+### Patch Changes
+
+- 706860d: Trim The Barbel Memoir's arc to within the registry's 120-character limit, so
+  `khai-tests registry build` heals `registry.json` from source without overflow.
+- c95674b: Adopt the casting gate: bump `@chbrain/khai-tests` to `^0.1.19` (whose canon
+  check reds any plot that casts no Company element) and wire `khai-tests registry
+build` into the `version` script so each release heals `registry.json` from
+  source. Rebuild the registry, syncing its version to the play count and its
+  descriptions to the play arcs.
+- 4b52b8f: Cast Danton's Death: wire the four plot bodies to the production's company so the scenes link their personas, places, pieces, positions, and processes (as Woyzeck and Lenz already do). The plots previously linked zero elements and stayed uncast.
+
 ## 0.13.5
 
 ### Patch Changes
