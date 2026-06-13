@@ -21,15 +21,15 @@ Der vierte Akt in der Produktion [Dantons Tod](play_dantons_death.md). Die Verha
 
 ## Cue
 
-Die düsteren Zellen der Conciergerie bei Nacht, gefolgt vom grellen Licht auf dem Platz der Guillotine am Mittag. Es riecht nach Blut und feuchtem Stroh. Witze und Gesang mischen sich mit dem Rasseln der Schlüssel.
+Die düsteren Zellen der [Conciergerie](place_prison.md) bei Nacht, gefolgt vom grellen Licht auf dem [Schafott](place_scaffold.md) am Mittag, über das die [Guillotine](piece_guillotine.md) ragt. Es riecht nach Blut und feuchtem Stroh. Witze und Gesang mischen sich mit dem Rasseln der Schlüssel.
 
 ## Action
 
-Die Dantonisten verhandeln im Kerker über das Rätsel des Sterbens. Auf dem Schafott angekommen, verabschieden sie sich mit Galgenhumor voneinander und werden nacheinander enthauptet. Lucile Desmoulins irrt wahnsinnig über den Platz und ruft den König aus, um sich den Wachen zu übergeben.
+Die Dantonisten verhandeln im [Kerker](place_prison.md) über das Rätsel des Sterbens. Auf dem [Schafott](place_scaffold.md) angekommen, verabschieden sie sich mit Galgenhumor voneinander und werden in der [Enthauptung](process_decapitation.md) nacheinander hingerichtet. [Lucile Desmoulins](persona_lucile.md) irrt wahnsinnig über den Platz und ruft den König aus, um sich den Wachen zu übergeben.
 
 ## Stage
 
-Danton und Camille stehen auf dem Podest. Die Guillotine ragt über ihnen auf. Der Henker hält das Seil. Lucile sitzt einsam auf den Stufen des Richtplatzes.
+[Danton](persona_danton.md) und [Camille](persona_camille.md) stehen auf dem Podest. Die [Guillotine](piece_guillotine.md) ragt über ihnen auf. Der Henker hält das Seil. [Lucile](persona_lucile.md) sitzt einsam auf den Stufen des Richtplatzes.
 
 ## Tension
 

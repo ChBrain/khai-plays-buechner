@@ -21,16 +21,16 @@ Der dritte Akt in der Produktion [Dantons Tod](play_dantons_death.md). Das juris
 
 ## Cue
 
-Der Gerichtssaal des Revolutionstribunals. Eine schwüle, geladene Atmosphäre. Die Richterbank ist voll besetzt. Das Publikum drängt sich hitzig an den Absperrungen; die Fenster zum Platz sind weit geöffnet.
+Der Gerichtssaal des [Revolutionstribunals](place_tribunal.md). Eine schwüle, geladene Atmosphäre. Die Richterbank ist voll besetzt. Das Publikum der [Pariser Bürger](position_citizen.md) drängt sich hitzig an den Absperrungen; die Fenster zum Platz sind weit geöffnet.
 
 ## Action
 
-Danton verteidigt sich mit einer gewaltigen Rede, die die Massen ansteckt und die Richter erzittern lässt. Um den sicheren Untergang der Dantonisten zu garantieren, manipulieren die Ankläger das Verfahren und erwirken im Konvent ein Dekret, das Danton das Wort entzieht.
+[Danton](persona_danton.md) verteidigt sich mit einer gewaltigen Rede, die die Massen ansteckt und die Richter erzittern lässt. Um den sicheren Untergang der Dantonisten zu garantieren, manipulieren die Ankläger den [Scheinprozess](process_mock_trial.md) und erwirken im [Konvent](place_convention.md) ein Dekret, das Danton das Wort entzieht.
 
 ## Stage
 
-Danton steht auf der Angeklagtenbank. Die Richter greifen nach ihre Glocke. Das Volk drängt sich an den Fenstern. Die Wachen stehen bereit, um Danton niederzuhalten.
+[Danton](persona_danton.md) steht auf der Angeklagtenbank. Die Richter greifen nach ihrer Glocke. Das Volk der [Pariser Bürger](position_citizen.md) drängt sich an den Fenstern. Die Wachen stehen bereit, um Danton niederzuhalten.
 
 ## Tension
 
-Die Furcht der Ankläger vor Dantons Stimme ist absolut. Durch die Aushebelung der Justiz wird der Prozess zur reinen Farce. Die Dantonisten erkennen, dass das System sie töten muss, um die eigene Ordnung aufrechtzuerhalten.
+Die Furcht der Ankläger vor [Dantons](persona_danton.md) Stimme ist absolut. Durch die Aushebelung der Justiz wird der Prozess zur reinen Farce. Die Dantonisten erkennen, dass das System sie töten muss, um die eigene Ordnung aufrechtzuerhalten.
