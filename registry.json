@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "plays": [
     {
       "id": "barbel_memoir",
@@ -52,6 +52,11 @@
       "id": "pietro_aretino",
       "title": "Aretino (The Fireplace)",
       "description": "Ein verlorenes Meisterwerk der Renaissance-Satire steigt als Asche aus dem Kamin der Verlobten."
+    },
+    {
+      "id": "selecta",
+      "title": "The Selecta",
+      "description": "Ein Schüler verfasst drei Texte über den freiwilligen Tod und verteidigt Catos Selbstmord vor seinen Lehrern."
     },
     {
       "id": "the_hessian_courier",
