@@ -23,7 +23,7 @@ La production est présentée sous le titre **Mémoire sur le système nerveux d
 
 ## Arc
 
-Georg Büchner dissèque le système nerveux d'un poisson et rédige son mémoire en français afin d'obtenir son doctorat en exil et d'assurer sa survie.
+Büchner dissèque le système nerveux d'un poisson et rédige en français le mémoire qui lui vaut son doctorat en exil.
 
 ## Company
 
