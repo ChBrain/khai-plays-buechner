@@ -21,16 +21,16 @@ Der erste Akt in der Produktion [Dantons Tod](play_dantons_death.md). Der Zustan
 
 ## Cue
 
-Ein stiller Salon in Paris. Kerzen werfen lange Schatten an die Wände. Ein Spieltisch mit Weinkaraffen und Karten steht bereit. Es herrscht eine müde, zynische Atmosphäre des Überdrusses, während draußen der Hunger und das Geschrei der Straßen lauern.
+Ein stiller [Salon](place_salon.md) in Paris. Kerzen werfen lange Schatten an die Wände. Ein Spieltisch mit Weinkaraffen und Karten steht bereit. Es herrscht eine müde, zynische Atmosphäre des Überdrusses, während draußen der Hunger und das Geschrei der Straßen lauern.
 
 ## Action
 
-Danton verfällt dem Hedonismus, weil er die Sinnlosigkeit der Taten erkannt hat. Während Camille Desmoulins zur Mäßigung drängt, weigert sich Danton zu fliehen. Dieser Zustand der Trägheit kollidiert mit der bedrohlichen Predigt Robespierres im Jakobinerklub, der Mäßigung als Verbrechen anprangert.
+[Danton](persona_danton.md) verfällt dem Hedonismus, weil er die Sinnlosigkeit der Taten erkannt hat, und sucht im Spiel und an der Seite der Grisette [Marion](persona_marion.md) das Vergessen. Während [Camille Desmoulins](persona_camille.md) zur Mäßigung drängt, weigert sich Danton zu fliehen. Dieser Zustand der Trägheit kollidiert mit der bedrohlichen Predigt [Robespierres](persona_robespierre.md) im Jakobinerklub, der Mäßigung als Verbrechen anprangert.
 
 ## Stage
 
-Danton sitzt am Spieltisch. Seine Kapsel mit der Locke ruht unberührt an seiner Brust. Das Journal von Camille liegt gefaltet auf dem Tisch. Danton weigert sich aufzustehen.
+[Danton](persona_danton.md) sitzt am Spieltisch. Seine Kapsel mit der [Locke](piece_lock_of_hair.md) ruht unberührt an seiner Brust. Das [Journal](piece_journal.md) von [Camille](persona_camille.md) liegt gefaltet auf dem Tisch. Danton weigert sich aufzustehen.
 
 ## Tension
 
-Niemand im Salon will wahrhaben, dass Robespierre den Untergang Dantons bereits beschlossen hat. Dantons starrer Glaube, man werde es nicht wagen, ihn anzugreifen, bildet eine trügerische Ruhe, während der Keil der Reinigung bereits angesetzt wird.
+Niemand im [Salon](place_salon.md) will wahrhaben, dass [Robespierre](persona_robespierre.md) den Untergang Dantons bereits beschlossen hat. Dantons starrer Glaube, man werde es nicht wagen, ihn anzugreifen, bildet eine trügerische Ruhe, während der Keil der Reinigung bereits angesetzt wird.
