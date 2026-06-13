@@ -22,7 +22,7 @@ Die Produktion läuft unter dem Namen **Die Selecta**: Sie bezeichnet die Elitek
 
 ## Arc
 
-Ein Schüler verfasst drei Texte über den freiwilligen Tod und verteidigt Catos Selbstmord vor seinen Lehrern, um seine Reife zu beweisen.
+Ein Schüler verfasst drei Texte über den Tod und verteidigt Catos Selbstmord vor seinen Lehrern.
 
 ## Company
 
