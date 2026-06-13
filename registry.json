@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "plays": [
     {
       "id": "barbel_memoir",
@@ -87,6 +87,11 @@
       "id": "woyzeck",
       "title": "Woyzeck",
       "description": "Ein einfacher Soldat zerbricht an Befehlen, Hunger und einem Messer."
+    },
+    {
+      "id": "young_germany_censorship",
+      "title": "The Young Germany Censorship",
+      "description": "Ein Herausgeber kämpft um ein Drama, bevor ein kaiserlicher Bundesbeschluss das Junge Deutschland verbietet."
     },
     {
       "id": "zuericher_exil",
