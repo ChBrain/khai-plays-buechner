@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.13.5",
+  "version": "0.14.0",
   "description": "12 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction.",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
@@ -79,6 +79,10 @@
       "barbel_memoir": {
         "title": "The Barbel Memoir",
         "description": "Un traité d'anatomie comparée sur le système nerveux du barbeau permet à un exilé d'obtenir son doctorat."
+      },
+      "wanted_poster": {
+        "title": "The Wanted Poster",
+        "description": "A student is arrested with pamphlets while a writer drafts his masterpiece under police watch and flees before the warrant is published."
       }
     }
   },
