@@ -1,7 +1,7 @@
 {
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.16.0",
-  "description": "12 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction.",
+  "version": "0.17.0",
+  "description": "17 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction.",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
@@ -25,7 +25,7 @@
       "french"
     ],
     "card": {
-      "wire": "12 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction."
+      "wire": "17 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction."
     },
     "plays": {
       "dantons_death": {
@@ -91,6 +91,10 @@
       "philosophy_scripts": {
         "title": "The Philosophy Scripts",
         "description": "A lecturer drafts course scripts on Descartes and Spinoza, preparing for a university chair he will never live to occupy."
+      },
+      "society_for_human_rights": {
+        "title": "The Society for Human Rights",
+        "description": "A student secret society prepares a revolution and swears an oath to human rights before the gendarmes crush the network."
       }
     }
   },
