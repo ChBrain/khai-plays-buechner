@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "description": "12 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction.",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
@@ -87,6 +87,10 @@
       "selecta": {
         "title": "The Selecta",
         "description": "A schoolboy delivers three public texts defending voluntary death, Cato's suicide, and debating self-destruction against Christian ethics."
+      },
+      "philosophy_scripts": {
+        "title": "The Philosophy Scripts",
+        "description": "A lecturer drafts course scripts on Descartes and Spinoza, preparing for a university chair he will never live to occupy."
       }
     }
   },
