@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.19.0",
+  "version": "0.20.0",
   "plays": [
     {
       "id": "barbel_memoir",
@@ -67,6 +67,11 @@
       "id": "society_for_human_rights",
       "title": "The Society for Human Rights",
       "description": "Eine studentische Geheimgesellschaft schwört den Eid auf die Revolution, bevor die Gendarmen das Bündnis zerschlagen."
+    },
+    {
+      "id": "strasbourg_emigration",
+      "title": "The Strasbourg Emigration",
+      "description": "Ein Flüchtling findet Asyl bei seiner Geliebten in Straßburg, während er mit Demokraten über das Exil debattiert."
     },
     {
       "id": "the_hessian_courier",
