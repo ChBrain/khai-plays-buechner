@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "plays": [
     {
       "id": "barbel_memoir",
@@ -47,6 +47,11 @@
       "id": "on_cranial_nerves",
       "title": "On Cranial Nerves",
       "description": "Galvanischer Strom lässt einen toten Fisch zucken, um das Leben als biologische Maschine zu beweisen."
+    },
+    {
+      "id": "philosophy_scripts",
+      "title": "The Philosophy Scripts",
+      "description": "Ein Dozent entwirft Vorlesungen über Descartes und Spinoza für einen Lehrstuhl, den er nie besetzen wird."
     },
     {
       "id": "pietro_aretino",
