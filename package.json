@@ -1,7 +1,7 @@
 {
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.18.0",
-  "description": "18 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction.",
+  "version": "0.19.0",
+  "description": "19 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction.",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
@@ -25,7 +25,7 @@
       "french"
     ],
     "card": {
-      "wire": "18 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction."
+      "wire": "19 fevered systems: the raw nerves of Georg Büchner’s drama, science, exile, and extinction."
     },
     "plays": {
       "dantons_death": {
@@ -99,6 +99,10 @@
       "weidig_martyrdom": {
         "title": "Weidig's Martyrdom",
         "description": "A pastor is imprisoned and tortured, maintaining absolute silence before dying under mysterious circumstances."
+      },
+      "young_germany_censorship": {
+        "title": "The Young Germany Censorship",
+        "description": "An editor fights to publish a censored drama before a federal decree bans the Young Germany movement."
       }
     }
   },
