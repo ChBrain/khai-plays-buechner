@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "The Doctor"
-declared: "The Doctor"
+declared: "Der Doktor"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: The Doctor
+# Persona: Der Doktor
 
 ## Taxonomy
 

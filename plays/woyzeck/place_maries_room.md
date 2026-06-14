@@ -1,7 +1,7 @@
 ---
 khai: place
 title: "Marie's Room"
-declared: "Marie's Room"
+declared: "Maries Stube"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Place: Marie's Room
+# Place: Maries Stube
 
 ## Taxonomy
 

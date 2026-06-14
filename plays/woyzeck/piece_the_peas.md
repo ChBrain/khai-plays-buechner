@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "The Peas"
-declared: "The Peas"
+declared: "Die Erbsen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Piece: The Peas
+# Piece: Die Erbsen
 
 ## Taxonomy
 

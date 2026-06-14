@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "The Garrison Captain"
-declared: "The Garrison Captain"
+declared: "Der Garnisonshauptmann"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Position: The Garrison Captain
+# Position: Der Garnisonshauptmann
 
 ## Taxonomy
 

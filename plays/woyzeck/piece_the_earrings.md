@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "The Earrings"
-declared: "The Earrings"
+declared: "Die Ohrringe"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Piece: The Earrings
+# Piece: Die Ohrringe
 
 ## Taxonomy
 

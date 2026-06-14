@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "The Knife"
-declared: "The Knife"
+declared: "Das Messer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Piece: The Knife
+# Piece: Das Messer
 
 ## Taxonomy
 

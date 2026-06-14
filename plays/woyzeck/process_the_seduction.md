@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "The Seduction"
-declared: "The Seduction"
+declared: "Die Verführung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Process: The Seduction
+# Process: Die Verführung
 
 ## Taxonomy
 

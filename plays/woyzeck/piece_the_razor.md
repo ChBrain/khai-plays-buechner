@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "The Razor"
-declared: "The Razor"
+declared: "Das Rasiermesser"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Piece: The Razor
+# Piece: Das Rasiermesser
 
 ## Taxonomy
 

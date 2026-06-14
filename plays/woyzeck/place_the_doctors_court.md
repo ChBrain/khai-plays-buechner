@@ -1,7 +1,7 @@
 ---
 khai: place
 title: "The Doctor's Court"
-declared: "The Doctor's Court"
+declared: "Der Hof des Doktors"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Place: The Doctor's Court
+# Place: Der Hof des Doktors
 
 ## Taxonomy
 
