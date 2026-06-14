@@ -11,7 +11,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: The Captain
+# Persona: Der Hauptmann
 
 ## Taxonomy
 

@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Place: The Pond
+# Place: Der Teich
 
 ## Taxonomy
 

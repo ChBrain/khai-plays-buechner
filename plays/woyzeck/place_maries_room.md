@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Place: Marie's Room
+# Place: Maries Stube
 
 ## Taxonomy
 

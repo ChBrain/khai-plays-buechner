@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Piece: The Earrings
+# Piece: Die Ohrringe
 
 ## Taxonomy
 

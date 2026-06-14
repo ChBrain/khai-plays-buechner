@@ -10,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: The Drum Major
+# Persona: Der Tambourmajor
 
 ## Taxonomy
 

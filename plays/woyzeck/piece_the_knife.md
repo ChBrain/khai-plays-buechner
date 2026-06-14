@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Piece: The Knife
+# Piece: Das Messer
 
 ## Taxonomy
 

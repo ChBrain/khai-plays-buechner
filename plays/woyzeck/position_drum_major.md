@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Position: The Drum Major
+# Position: Der Tambourmajor
 
 ## Taxonomy
 

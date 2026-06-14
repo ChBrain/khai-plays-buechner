@@ -10,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: The Doctor
+# Persona: Der Doktor
 
 ## Taxonomy
 

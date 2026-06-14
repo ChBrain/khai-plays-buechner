@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Place: The Doctor's Court
+# Place: Der Hof des Doktors
 
 ## Taxonomy
 

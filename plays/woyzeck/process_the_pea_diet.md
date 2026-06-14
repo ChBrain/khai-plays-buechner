@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Process: The Pea Diet
+# Process: Die Erbsendiät
 
 ## Taxonomy
 
