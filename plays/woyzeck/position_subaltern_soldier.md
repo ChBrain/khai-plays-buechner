@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "The Subaltern Soldier"
-declared: "The Subaltern Soldier"
+declared: "Der gemeine Soldat"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

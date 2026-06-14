@@ -1,7 +1,7 @@
 ---
 khai: place
 title: "The Garrison Town"
-declared: "The Garrison Town"
+declared: "Die Garnisonsstadt"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

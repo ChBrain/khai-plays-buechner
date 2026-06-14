@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "The Regimental Doctor"
-declared: "The Regimental Doctor"
+declared: "Der Regimentsarzt"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

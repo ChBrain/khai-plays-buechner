@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "The Pea Diet"
-declared: "The Pea Diet"
+declared: "Die Erbsendiät"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

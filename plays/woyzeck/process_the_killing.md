@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "The Killing"
-declared: "The Killing"
+declared: "Die Tötung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
