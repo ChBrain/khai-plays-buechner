@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Weidig's Martyrdom"
+description: "A pastor is interrogated, keeps silent in the dungeon, and dies in his cell under unexplained circumstances."
 declared: "Weidigs Märtyrertod"
 license: CC-BY-NC-SA-4.0
 voice: "düster, verzweifelt, religiös, anklagend; die feuchten Steinwände hallen wider vom Schweigen und den Gebeten"

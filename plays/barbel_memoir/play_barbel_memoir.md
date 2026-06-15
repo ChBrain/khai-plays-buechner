@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Barbel Memoir"
+description: "Büchner dissects a fish's nervous system and writes the French memoir that earns him a doctorate in exile."
 declared: "Mémoire sur le système nerveux du barbeau"
 language: fr
 license: CC-BY-NC-SA-4.0

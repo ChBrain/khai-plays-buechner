@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Philosophy Scripts"
+description: "A lecturer drafts lectures on Descartes and Spinoza for a chair he will never hold."
 declared: "Die Philosophie-Skripte"
 license: CC-BY-NC-SA-4.0
 voice: "philosophisch, rational, exiliert, melancholisch; präziser akademischer Stil kontrastiert mit körperlicher Hinfälligkeit"

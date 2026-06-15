@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Danton's Death"
+description: "A weary revolutionary is crushed by the relentless machinery of historical virtue."
 declared: "Dantons Tod"
 license: CC-BY-NC-SA-4.0
 voice: "rhetorisch, fatalistisch, epikureisch; reich, geschichtlich und politisch geladene Sätze"

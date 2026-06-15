@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Leonce and Lena"
+description: "Two bored royal children flee their crowns only to marry as wooden automatons."
 declared: "Leonce und Lena"
 license: CC-BY-NC-SA-4.0
 voice: "melancholic, witty, cynical, satirical; poetic, parodic sentences"

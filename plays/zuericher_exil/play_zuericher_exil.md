@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Spiegelgasse (The Zurich Exile)"
+description: "A materialist doctor dissects the barbel's nerves as typhus claims his body."
 declared: "Die Spiegelgasse (Das Züricher Exil)"
 license: CC-BY-NC-SA-4.0
 voice: "starr, sachlich, materialistisch; konfrontiert medizinische Präzision mit dem biologischen Siechtum des Fiebers"

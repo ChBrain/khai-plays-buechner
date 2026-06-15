@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wanted Poster"
+description: "A student is arrested as a poet writes his work and flees before the wanted poster is issued."
 declared: "Der Steckbrief"
 license: CC-BY-NC-SA-4.0
 voice: "dokumentarisch, gehetzt, behördlich, existenziell; kühle bürokratische Sprache im Wechsel mit fieberhafter Eile"
