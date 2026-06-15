@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Young Germany Censorship"
+description: "An editor fights for a drama before an imperial decree bans Young Germany."
 declared: "Die Zensur des Jungen Deutschland"
 license: CC-BY-NC-SA-4.0
 voice: "kämpferisch, zerrissen, behördlich, deklamatorisch; das Geraschel von Zensurstrichen mischt sich mit dem Lärm der Druckerpresse"

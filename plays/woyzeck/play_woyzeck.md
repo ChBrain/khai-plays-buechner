@@ -4,7 +4,7 @@ title: "Woyzeck"
 declared: "Woyzeck"
 license: CC-BY-NC-SA-4.0
 voice: "stripped, clinical, direct; rhythmic, simple sentences"
-description: "Ein einfacher Soldat zerbricht an Befehlen, Hunger und einem Messer."
+description: "A simple soldier breaks under orders, hunger, and a knife."
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

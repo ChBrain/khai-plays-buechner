@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Strasbourg Emigration"
+description: "A fugitive finds asylum with his beloved in Strasbourg while debating exile with democrats."
 declared: "Die Straßburger Emigration"
 license: CC-BY-NC-SA-4.0
 voice: "bittersüß, melancholisch, hitzig, hoffnungsvoll; das Klappern von Kaffeetassen kontrastiert mit lauten Wirtshausdebatten"

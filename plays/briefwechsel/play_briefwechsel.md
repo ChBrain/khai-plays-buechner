@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Correspondence"
+description: "A desperate web of ink and sealing wax carries a fugitive's survival across borders."
 declared: "Briefwechsel"
 license: CC-BY-NC-SA-4.0
 voice: "dringlich, parataktisch, voller Zweifel und materieller Härte; kontrastiert mit dem fatalistischen Netz der Geschichte"

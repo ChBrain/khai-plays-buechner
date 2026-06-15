@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Maria Tudor"
+description: "A queen sets her unfaithful lover a deadly trap of treason and execution."
 declared: "Maria Tudor"
 license: CC-BY-NC-SA-4.0
 voice: "leidenschaftlich, autoritär, theatralisch, fatalistisch; romantische deutsche Prosa"

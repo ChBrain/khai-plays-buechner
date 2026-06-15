@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Selecta"
+description: "A schoolboy writes three texts on death and defends Cato's suicide before his teachers."
 declared: "Die Selecta"
 license: CC-BY-NC-SA-4.0
 voice: "akademisch, deklamatorisch, existenziell, philosophisch; feierliches Hochdeutsch des 19. Jahrhunderts kontrastiert mit innerer Unruhe"

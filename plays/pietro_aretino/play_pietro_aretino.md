@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Aretino (The Fireplace)"
+description: "A lost masterpiece of Renaissance satire rises as ash from the betrothed's fireplace."
 declared: "Aretino (Der Kamin)"
 license: CC-BY-NC-SA-4.0
 voice: "fiebrig, profan, aschengrau, von bitterer Ironie; kontrastiert das Knistern des Feuers mit der Gelehrsamkeit des Archivs"

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Hugo Translations"
+description: "A fugitive translates French dramas in feverish night work to finance his flight."
 declared: "Hugo-Übersetzungen"
 license: CC-BY-NC-SA-4.0
 voice: "dringlich, atemlos, fiebrig, melancholisch; kontrastiert mit hochromantischem Pathos"

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "On Cranial Nerves"
+description: "Galvanic current twitches a dead fish to prove that life is a biological machine."
 declared: "Über Schädelnerven"
 license: CC-BY-NC-SA-4.0
 voice: "klinisch, materialistisch, sezierend, intensiv; präzise deutsche Prosa"

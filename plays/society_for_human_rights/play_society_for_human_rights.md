@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Society for Human Rights"
+description: "A student secret society swears its oath to revolution before the gendarmes crush the alliance."
 declared: "Die Gesellschaft der Menschenrechte"
 license: CC-BY-NC-SA-4.0
 voice: "verschwörerisch, feurig, illegal, bedrohlich; heisere Stimmen im Halbdunkel kontrastieren mit dem kalten Gesetz"

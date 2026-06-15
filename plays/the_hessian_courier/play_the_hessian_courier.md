@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Hessian Courier"
+description: "A revolutionary pamphlet uses bare tax statistics to ignite a peasant uprising."
 declared: "Der Hessische Landbote"
 license: CC-BY-NC-SA-4.0
 voice: "statistisch, biblisch, revolutionär, physisch, anklagend; rhythmische deutsche Prosa"

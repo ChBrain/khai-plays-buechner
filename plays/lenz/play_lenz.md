@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Lenz"
+description: "A poet flees into the cold mountains of madness, searching for an anchor for his mind."
 declared: "Lenz"
 license: CC-BY-NC-SA-4.0
 voice: "stark, physisch, klinisch, fragmentiert, fieberhaft; abrupte deutsche Sätze"
