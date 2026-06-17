@@ -17,7 +17,7 @@ The house operator. Not the impresario. Not the playwright. The one responsible 
 
 ## Owner
 
-- Project: khai-plays-buechner
+- Project: khai-plays
 
 ## Has
 
