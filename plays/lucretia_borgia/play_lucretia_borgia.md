@@ -78,6 +78,10 @@ Die Pläne, die einander begegnen:
 - [der Racheplan](plan_racheplan.md), das verborgene Vorhaben Lucretias
 - [der Eifersuchtsplan](plan_eifersucht.md), das Vorhaben Alphonsos
 
+Die Tonart, in der gespielt wird:
+
+- [das Verhängnis](pitch_dread.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

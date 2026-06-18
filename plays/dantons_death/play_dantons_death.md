@@ -74,6 +74,11 @@ Prozesse:
 - [der Scheinprozess](process_mock_trial.md)
 - [die Enthauptung](process_decapitation.md)
 
+Die Tonart, in der gespielt wird:
+
+- [der Ingrimm](pitch_fury.md)
+- [die Stille vor dem Beil](pitch_still.md)
+
 ## Triggers
 
 Die Phasen der Tragödie vollziehen sich in logischer Konsequenz:

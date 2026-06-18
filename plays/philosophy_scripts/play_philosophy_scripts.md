@@ -64,6 +64,10 @@ Die Pläne:
 
 - [die Vorlesungsreihe](plan_lectures.md)
 
+Die Tonart, in der gespielt wird:
+
+- [das ungesprochene Wort](pitch_grief.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

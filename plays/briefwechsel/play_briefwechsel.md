@@ -77,6 +77,10 @@ Pläne:
 
 - [die Lebenslinie](plan_die_lebenslinie.md)
 
+Die Tonart, in der gespielt wird:
+
+- [die Ferne](pitch_grief.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

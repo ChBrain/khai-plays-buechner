@@ -64,6 +64,10 @@ Die Pläne:
 
 - [die Vereinigung](plan_association.md)
 
+Die Tonart, in der gespielt wird:
+
+- [der Wagemut](pitch_heroic.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

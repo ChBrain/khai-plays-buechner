@@ -78,6 +78,10 @@ Die Pläne, die das Fieber zerbricht:
 - [die Habilitation](plan_die_habilitation.md), der akademische Aufstieg des Dozenten
 - [die Pflege](plan_die_pflege.md), das Pflegevorhaben Carolines
 
+Die Tonart, in der gespielt wird:
+
+- [die Auflösung](pitch_still.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

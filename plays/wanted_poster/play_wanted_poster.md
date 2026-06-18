@@ -64,6 +64,10 @@ Pläne:
 
 - [der Fluchtplan](plan_escape.md)
 
+Die Tonart, in der gespielt wird:
+
+- [die Hatz](pitch_dread.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

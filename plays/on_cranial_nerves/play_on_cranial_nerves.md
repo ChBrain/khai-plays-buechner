@@ -77,6 +77,10 @@ Die Pläne, die der Beweis verlangt:
 
 - [der Beweis](plan_der_beweis.md), das Mandatsvorhaben des Sezierers
 
+Die Tonart, in der gespielt wird:
+
+- [das Staunen](pitch_wonder.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

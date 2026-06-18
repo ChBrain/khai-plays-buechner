@@ -78,6 +78,10 @@ Die Pläne, die einander begegnen:
 - [die Flucht](plan_die_flucht.md), das finanzierte Vorhaben des Übersetzers
 - [die Beschattung](plan_die_beschattung.md), das Vorhaben der Autorität
 
+Die Tonart, in der gespielt wird:
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

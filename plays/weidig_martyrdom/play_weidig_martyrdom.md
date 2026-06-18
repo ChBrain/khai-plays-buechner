@@ -64,6 +64,10 @@ Die Pläne:
 
 - [das Schweigen](plan_silence.md)
 
+Die Tonart, in der gespielt wird:
+
+- [die Standhaftigkeit](pitch_heroic.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
