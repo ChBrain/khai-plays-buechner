@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-buechner",
-  "version": "0.20.3",
+  "version": "0.20.4",
   "plays": [
     {
       "id": "barbel_memoir",
