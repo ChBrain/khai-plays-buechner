@@ -75,6 +75,10 @@ Pläne:
 
 - [das Experiment](plan_das_experiment.md), das Vorhaben des Doktors, seine Theorie am lebenden Soldaten zu beweisen
 
+Die Tonart, in der gespielt wird:
+
+- [das Erbarmen](pitch_grief.md)
+
 ## Triggers
 
 Die Szenen folgen aufeinander und bedingen einander.

@@ -78,6 +78,10 @@ Die Pläne, die einander begegnen:
 - [der Fluchtplan](plan_die_flucht.md), das Vorhaben Leonces, dem Vorbestimmten zu entkommen
 - [der Ordnungsplan](plan_die_ordnung.md), das Vorhaben des Monarchen, die Hochzeit zu erzwingen
 
+Die Tonart, in der gespielt wird:
+
+- [die Posse](pitch_comic.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

@@ -64,6 +64,10 @@ Die Pläne:
 
 - [die Emigration](plan_emigration.md)
 
+Die Tonart, in der gespielt wird:
+
+- [die Zuflucht](pitch_tender.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

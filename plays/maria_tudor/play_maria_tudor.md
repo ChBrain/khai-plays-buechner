@@ -78,6 +78,10 @@ Die Pläne, die sich auf dem Schafott kreuzen:
 - [der Tausch](plan_der_tausch.md), das verborgene Vorhaben der Königin
 - [die Rettung](plan_die_rettung.md), das Vorhaben Janes
 
+Die Tonart, in der gespielt wird:
+
+- [der Zorn der Königin](pitch_fury.md)
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.

@@ -63,6 +63,10 @@ Ce qui se déroule :
 - [l'écriture](process_writing.md)
 - [la vérification](process_verification.md)
 
+Le ton dans lequel se joue la production :
+
+- [la quiétude](pitch_calm.md)
+
 ## Triggers
 
 Les fils de l'action se déroulent dans un ordre précis, chacun se rattachant au suivant.
