@@ -90,6 +90,10 @@ Der Plan, der an einem willenlosen Geist zerbricht:
 
 - [die Heilung](plan_die_heilung.md), Oberlins Vorhaben der Seelsorge
 
+Die Tonart, in der gespielt wird:
+
+- [das Grauen](pitch_dread.md), die Tonart des langsam zugehenden Wahnsinns
+
 ## Triggers
 
 Die Handlungsbögen laufen in einer Folge ab, und jede schließt sich an die nächste an.
