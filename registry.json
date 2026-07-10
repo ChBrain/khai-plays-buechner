@@ -4,101 +4,121 @@
   "version": "0.20.6",
   "plays": [
     {
+      "kind": "play",
       "id": "barbel_memoir",
       "title": "The Barbel Memoir",
       "description": "Büchner dissects a fish's nervous system and writes the French memoir that earns him a doctorate in exile."
     },
     {
+      "kind": "play",
       "id": "briefwechsel",
       "title": "Correspondence",
       "description": "A desperate web of ink and sealing wax carries a fugitive's survival across borders."
     },
     {
+      "kind": "play",
       "id": "dantons_death",
       "title": "Danton's Death",
       "description": "A weary revolutionary is crushed by the relentless machinery of historical virtue."
     },
     {
+      "kind": "play",
       "id": "hugo_translations",
       "title": "Hugo Translations",
       "description": "A fugitive translates French dramas in feverish night work to finance his flight."
     },
     {
+      "kind": "play",
       "id": "lenz",
       "title": "Lenz",
       "description": "A poet flees into the cold mountains of madness, searching for an anchor for his mind."
     },
     {
+      "kind": "play",
       "id": "leonce_and_lena",
       "title": "Leonce and Lena",
       "description": "Two bored royal children flee their crowns only to marry as wooden automatons."
     },
     {
+      "kind": "play",
       "id": "lucretia_borgia",
       "title": "Lucretia Borgia",
       "description": "A soldier unknowingly stabs his mother, the infamous duchess, to avenge his poisoned friends."
     },
     {
+      "kind": "play",
       "id": "maria_tudor",
       "title": "Maria Tudor",
       "description": "A queen sets her unfaithful lover a deadly trap of treason and execution."
     },
     {
+      "kind": "play",
       "id": "on_cranial_nerves",
       "title": "On Cranial Nerves",
       "description": "Galvanic current twitches a dead fish to prove that life is a biological machine."
     },
     {
+      "kind": "play",
       "id": "philosophy_scripts",
       "title": "The Philosophy Scripts",
       "description": "A lecturer drafts lectures on Descartes and Spinoza for a chair he will never hold."
     },
     {
+      "kind": "play",
       "id": "pietro_aretino",
       "title": "Aretino (The Fireplace)",
       "description": "A lost masterpiece of Renaissance satire rises as ash from the betrothed's fireplace."
     },
     {
+      "kind": "play",
       "id": "selecta",
       "title": "The Selecta",
       "description": "A schoolboy writes three texts on death and defends Cato's suicide before his teachers."
     },
     {
+      "kind": "play",
       "id": "society_for_human_rights",
       "title": "The Society for Human Rights",
       "description": "A student secret society swears its oath to revolution before the gendarmes crush the alliance."
     },
     {
+      "kind": "play",
       "id": "strasbourg_emigration",
       "title": "The Strasbourg Emigration",
       "description": "A fugitive finds asylum with his beloved in Strasbourg while debating exile with democrats."
     },
     {
+      "kind": "play",
       "id": "the_hessian_courier",
       "title": "The Hessian Courier",
       "description": "A revolutionary pamphlet uses bare tax statistics to ignite a peasant uprising."
     },
     {
+      "kind": "play",
       "id": "wanted_poster",
       "title": "The Wanted Poster",
       "description": "A student is arrested as a poet writes his work and flees before the wanted poster is issued."
     },
     {
+      "kind": "play",
       "id": "weidig_martyrdom",
       "title": "Weidig's Martyrdom",
       "description": "A pastor is interrogated, keeps silent in the dungeon, and dies in his cell under unexplained circumstances."
     },
     {
+      "kind": "play",
       "id": "woyzeck",
       "title": "Woyzeck",
       "description": "A simple soldier breaks under orders, hunger, and a knife."
     },
     {
+      "kind": "play",
       "id": "young_germany_censorship",
       "title": "The Young Germany Censorship",
       "description": "An editor fights for a drama before an imperial decree bans Young Germany."
     },
     {
+      "kind": "play",
       "id": "zuericher_exil",
       "title": "The Spiegelgasse (The Zurich Exile)",
       "description": "A materialist doctor dissects the barbel's nerves as typhus claims his body."
