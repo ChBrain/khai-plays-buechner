@@ -1,32 +1,41 @@
-# References: Danton's Death
+---
+updated: "2026-07-19"
+---
 
-This document contains historical sources, literary criticism, and reference materials for Georg Büchner's tragedy _Dantons Tod_.
+# Danton's Death: Reference
 
-## Historical Context
+## Line of Work
 
-Büchner wrote the play in early 1835 in his parents' house in Darmstadt, while under threat of arrest for his authorship of _Der Hessische Landbote_. He used historical sources heavily, adapting speeches directly from:
+Staging Georg Büchner's tragedy _Dantons Tod_ (1835) as a study of a will worn out against the machinery of history. A weary revolutionary is crushed by the relentless machinery of historical virtue: the production sets an epicurean, individualist Danton, who reads life through pleasure, boredom, and dread, against a puritanical, Rousseauian Robespierre, for whom political action is a moral duty that purifies the state through blood. Under both runs Büchner's fatalism of history, from his letter to Minna Jaegle: "I feel as if crushed under the horrible fatalism of history ... the individual is only foam on the wave, greatness a mere accident, the power of genius a puppet play."
 
-- Louis Blanc's writings on the French Revolution.
-- The historical journal _Unsere Zeit_ by Karl Adolf Menzel.
-- Contemporary accounts of the trial of the Dantonists.
+## Origin
 
-## Key Themes
+Georg Büchner wrote _Dantons Tod_ in early 1835 in his parents' house in Darmstadt, under threat of arrest for his authorship of _Der Hessische Landbote_. He adapted speeches and scenes directly from historical sources rather than inventing them, so the drama carries the documentary weight of the Dantonist trial.
 
-### 1. The Fatalism of History
+| Source                | Key Work / Event                             | Scope                                                 |
+| --------------------- | -------------------------------------------- | ----------------------------------------------------- |
+| **Georg Büchner**     | _Dantons Tod_ (1835)                         | The tragedy the production stages.                    |
+| **Karl Adolf Menzel** | _Geschichte unserer Zeit_ (Bd. 1-3, 1832)    | A chief historical source Büchner drew speeches from. |
+| **Louis Blanc**       | _Histoire de la Révolution Française_        | Source for the revolutionary record and rhetoric.     |
+| **Adolphe Thiers**    | _Histoire de la Révolution Française_ (1823) | Contemporary account of the trial of the Dantonists.  |
 
-Büchner's famous letter to his fiancée Minna Jaeglé (often called the "Fatalism Letter") forms the philosophical backbone of the play:
+## Restrictions
 
-> "I feel as if crushed under the horrible fatalism of history. I find in human nature a terrifying equality, in human relations an inescapable force, shared by all and none... The individual is only foam on the wave, greatness a mere accident, the power of genius a puppet play..."
+What the production refuses to model, and to whom it delegates.
 
-### 2. Epicureanism vs. Virtue
+- **Drama, not chronicle**: the production stages Büchner's play, not the historical record; where he compressed or adapted the trial and its speeches, the staging follows him, not the archive.
+- **The debate is staged, not adjudicated**: the epicurean and virtue positions are fielded as the play fields them; the production takes no side on the philosophy it dramatises.
+- **Cross-play context**: strict local isolation. Every link stays within this play's directory.
 
-The dramatic conflict is structured as an ideological debate:
+## Encoding
 
-- **Dantonists**: Representing an epicurean, individualist philosophy. They view life through the lens of pleasure, boredom, and existential dread.
-- **Robespierrists**: Representing a puritanical, Rousseauian ideal of civic virtue. They view political action as a moral duty, requiring the purification of the state through blood.
+Source to constraint, per file.
 
-## Primary Sources
-
-- Menzel, Karl Adolf: _Geschichte unserer Zeit_. Bd. 1-3, 1832.
-- Blanc, Louis: _Histoire de la Révolution Française_.
-- Thiers, Adolphe: _Histoire de la Révolution Française_, 1823.
+- **the production ([play_dantons_death.md](play_dantons_death.md))**: the root that chains the 4 plots and casts the company.
+- **the personas ([Georges Danton](persona_danton.md), [Maximilien Robespierre](persona_robespierre.md), [Saint-Just](persona_saint_just.md), [Camille Desmoulins](persona_camille.md), [Lucile Desmoulins](persona_lucile.md), [Marion](persona_marion.md))**: the figures the production casts.
+- **the positions ([der Volksvertreter](position_deputy.md), [der Ausschussbürger](position_triumvir.md), [der Pariser Bürger](position_citizen.md))**: the structural roles it fields.
+- **the pieces ([die Guillotine](piece_guillotine.md), [das Journal](piece_journal.md), [die Locke](piece_lock_of_hair.md))**: the objects it turns on.
+- **the places ([der Salon](place_salon.md), [der Nationalkonvent](place_convention.md), [das Tribunal](place_tribunal.md), [das Gefängnis](place_prison.md), [das Schafott](place_scaffold.md))**: where it plays.
+- **the plans ([der Säuberungsplan](plan_purification.md), [die Verteidigung](plan_die_verteidigung.md))**: the schemes it stages.
+- **the processes ([der Scheinprozess](process_mock_trial.md), [die Enthauptung](process_decapitation.md))**: the acts it turns on.
+- **the tenor ([der Ingrimm](pitch_fury.md), [die Stille vor dem Beil](pitch_still.md))**: the key it is played in.
