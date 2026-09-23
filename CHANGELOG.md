@@ -1,5 +1,12 @@
 # @chbrain/khai-plays-buechner
 
+## 0.20.7
+
+### Patch Changes
+
+- fcfa28b: Adopt the registry build-drift gate: bump `@chbrain/khai-tests` to `^0.1.27` and rebuild `registry.json` from source. The rebuild reconciles the registry to a fresh build (adding the `kind` discriminator each entry lacked) so the new conformance gate — which asserts the committed `registry.json` equals a fresh build — passes. Mechanical reconciliation; no content changes.
+- 0593c50: restructure the Danton's Death reference warrant from the legacy Historical Context/Key Themes/Primary Sources format into the LORE chapter set, preserving Buechner's 1835 composition context, the Fatalism Letter, the epicurean-vs-virtue axis, and the primary sources; and adopt khai-tests 0.1.28 (resolve-any link check + BOM-tolerant discovery)
+
 ## 0.20.6
 
 ### Patch Changes
